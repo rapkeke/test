@@ -40,3 +40,123 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1271606575_b280000_sl
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w140890010_b384000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BZD70Q2J/mnctv.png" group-title="Nas ID", MNC HD
 https://livetvhooq.akamaized.net/3127bcd58c9149b298b664b1ec828285/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/3127bcd58c9149b298b664b1ec828285/*/profile_0/chunklist.m3u8*~hmac=99928fa4d986fe186b165d47ed653d126327c06e772b228dbf2b4387beda9502
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZD70Q2J/mnctv.png" group-title="Nas ID", MNC TV HD
+http://id6.indostreamingtv.com/live/mnctv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/BZD70Q2J/mnctv.png" group-title="Nas ID", MNC TV SD
+https://livetvhooq.akamaized.net/3127bcd58c9149b298b664b1ec828285/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/3127bcd58c9149b298b664b1ec828285/*/profile_0/chunklist.m3u8*~hmac=99928fa4d986fe186b165d47ed653d126327c06e772b228dbf2b4387beda9502
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vW7UM5Q.jpg" group-title="Nas ID", MNC News
+http://202.80.222.130/000001/2/ch14041511564438196910/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.imgur.com/4KW8Qnr.png" group-title="Nas ID", RCTI 
+http://id6.indostreamingtv.com/live/rcti/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4KW8Qnr.png" group-title="Nas ID", RCTI 1
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4KW8Qnr.png" group-title="Nas ID", RCTI HD 1
+http://id6.indostreamingtv.com/live/rcti/index.m3u8
+
+#EXTINF:-1 tvg-id="#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQovlc2ggtIk180enZqZj6Mn9pfFimdwZMqVb57u9zuF3rW8R3f" group-title="Nas ID", Metro TV hq
+http://202.80.222.183/000001/2/ch14041511515576869807/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nas ID", METRO TV HD
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
+#EXTINF:-1 tvg-id="BeritaSatu.id" tvg-logo="https://i.imgur.com/MAqagBW.png" group-title="Nas ID", Berita Satu
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+#EXTINF:-1 tvg-id="BeritaSatu.id" tvg-logo="https://i.imgur.com/MAqagBW.png" group-title="Nas ID", Berita Satu HD
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QdwWh5Lt/indosiar.png" group-title="Nas ID", Indosiar Bola
+http://id1.indostreamingtv.com/live/indosiar/index.m3u8
+#EXTINF:-1 tvg-id="RajawaliTV.id" tvg-logo="https://i.imgur.com/kLCs9AL.png" group-title="Nas ID", Rajawali TV
+http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fb172pW8/rajawalitv.png" group-title="Nas ID", Rajawali TV 1
+http://202.80.222.171:80/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com&IASHttpSessionId=OTT2198020181031055334464619
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fb172pW8/rajawalitv.png" group-title="Nas ID", Rajawali TV 2
+http://202.80.222.130/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSYJnY02Pe7BC6P74P4qTdEJwU140YwSZz0IPdyL0h6w_lG7DVE" group-title="Nas ID",  TVRI Sport
+http://ott.TVri.co.id/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Vny9oOl.png" group-title="Nas ID", RRI NET
+http://36.89.47.217:11935/rrinet/live/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b1/MGSTV_%282015%29.png" group-title="Nas ID",Mgs TV
+http://wowza58.indostreamserver.com:1935/mgstv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ox8luDM.png" group-title="Nas ID", I-News TV
+http://202.80.222.171:80/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ox8luDM.png" group-title="Nas ID", I-News TV SD
+http://202.80.222.175/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HyCOcSE.png" group-title="Nas ID", CNN Indonesia SD
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HyCOcSE.png" group-title="Nas ID", CNN Indonesia HD
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/J4FL2h8M/cnnindonesia.png" group-title="Nas ID", CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HyCOcSE.png" group-title="Nas ID", CNN Indonesia 1
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1829045216_b384000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/h7RKQpQ.png" group-title="Nas ID", CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nas ID", CNBC Indonesia 1
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b280000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Nas ID", CNBC INDONESIA HD
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Usee" tvg-logo="[""]" group-title="Lokal ID",Usee Photo
+https://livetvhooq.akamaized.net/c37364587aeb4050bd51a0b8068e976f/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1569566771~exp=9007200824307762~acl=/c37364587aeb4050bd51a0b8068e976f/*/profile_2/chunklist.m3u8*~hmac=d444d67dbe78b01ffba4e087441366bd8243619ec7724cde63d884707c5a2cf9
+#EXTINF:-1 tvg-id="" tvg-name="Usee" tvg-logo="[""]" group-title="Lokal ID",Usee Prime
+https://livetvhooq.akamaized.net/8eb1108c494240ef94c5c8ae7e572c29/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1569566690~exp=9007200824307681~acl=/8eb1108c494240ef94c5c8ae7e572c29/*/profile_2/chunklist.m3u8*~hmac=cc4223b8bfbb07d175ad755bd540d8f9f273de2b47c7ddb69470a49c4be61140
+
+#EXTINF:-1 tvg-logo="[""]" group-title="Lokal ID", Jember 1 TV
+http://wowza60.indostreamserver.com:1935/jember1tv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M71vka1.png" group-title="Lokal ID", ADi TV Jogja
+http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0ibvxPb.png" group-title="Lokal ID", JAKARTA GLOBE
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0ibvxPb.png" group-title="Lokal ID", Jakarta Globe News
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4SW04fg.png" group-title="Lokal ID", JakTV
+http://202.80.222.182:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4SW04fg.png" group-title="Lokal ID", JakTV 1
+http://202.80.222.169:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4SW04fg.png" group-title="Lokal ID", JakTV 2
+http://202.80.222.130/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5kucCbs.png" group-title="Lokal ID", Jek TV
+http://122.248.43.138:1935/ch14/myStream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/skucDqd.png" group-title="Lokal ID", Jawa Pos TV
+http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SeY51BK.png" group-title="Lokal ID", TATV Solo
+http://video2.onlivestreaming.net/tatv/live.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nPMUC1e.png" group-title="Lokal ID", Tegar TV Lampung
+http://wms.klikhost.com:1935/tegartv/live/chunklist_w505057089.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FGj0kmR.png" group-title="Lokal ID", JTV
+http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pfiT7Kx.png" group-title="Lokal ID", JTV 1
+http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FGj0kmR.png" group-title="Lokal ID", JTV 2
+http://202.80.222.175/000001/2/ch00000090990000001731/1001.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QrmRJDw.png" group-title="Lokal ID", Arek TV
+http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jEXEBQL.png" group-title="Lokal ID", Bali TV
+http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QehJSaU.png" group-title="Lokal ID", Prima TV Banjarmasin
+http://primatv.onlivestreaming.net/primatv/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5GjUJm.png" group-title="Lokal ID", TVKU
+http://103.30.1.14:8080/hls/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ebKIlkd.png" group-title="Lokal ID", Radar TV Tasikmalaya
+http://radartasikmalaya.onlivestreaming.net/radartasikmalaya/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="[""]" group-title="Lokal ID", Cahaya Banten
+http://103.23.201.170:1935/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MNKrCPr.png" group-title="Lokal ID", Padang TV
+https://video2.onlivestreaming.net/robot/livestream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lokal ID", Usee Prime
+https://livetvhooq.akamaized.net/8eb1108c494240ef94c5c8ae7e572c29/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1569566690~exp=9007200824307681~acl=/8eb1108c494240ef94c5c8ae7e572c29/*/profile_2/chunklist.m3u8*~hmac=cc4223b8bfbb07d175ad755bd540d8f9f273de2b47c7ddb69470a49c4be61140
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lokal ID", JTV SURABAYA
+http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lokal ID", Bali TV
+http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=000001.live_hls.zte.com
