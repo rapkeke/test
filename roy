@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1,DISNEY JUNIOR ID
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+
+#EXTINF:-1,HITS ID
+http://210.210.155.35/session/a06e88b2-0598-11e9-a62b-b82a72d63267/uq2663/h/h37/01.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTGCJ37JrezpSDpXAkk_hRz1ebJ1sUqHb5aqaYWV_bAyPxrwP18" group-title="Nas ID", nusantara TV
+https://v6.siar.us/nusantaratv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HsqNM8Hc/globaltv.png" group-title="Nas ID", Global TV
+http://id6.indostreamingtv.com/live/tv1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HsqNM8Hc/globaltv.png" group-title="Nas ID", Global TV SD
+https://livetvhooq.akamaized.net/23cf552372cb459795ca683f9cc306d8/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/23cf552372cb459795ca683f9cc306d8/*/profile_1/chunklist.m3u8*~hmac=41e55cd90f1806ca59b56a1c266cc150ab4d70047b87019fc7db29c07c678d42
+
+#EXTINF:-1 tvg-id="TVOne.id" tvg-logo="https://i.imgur.com/kGlah4c.png" group-title="Nas ID", TV One 2
+http://id1.indostreamingtv.com/live/tv444/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/B6ZFwp58/sctv.png" group-title="Nas ID", SCTV
+http://id1.indostreamingtv.com/live/sctv/index.m3u8
