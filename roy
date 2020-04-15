@@ -438,3 +438,172 @@ http://61.58.60.230:9319/live/244.m3u8
 
 #EXTINF:-1,靖洋戲劇
 http://61.58.60.230:9319/live/203.m3u8
+#EXTINF:-1,Duck TV
+http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
+
+#EXTINF:-1,Cbeebies HD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/3131
+
+#EXTINF:-1,Disney Channel FHD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/3410
+
+#EXTINF:-1,Disney Jr.
+http://nitro.ltd:25461/StevenD2020/StevFr2019/3194
+
+#EXTINF:-1,Disney XD
+http://nitro.ltd:25461/StevenD2020/StevFr2019/3168
+
+#EXTINF:-1,Nick Jr
+http://nitro.ltd:25461/StevenD2020/StevFr2019/3380
+
+#EXTINF:-1,Nick Jr Too
+http://nitro.ltd:25461/StevenD2020/StevFr2019/3378
+
+#EXTINF:-1,Nickelodeon
+http://nitro.ltd:25461/StevenD2020/StevFr2019/3384
+
+#EXTINF:-1,Nicktoons
+http://nitro.ltd:25461/StevenD2020/StevFr2019/3434
+
+#EXTINF:-1,RTE jr
+http://nitro.ltd:25461/StevenD2020/StevFr2019/3148
+
+#EXTINF:-1,Toon tv
+http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/3360
+
+#EXTINF:-1,Animax hd
+http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/40282
+
+#EXTINF:-1,Baby first
+http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/40276
+
+#EXTINF:-1,Carton Network
+http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/40269
+
+#EXTINF:-1,PH: Nick Jr
+http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/40240
+
+#EXTINF:-1,PH: Nickelodeon
+http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/40239
+
+#EXTINF:-1,MC: Kidz Bop
+http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42547
+
+#EXTINF:-1,MC: Kidz Only!
+http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/18321
+
+#EXTINF:-1,OSN-Disney
+http://iptv.am000.tv:8000/a03971/2ee48d/699
+
+#EXTINF:-1,OSN-Kids
+http://iptv.am000.tv:8000/a03971/2ee48d/698
+
+#EXTINF:-1,OSN:Kids-Zone
+http://iptv.am000.tv:8000/a03971/2ee48d/4483
+
+#EXTINF:-1,OSN:KIDS
+http://iptv.am000.tv:8000/a03971/2ee48d/4485
+
+#EXTINF:-1,OSN:DISNEY-Junior
+http://iptv.am000.tv:8000/a03971/2ee48d/4486
+
+#EXTINF:-1,OSN:Nickelodeon-JR
+http://iptv.am000.tv:8000/a03971/2ee48d/4487
+
+#EXTINF:-1,Canal Panda
+http://nitro.ltd:25461/StevenD2020/StevFr2019/3530
+
+#EXTINF:-1,3ABN KIDS TV
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
+
+#EXTINF:-1,Baby First
+http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+
+#EXTINF:-1,BBC Cbeebies
+http://51.52.156.22:8888/http/003
+
+#EXTINF:-1,Boruto TV
+http://ws.flv.nimo.tv/live/su1599512427615r0c4ed6161b23b4d2892824141e30f13b_high.flv
+
+#EXTINF:-1,Captain Tsubasa 2019 TV
+http://ws.flv.nimo.tv/live/su1599512427630rb9a94d5f0fa60cec1044ec85fbd76da7_high.flv
+
+#EXTINF:-1,DETECTIFE CONAN 1 TV
+http://ws.flv.nimo.tv/live/su1599512427577r176a7daa9302ccecdda91e18ea9be73e_high.flv
+
+#EXTINF:-1,DETECTIFE CONAN 2 TV
+http://ws.flv.nimo.tv/live/su1599512427561r32f86ec41ff353df5fd649beb68e6388_high.flv
+
+#EXTINF:-1,DETECTIFE CONAN 3 TV
+http://ws.flv.nimo.tv/live/su1599512427572re6b4d2bfbd968a965107eafabdad5184_high.flv
+
+#EXTINF:-1,DORAEMON MOVIE
+http://ws.flv.nimo.tv/live/su1599512427578r00bac8d56488f6ca2d6915fb95ab88e8_high.flv?fluxustv.flv
+
+#EXTINF:-1,DORAEMON SERIES
+http://ws.flv.nimo.tv/live/su1599512427553r467469e0bc83c5de73f4d151682fb530_high.flv?fluxustv.flv
+
+#EXTINF:-1,DRAGON BALL KAI TV
+http://ws.flv.nimo.tv/live/su1599512427624rcac6e81bb9277a4fe258348bcfa63c82_high.flv
+
+#EXTINF:-1,DRAGON BALL Z TV
+https://ws.flv.nimo.tv/live/su1599512427558r464ce7577525c715f04419095ae6abeb_high.flv
+
+#EXTINF:-1,Duck TV
+http://livecdnh3.tvanywhere.ae/hls/duck/04.m3u8
+
+#EXTINF:-1,Hodhod
+http://51.158.184.234/hls/stream.m3u8
+
+#EXTINF:-1,HUNTER X HUNTER
+http://ws.flv.nimo.tv/live/su1599512427562r89436fcde4d4278fc2e87c8600d465e1_high.flv
+
+#EXTINF:-1,INUYASHA
+http://ws.flv.nimo.tv/live/su1599512427565r2d969c0672b18115ac596b0bdea6e535_high.flv
+
+#EXTINF:-1,KTV Kids
+https://kwmedia.hibridmedia.com/kwmedia/kwtvkids_dabr/kwmedia/kwtvkids_1080p/chunks.m3u8
+
+#EXTINF:-1,KurdMax Papule
+http://31.14.40.139:1935/liveTrans/Kurmanci/chunklist.m3u8
+
+#EXTINF:-1,Kuriakos Kids
+http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8
+
+#EXTINF:-1,Lale
+http://stream.atr.ua/lale//live/index.m3u8
+
+#EXTINF:-1,LARVA TV
+http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv
+
+#EXTINF:-1,Miao Mi
+https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/04.m3u8
+
+#EXTINF:-1,ONE PIECE TV
+http://ws.flv.nimo.tv/live/su1599512427600r01fea2f56268e5a32e8e1d5c6dad7ede_high.flv
+
+#EXTINF:-1,ONE PUNCH MAN
+http://ws.flv.nimo.tv/live/su1599512427559r6319ab6314a165d28a228bf5917d1fe0_high.flv
+
+#EXTINF:-1,Persiana Junior
+http://51.158.74.129/hls/stream.m3u8
+
+#EXTINF:-1,Sat7 Kids
+http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/chunklist_w918104804.m3u8
+
+#EXTINF:-1,Taha TV
+http://tahalv.cdn.octivid.com/taha/smil:taha.smil/playlist.m3u8
+
+#EXTINF:-1,Tom & Jerry TV
+https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
+
+#EXTINF:-1,TOTALLY SPIES
+http://ws.flv.nimo.tv/live/su1599512427585r47e5a2be5769b2ce776bc4a992c9f6fd_high.flv
+
+#EXTINF:-1,WOW!TV HD
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+
+
+
+#EXTINF:-1,http://61.58.60.230:9319/live/206.m3u8
+http://61.58.60.230:9319/live/206.m3u8
