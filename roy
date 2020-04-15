@@ -349,4 +349,92 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1,CNN International Asia Pacific
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+#EXTINF:-1,24/7 Retro TV
+http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8
 
+#EXTINF:-1,Akudji
+http://stream1.cybergame.tv:8080/live/akudjio.m3u8
+
+#EXTINF:-1,B4U Movies
+http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/index.m3u8
+
+#EXTINF:-1,B4U Plus
+http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
+
+#EXTINF:-1,Classics Marathi
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ymarcla.stream_all/playlist.m3u8
+
+#EXTINF:-1,Classics Tamil
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytamcla.stream_all/playlist.m3u8
+
+#EXTINF:-1,Classics Telugu
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytelcla.stream_all/playlist.m3u8
+
+#EXTINF:-1,Comedy Telugu
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytelcom.stream_all/playlist.m3u8
+
+#EXTINF:-1,Groovy
+http://bit.ly/2p6JqSo
+
+#EXTINF:-1,iFILM Arabic
+https://live2.presstv.com/ifilmlive/smil:ifilmar.smil/chunklist_w1579167097_b644100_slen.m3u8
+
+#EXTINF:-1,iFILM English
+http://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/chunklist_b1096000.m3u8
+
+#EXTINF:-1,iFILM English
+http://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/index.m3u8
+
+#EXTINF:-1,iFILM English
+https://bozztv.com/36bay2/gin/giniko_ifilmenglish_800kb_36bay2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,iFILM Persian 1
+https://live2.presstv.com/ifilmlive/smil:ifilmtv.smil/playlist.m3u8
+
+#EXTINF:-1,iFILM Persian 2
+http://mn-nl.mncdn.com/ifilm/smil:ifilmfa2.smil/chunklist_b1096000.m3u8
+
+#EXTINF:-1,iFILM Persian 2
+http://mn-nl.mncdn.com/ifilm/smil:ifilmfa2.smil/index.m3u8
+
+#EXTINF:-1,Kuriakos Cine
+http://c2.manasat.com:1935/kcine/kcine3/FluxusTV.m3u8?fluxustv.m3u8
+
+#EXTINF:-1,Premium Marathi
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ymarpre.stream_all/playlist.m3u8
+
+#EXTINF:-1,RTSH Film
+http://79.106.48.2/live/rtsh_film_ott_p3/playlist.m3u8
+
+#EXTINF:-1,Star Movies HD (Middle East)
+http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8
+
+#EXTINF:-1,Star Movies HD (Middle East)
+http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
+
+#EXTINF:-1,Star Movies HD (Middle East)
+http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
+
+#EXTINF:-1,Sur Sagar TV
+http://sursagar24.dyndns.tv:8080/sstv/720p/index.m3u8
+
+#EXTINF:-1,The Film Detective
+https://distro.akamaized.net/indexfd_1280x720.m3u8
+
+#EXTINF:-1,Wixlar
+http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
+
+#EXTINF:-1,Zee Aflam
+http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8
+
+#EXTINF:-1,Рен ТВ HD
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
+
+#EXTINF:-1,Рен ТВ International
+http://sc.id-tv.kz/RenTV_36_37.m3u8
+
+#EXTINF:-1,靖天映畫
+http://61.58.60.230:9319/live/244.m3u8
+
+#EXTINF:-1,靖洋戲劇
+http://61.58.60.230:9319/live/203.m3u8
