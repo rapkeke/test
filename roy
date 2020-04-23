@@ -1,11 +1,5 @@
 #EXTM3U
-#EXTINF:-1,DISNEY JUNIOR ID
-http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 
-#EXTINF:-1,HITS ID
-http://210.210.155.35/session/a06e88b2-0598-11e9-a62b-b82a72d63267/uq2663/h/h37/01.m3u8
-
-#EXTM3U
 #EXTINF:-1,RCTI
 http://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005902~exp=9007200790746893~acl=/d182c52b34984076be9817e526e2bb5e/*/profile_0/chunklist.m3u8*~hmac=d3f38106d3b48f97b8cd3ff97e7e6d25a3f843a0875815c231a14b29bdd3ef34
 
@@ -15,8 +9,6 @@ http://livetvhooq.akamaized.net/3127bcd58c9149b298b664b1ec828285/ap-southeast-1/
 #EXTINF:-1,GTV
 http://livetvhooq.akamaized.net/23cf552372cb459795ca683f9cc306d8/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/23cf552372cb459795ca683f9cc306d8/*/profile_1/chunklist.m3u8*~hmac=41e55cd90f1806ca59b56a1c266cc150ab4d70047b87019fc7db29c07c678d42
 
-#EXTINF:-1,Indosiar
-http://203.153.218.28:9981/stream/channelid/261435212?ticket=B10B2C8D7C5EF65FE04AEAF62383D6B3647ED987&profile=pass
 
 #EXTINF:-1,SCTV
 http://id1.indostreamingtv.com:80/live/sctv/index.m3u8
@@ -159,15 +151,10 @@ http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
 #EXTINF:-1,TAHFIDZ TV
 http://119.235.249.58:1935/tahfidztv/live/playlist.m3u8
 
-#EXTINF:-1,DHAMMA TV
-http://119.110.74.237:1935/live/dhammawebtv.stream/playlist.m3u8
 
-#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTGCJ37JrezpSDpXAkk_hRz1ebJ1sUqHb5aqaYWV_bAyPxrwP18" group-title="Nas ID", nusantara TV
 https://v6.siar.us/nusantaratv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HsqNM8Hc/globaltv.png" group-title="Nas ID", Global TV
-http://id6.indostreamingtv.com/live/tv1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HsqNM8Hc/globaltv.png" group-title="Nas ID", Global TV SD
 https://livetvhooq.akamaized.net/23cf552372cb459795ca683f9cc306d8/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/23cf552372cb459795ca683f9cc306d8/*/profile_1/chunklist.m3u8*~hmac=41e55cd90f1806ca59b56a1c266cc150ab4d70047b87019fc7db29c07c678d42
 
@@ -195,18 +182,10 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w140890010_b384000_sle
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BZD70Q2J/mnctv.png" group-title="Nas ID", MNC HD
 https://livetvhooq.akamaized.net/3127bcd58c9149b298b664b1ec828285/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/3127bcd58c9149b298b664b1ec828285/*/profile_0/chunklist.m3u8*~hmac=99928fa4d986fe186b165d47ed653d126327c06e772b228dbf2b4387beda9502
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZD70Q2J/mnctv.png" group-title="Nas ID", MNC TV HD
-http://id6.indostreamingtv.com/live/mnctv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/BZD70Q2J/mnctv.png" group-title="Nas ID", MNC TV SD
 https://livetvhooq.akamaized.net/3127bcd58c9149b298b664b1ec828285/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/3127bcd58c9149b298b664b1ec828285/*/profile_0/chunklist.m3u8*~hmac=99928fa4d986fe186b165d47ed653d126327c06e772b228dbf2b4387beda9502
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vW7UM5Q.jpg" group-title="Nas ID", MNC News
 http://202.80.222.130/000001/2/ch14041511564438196910/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.imgur.com/4KW8Qnr.png" group-title="Nas ID", RCTI 
-http://id6.indostreamingtv.com/live/rcti/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4KW8Qnr.png" group-title="Nas ID", RCTI 1
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4KW8Qnr.png" group-title="Nas ID", RCTI HD 1
-http://id6.indostreamingtv.com/live/rcti/index.m3u8
 
 #EXTINF:-1 tvg-id="#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQovlc2ggtIk180enZqZj6Mn9pfFimdwZMqVb57u9zuF3rW8R3f" group-title="Nas ID", Metro TV hq
 http://202.80.222.183/000001/2/ch14041511515576869807/index.m3u8?virtualDomain=000001.live_hls.zte.com
@@ -214,8 +193,6 @@ http://202.80.222.183/000001/2/ch14041511515576869807/index.m3u8?virtualDomain=0
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
 #EXTINF:-1 tvg-id="BeritaSatu.id" tvg-logo="https://i.imgur.com/MAqagBW.png" group-title="Nas ID", Berita Satu
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
-#EXTINF:-1 tvg-id="BeritaSatu.id" tvg-logo="https://i.imgur.com/MAqagBW.png" group-title="Nas ID", Berita Satu HD
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QdwWh5Lt/indosiar.png" group-title="Nas ID", Indosiar Bola
 http://id1.indostreamingtv.com/live/indosiar/index.m3u8
@@ -226,10 +203,6 @@ http://202.80.222.171:80/000001/2/ch00000090990000001716/index.m3u8?virtualDomai
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fb172pW8/rajawalitv.png" group-title="Nas ID", Rajawali TV 2
 http://202.80.222.130/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSYJnY02Pe7BC6P74P4qTdEJwU140YwSZz0IPdyL0h6w_lG7DVE" group-title="Nas ID",  TVRI Sport
-http://ott.TVri.co.id/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Vny9oOl.png" group-title="Nas ID", RRI NET
-http://36.89.47.217:11935/rrinet/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b1/MGSTV_%282015%29.png" group-title="Nas ID",Mgs TV
 http://wowza58.indostreamserver.com:1935/mgstv/live/playlist.m3u8
 
@@ -262,10 +235,7 @@ https://livetvhooq.akamaized.net/8eb1108c494240ef94c5c8ae7e572c29/eu-central-1/5
 http://wowza60.indostreamserver.com:1935/jember1tv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M71vka1.png" group-title="Lokal ID", ADi TV Jogja
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0ibvxPb.png" group-title="Lokal ID", JAKARTA GLOBE
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0ibvxPb.png" group-title="Lokal ID", Jakarta Globe News
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4SW04fg.png" group-title="Lokal ID", JakTV
 http://202.80.222.182:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4SW04fg.png" group-title="Lokal ID", JakTV 1
@@ -273,14 +243,11 @@ http://202.80.222.169:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomai
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4SW04fg.png" group-title="Lokal ID", JakTV 2
 http://202.80.222.130/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5kucCbs.png" group-title="Lokal ID", Jek TV
-http://122.248.43.138:1935/ch14/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/skucDqd.png" group-title="Lokal ID", Jawa Pos TV
 http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SeY51BK.png" group-title="Lokal ID", TATV Solo
 http://video2.onlivestreaming.net/tatv/live.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nPMUC1e.png" group-title="Lokal ID", Tegar TV Lampung
-http://wms.klikhost.com:1935/tegartv/live/chunklist_w505057089.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FGj0kmR.png" group-title="Lokal ID", JTV
 http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pfiT7Kx.png" group-title="Lokal ID", JTV 1
@@ -299,22 +266,11 @@ http://primatv.onlivestreaming.net/primatv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h5GjUJm.png" group-title="Lokal ID", TVKU
 http://103.30.1.14:8080/hls/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ebKIlkd.png" group-title="Lokal ID", Radar TV Tasikmalaya
-http://radartasikmalaya.onlivestreaming.net/radartasikmalaya/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="[""]" group-title="Lokal ID", Cahaya Banten
-http://103.23.201.170:1935/live/livestream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MNKrCPr.png" group-title="Lokal ID", Padang TV
 https://video2.onlivestreaming.net/robot/livestream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lokal ID", Usee Prime
 https://livetvhooq.akamaized.net/8eb1108c494240ef94c5c8ae7e572c29/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1569566690~exp=9007200824307681~acl=/8eb1108c494240ef94c5c8ae7e572c29/*/profile_2/chunklist.m3u8*~hmac=cc4223b8bfbb07d175ad755bd540d8f9f273de2b47c7ddb69470a49c4be61140
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lokal ID", JTV SURABAYA
-http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lokal ID", Bali TV
-http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=000001.live_hls.zte.co
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/59/ADiTV_Jogja.png" tvg-country="ID" tvg-url="" group-title="Indonesian",ADiTV (Yogyakarta)
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
@@ -329,8 +285,7 @@ http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040362.png" tvg-country="ID" tvg-url="" group-title="Indonesian",BeritaSatu WORLD
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040375.jpg" tvg-country="ID" tvg-url="" group-title="Indonesian",Cahaya TV Banten
-http://103.23.201.170:1935/live/livestream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" tvg-country="ID" tvg-url="" group-title="Indonesian",Channel NewsAsia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" tvg-country="ID" tvg-url="" group-title="Indonesian",CLUBING TV
@@ -347,8 +302,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w672934803_b3840
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" tvg-country="ID" tvg-url="" group-title="Indonesian",FAIL ARMY
 https://livetvhooq.akamaized.net:443/166d36fe333a41e7846c47c07aa4919c/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573599949~exp=9007200828340940~acl=/166d36fe333a41e7846c47c07aa4919c/*/profile_0/chunklist.m3u8*~hmac=f6dc30f96b4ccc9366031d95a30921884645efb4bedd2caf28eadee41e95bfd8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" tvg-country="ID" tvg-url="" group-title="Indonesian",GTV
-http://id6.indostreamingtv.com/live/tv1/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://devanyahya.web.id/logo_globaltv_big1.png" tvg-country="ID" tvg-url="" group-title="Indonesian",GTV 2
 https://livetvhooq.akamaized.net/23cf552372cb459795ca683f9cc306d8/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/23cf552372cb459795ca683f9cc306d8/*/profile_1/chunklist.m3u8*~hmac=41e55cd90f1806ca59b56a1c266cc150ab4d70047b87019fc7db29c07c678d42
 
@@ -380,8 +334,7 @@ http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040383.png" tvg-country="ID" tvg-url="" group-title="Indonesian",RAI YOYO
 http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" tvg-country="ID" tvg-url="" group-title="Indonesian",RCTI
-http://id6.indostreamingtv.com/live/rcti/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/09/RCTI_MNC-Group.png" tvg-country="ID" tvg-url="" group-title="Indonesian",RCTI 2
 https://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005902~exp=9007200790746893~acl=/d182c52b34984076be9817e526e2bb5e/*/profile_0/chunklist.m3u8*~hmac=d3f38106d3b48f97b8cd3ff97e7e6d25a3f843a0875815c231a14b29bdd3ef34
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" tvg-country="ID" tvg-url="" group-title="Indonesian",Reformed 21
@@ -439,14 +392,12 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_mid
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MZRN5BYP/M10.png" group-title="LOVE?FASHION", FASHION TOP MODEL
 http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZRN5BYP/M10.png" group-title="LOVE?FASHION", FASHION DESTINATION
-http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MZRN5BYP/M10.png" group-title="LOVE?FASHION", FASHION MIDNIGHT
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MZRN5BYP/M10.png" group-title="LOVE?FASHION", JASMIN TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="KOREA?IPTV", (DOUBTFUL) CGTN DOCUMENTARY
-http://45.126.83.51/qwr9ew/s/s20/index2.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.freeetv.com/images/tv8/tvchosum.jpg" group-title="KOREA AN", (ONLINE) TV-CHOSUN
 http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NMZFLdc8/D5.png" group-title="KOREA AN", (ONLINE) ARIRANG KOREA
@@ -494,8 +445,7 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklis
 #EXTINF:-1,BERITA SATU WORLD
 #EXTINF:-1,BMS TV
 http://bmstv.onlivestreaming.net/bmstv/livestream/playlist.m3u8
-#EXTINF:-1,ADI TV YOGYAKARTA
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
+
 #EXTINF:-1,HOME&LIVING
 #EXTINF:-1,Reformed21 HD
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
@@ -635,9 +585,6 @@ http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vieY15w.png" group-title="INDIA",Mirror Now
 http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CvBgH38.png" group-title="INDIA",Nagara TV (CA)
-http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lOXOb18.png" group-title="INDIA",News 24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
 
@@ -652,9 +599,6 @@ http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/chunklist_w1802293946.m3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u1qoF6k.png" group-title="INDIA",Sardari TV (CA)
 http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qThivbs.png" group-title="INDIA",Sri Krishna TV
-http://bsk.livebox.co.in/srikrishnatverdhls/srikrishnatverd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wv8fKAs.png" group-title="INDIA",Steelbird Music
 http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
@@ -897,24 +841,6 @@ http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/42547
 #EXTINF:-1,MC: Kidz Only!
 http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/18321
 
-#EXTINF:-1,OSN-Disney
-http://iptv.am000.tv:8000/a03971/2ee48d/699
-
-#EXTINF:-1,OSN-Kids
-http://iptv.am000.tv:8000/a03971/2ee48d/698
-
-#EXTINF:-1,OSN:Kids-Zone
-http://iptv.am000.tv:8000/a03971/2ee48d/4483
-
-#EXTINF:-1,OSN:KIDS
-http://iptv.am000.tv:8000/a03971/2ee48d/4485
-
-#EXTINF:-1,OSN:DISNEY-Junior
-http://iptv.am000.tv:8000/a03971/2ee48d/4486
-
-#EXTINF:-1,OSN:Nickelodeon-JR
-http://iptv.am000.tv:8000/a03971/2ee48d/4487
-
 #EXTINF:-1,Canal Panda
 http://nitro.ltd:25461/StevenD2020/StevFr2019/3530
 
@@ -1007,8 +933,3 @@ http://ws.flv.nimo.tv/live/su1599512427585r47e5a2be5769b2ce776bc4a992c9f6fd_high
 
 #EXTINF:-1,WOW!TV HD
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
-
-
-
-#EXTINF:-1,http://61.58.60.230:9319/live/206.m3u8
-http://61.58.60.230:9319/live/206.m3u8
