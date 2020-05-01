@@ -58,3 +58,49 @@ http://king-box.club:80/live/NasaRSTRM/ZdzgBC0g2h/4016.m3u8
 http://king-box.club:80/live/NasaRSTRM/ZdzgBC0g2h/3968.m3u8
 #EXTINF:-1,SR: TV 1000
 http://king-box.club:80/live/NasaRSTRM/ZdzgBC0g2h/8989.m3u8
+#EXTINF:0,EUROSPORT 1
+http://163.172.179.78:8081/tv/eurosport-1/playlist.m3u8
+
+#EXTINF:0,MOTO GP 1
+http://video.detik.com/trans7/smil:trans7.smil/chunklist_w1925750281_b384000_sleng.m3u8
+#EXTINF:0,RTSH 1 HD
+http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
+#EXTINF:0,RED BULL TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:0,H2
+http://livecdnh1.tvanywhere.ae:80/hls/h2/03.m3u8
+#EXTINF:0, Animal Planet
+http://ott.artmott.com/AnimalPlanet/tracks-v1a1/mono.m3u8
+
+#EXTINF:0,NAT GEO
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/03.m3u8
+#EXTINF:0,NAT GEO PEOPLE
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/03.m3u8
+#EXTINF:0,NAT GEO WILD
+http://livecdnh1.TVanywhere.ae/hls/nat_geo_wild/03.m3u8?
+#EXTINF:0,DW
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:0,Discovery Science
+http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
+#EXTINF:0,Discovery Turbo
+http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
+#EXTINF:0,D sports
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+
+#EXTINF:0,Tom & Jerry TV
+https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
+#EXTINF:0,LARVA TV
+http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv
+#EXTINF:0,BABY FIRST
+http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+#EXTINF:0,BOOMERANG
+http://livecdnh3.tvanywhere.ae/hls/boomerang/03.m3u8
+#EXTINF:0,DUCK TV
+http://livecdnh3.tvanywhere.ae/hls/duck/03.m3u8
+
+#EXTINF:0, TAHFIDZ TV
+http://119.235.249.58:1935/tahfidztv/live/playlist.m3u8
+
+#EXTINF:0, TAWAF TV
+http://stream2.ninmedia.tv:1935/tawaftv/rtmp.stream_360p/playlist.m3u8
