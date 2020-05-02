@@ -565,3 +565,1054 @@ http://cdn1.live-tv.od.ua:8081/ktkod/ktkod-abr/ktkod/ktkod/playlist.m3u8
 #EXTINF:-1 ,Pershij Dilovij (Opt-2)
 http://cdn1.live-tv.od.ua:8081/riood/riood-abr/riood/riood/playlist.m3u8
 
+
+#EXTINF:-1 ,Zdorove Odessa
+http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/playlist.m3u8
+#EXTINF:-1 ,TGRT Belgesel TV
+http://cdn1.streamencoding.com:1935/tgrt_belgesel/amlst:live-30/playlist.m3u8
+#EXTINF:-1 ,BHTV (Opt-2)
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:-1 ,7 Kanal Odessa
+http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
+#EXTINF:-1 ,Kilia Kontakt
+http://cdn10.live-tv.od.ua:8081/kontaktod/kontaktod-abr-lq/playlist.m3u8
+#EXTINF:-1 ,TIS Odessa
+http://cdn10.live-tv.od.ua:8081/riood/tisod-abr-lq/riood/tisod504/playlist.m3u8
+#EXTINF:-1 ,RTV Noordoost Friesland
+http://cdn15.streampartner.nl:1935/rtvnof2/live/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,Channel Y
+http://cdn19.live247stream.com/channely/tv/playlist.m3u8
+#EXTINF:-1 ,BHTV (Opt-1)
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:-1 ,Central TV
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
+#EXTINF:-1 ,Ovacion
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1 ,DNO Radio (Opt-2)
+http://cdn22.streampartner.nl/streektv/streektv/playlist.m3u8
+#EXTINF:-1 ,Watan-E-Maa TV
+http://cdn24.live247stream.com/watanemaa/tv/playlist.m3u8
+#EXTINF:-1 ,Urdu TV Toronto (CA)
+http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
+#EXTINF:-1 ,Subrang TV (US) (Opt-1)
+http://cdn61.liveonlineservices.com/hls/subrang.m3u8
+#EXTINF:-1 ,Canada One (CA)
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+#EXTINF:-1 ,Nagara TV (CA)
+http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
+#EXTINF:-1 ,WWE Network
+http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,British Muslim TV
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/index.m3u8
+#EXTINF:-1 ,Vision 4
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
+#EXTINF:-1 ,Weather Nation
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:-1 ,Hiru TV
+http://cdncities.com/8012/8012/playlist.m3u8
+#EXTINF:-1 ,ITN
+http://cdncities.com/itndvr2/itndvr2/playlist.m3u8
+#EXTINF:-1 ,TV Peru (Opt-1)
+http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:-1 ,TV Peru (Opt-2)
+http://cdnh4.iblups.com/hls/irtp.m3u8
+#EXTINF:-1 ,IPe
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:-1 ,TVPeru Noticias
+http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
+#EXTINF:-1 ,Operator Radio (New!)
+http://cdn-hlm-1.streamnerd.nl/live/operator/playlist.m3u8
+
+#EXTINF:-1 ,Alaoula (Opt-2)
+http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
+#EXTINF:-1 ,Alaoula (Opt-3)
+http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
+#EXTINF:-1 ,Almaghribia
+http://cdn-hls.globecast.tv/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
+#EXTINF:-1 ,Arrabiaa (Opt-1)
+http://cdn-hls.globecast.tv/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
+#EXTINF:-1 ,Arryadia
+http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:-1 ,Assadissa
+http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8
+#EXTINF:-1 ,Tamazight
+http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
+#EXTINF:-1 ,Kanal 10 Norge
+http://cdn-kanal10.crossnet.net/kanal10no/live1/playlist.m3u8
+#EXTINF:-1 ,Kanal 10 SV
+http://cdn-kanal10.crossnet.net:1935/kanal10/mp4:mpegts.stream/playlist.m3u8
+#EXTINF:-1 ,25 TV
+http://cdnlive.shooowit.net/25televisiolive/25tv.smil/.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,RTPA Asturias (Opt-2)
+http://cdnlive.shooowit.net/rtpalive/directo.smil/.m3u8
+#EXTINF:-1 ,QVC Japan
+http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+#EXTINF:-1 ,TV2 Fyn
+http://cdn-lt-hls-vod.tv2fyn.dk/fhls/p/1966291/sp/196629100/serveFlavor/entryId/0_yct7rqn3/v/2/flavorId/0_h2wfmuqm/name/a.mp4/index.m3u8
+#EXTINF:-1 ,TV2 Lorry
+http://cdn-lt-hls-vod.tv2lorry.dk/fhls/p/2045321/sp/204532100/serveFlavor/entryId/0_0u9letdh/v/1/flavorId/0_p5f7q6yf/name/a.mp4/index.m3u8
+#EXTINF:-1 ,TV Syd
+http://cdn-lt-live.tvsyd.dk/dc-1/live/hls/p/1956351/e/0_e9slj9wh/t/ut3_n5VQ1FqzlqMhwbQmJg/index-s32.m3u8
+#EXTINF:-1 ,Bloomberg Television
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:-1 ,Bloomberg TV
+http://cdn-videos.akamaized.net/btv/desktop/akamai/us/live/primary.m3u8
+
+#EXTINF:-1 ,Shanson TV (Opt-2)
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
+
+#EXTINF:-1 ,Cinevision 19
+http://cinevision01.streamprolive.com/hls/live.m3u8
+#EXTINF:-1 ,Fehervar TV
+http://cloudfront44.lexanetwork.com:1730/HDE016/hls/livestream.sdp.m3u8
+#EXTINF:-1 ,Budapest Europa Televizio
+http://cloudfront44.lexanetwork.com:1730/HDE021/hls/livestream.sdp.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,Onda Algeciras TV
+http://cloudtv.provideo.es/live/algecirastv-livestream.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,Alcarria TV (Opt-2)
+http://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,Central Luzon TV 36
+http://cltv36-lh.akamaihd.net/i/cltv36_1@300961/master.m3u8
+#EXTINF:-1 ,Television del Este
+http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,HM TV 33
+http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/chunks.m3u8
+#EXTINF:-1 ,Pu�al TV
+http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
+#EXTINF:-1 ,TVS Canal 22
+http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
+#EXTINF:-1 ,California Music Channel
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
+#EXTINF:-1 ,ABC 2 Baton Rouge LA (WBRZ-HD)
+http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
+#EXTINF:-1 ,Baton Rouge - WBRZ 2 Plus
+http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 ,RiberaTV
+http://common01.todostreaming.es/live/ribera-livestream.m3u8
+#EXTINF:-1 ,Canal San Roque
+http://common01.todostreaming.es/live/sanroque-livestream.m3u8
+#EXTINF:-1 ,Canal 25 Barbastro
+http://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,Canal Parlamento (Opt-2)
+http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,Canal Parlamento (Opt-1)
+http://congresodirecto-f.akamaihd.net:80/i/congreso6_1@54665/master.m3u8
+#EXTINF:-1 ,13 Max
+http://coninfo.net:1935/13maxhd/live_720p/chunklist_w352743074.m3u8
+#EXTINF:-1 ,Ciudad TV Chaco
+http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
+
+#EXTINF:-1 ,Dream Channel (New!)
+http://connectiktv.ddns.net:5000/dreamchannel/dreamchannel/chunklist.m3u8
+#EXTINF:-1 ,MyTV Channel (New!)
+http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/chunklist.m3u8
+
+#EXTINF:-1 ,Radio Contact 102.2 FM Brussels
+http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
+#EXTINF:-1 ,Beto TV
+http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
+
+#EXTINF:-1 ,TBD
+http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
+
+#EXTINF:-1 ,Ketnet Junior
+http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
+#EXTINF:-1 ,FOX 28 Savannah GA (WTGS)
+http://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
+
+#EXTINF:-1 ,CRI T�rk (CN)
+http://cri.aa.net.tr:1935/belgesel/belgesel/chunklist_w120871004.m3u8
+#EXTINF:-1 ,Fairfax Public Access
+http://cs.ebmcdn.net/eastbay-live-hs-1/fairfax-pull/_definst_/mp4:fairfax.stream/chunklist.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,TG4
+http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
+#EXTINF:-1 ,Box Hits
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+
+#EXTINF:-1 ,The Box
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
+#EXTINF:-1 ,TVG Cultura
+http://cultural-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,Taaza TV
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD63L360P/playlist.m3u8
+#EXTINF:-1 ,Omroep West
+http://d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp:tv-feed_all/playlist.m3u8
+#EXTINF:-1 ,Ariana TV USA
+http://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/chunklist_w1314452267.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,Trace Africa
+http://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
+#EXTINF:-1 ,Trace Mziki
+http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8
+#EXTINF:-1 ,Trace Naija
+http://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8
+#EXTINF:-1 ,Trace Tropical
+http://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
+#EXTINF:-1 ,1Limburg
+http://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
+#EXTINF:-1 ,House of Representatives
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:HouseChannel_all/chucklist.m3u8
+#EXTINF:-1 ,TVW-2
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8
+#EXTINF:-1 ,TVW
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8
+#EXTINF:-1 ,Omroep Brabant
+http://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/tv/index.m3u8
+#EXTINF:-1 ,Omroep Brabant Radio
+http://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/visualradio/index.m3u8
+#EXTINF:-1 ,Jewish Life TV
+http://d3svwuchx5fp62.cloudfront.net/rtplive/smil:jltv.smil/chunklist.m3u8
+#EXTINF:-1 ,Omroep Flevoland
+http://d5ms27yy6exnf.cloudfront.net/live/omroepflevoland/tv/index.m3u8
+#EXTINF:-1 ,Rupavahini TV
+http://dammikartmp.tulix.tv/slrc1/slrc1/chunklist_w747273608.m3u8
+#EXTINF:-1 ,Nethra TV
+http://dammikartmp.tulix.tv/slrc3/slrc3/playlist.m3u8
+#EXTINF:-1 ,Dici TV
+http://dciwebcam.vedge.infomaniak.com/livecast/dciwebcam/playlist.m3u8
+#EXTINF:-1 ,Shrrang TV
+http://dcunilive15-lh.akamaihd.net/i/dclive_1@27006/master.m3u8
+#EXTINF:-1 ,MVM Noticias Oaxaca
+http://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/index_1_av-p.m3u8
+
+#EXTINF:-1 ,WSVI TV
+http://dcunilive30-lh.akamaihd.net/i/dclive_1@534251/master.m3u8
+#EXTINF:-1 ,WSVI-TV
+http://dcunilive30-lh.akamaihd.net/i/dclive_1@534251/master.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,Kay 2
+http://dcunilive36-lh.akamaihd.net/i/dclive_1@662109/master.m3u8
+#EXTINF:-1 ,Khyber News
+http://dcunilive38-lh.akamaihd.net/i/dclive_1@692677/master.m3u8
+#EXTINF:-1 ,V2Beat
+http://de1se01.v2beat.live/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,CNN Philippines (Opt-1)
+http://df7lqp0btxdx2.cloudfront.net/11227_500.m3u8
+#EXTINF:-1 ,CSUDH TV (Dominguez Hills)
+http://dhtv5.csudh.edu:1935/live/myStream/playlist.m3u8
+#EXTINF:-1 ,Assemblee Nationale du Quebec
+http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
+#EXTINF:-1 ,Divine Vision
+http://divineplayout-us2.tulix.tv/live/Stream1/.m3u8
+#EXTINF:-1 ,Dubai Racing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,Dubai Racing 2
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 ,Donau TV
+http://donautv.iptv-playoutcenter.de:1935/donautv/donautv.stream_2/playlist.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 ,Da Nang TV 2
+http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
+
+#EXTINF:-1 ,EBS Kids
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+
+#EXTINF:-1 ,EBS English
+http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 ,Home & Living
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
+
+#EXTINF:-1 ,The Outdoor Cooking Channel
+http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8
+#EXTINF:-1 ,The Outdoor Cooking Channel
+http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,TV Direct 13
+http://edge1.tvdirect13.com/live/smil:mystream.smil/playlist_720p.m3u8
+#EXTINF:-1 ,TV100
+http://edge-ind.inapcdn.in:1935/edge1/shagun.stream_aac/chunklist.m3u8
+#EXTINF:-1 ,RE TV
+http://edge-telia1.tiesraides.lv/live/retv.lv.1_1/playlist_b1825196.m3u8
+#EXTINF:-1 ,Leominster TV Educational
+http://edu.leominster.tv/Edu/smil:Edu.smil/chunklist_w43731873_b1344100_sleng_t64NzIwcA==.m3u8
+#EXTINF:-1 ,Leominster TV Educational
+http://edu.leominster.tv/Edu/smil:Edu.smil/chunklist_w43731873_b1344100_sleng_t64NzIwcA==.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,ETB Sat
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 ,Radio El Conquistador
+http://eu1.servers10.com:1935/8282/8282/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,TVG Europa
+http://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 ,TVG (Opt-1)
+http://europa-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,Sonnenklar TV
+http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
+#EXTINF:-1 ,TVG Evento 1
+http://events1-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,TVG Evento 2
+http://events2-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,TVG Evento 3
+http://events3-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,TVG 2 (Opt-2)
+http://events3-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,Rocco TV
+http://evo.eltelon.com:1935/live/rocco-tv/chunklist_w1064108788.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 ,France 24 (FR) (Opt-2)
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+#EXTINF:-1 ,Fashion TV (HD)
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1 ,Fashion TV (Opt-1)
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+
+#EXTINF:-1 ,Fix TV (Opt-1)
+http://fixhd.tv:8081/fix/hd.stream/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,PUC TV Goias
+http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
+#EXTINF:-1 ,Stortinget
+http://flash0.19333-live0.dna.qbrick.com:1935/19333-live0/push-stortinget_1/playlist.m3u8
+#EXTINF:-1 ,TV Jornal Limeira
+http://flash1.crossdigital.com.br:1935/1998/1998/live.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,Prima TV Sicilia
+http://flash2.streaming.xdevel.com/primatv/primatv/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,Radionorba TV (Opt-1)
+http://flash5.streaming.xdevel.com/radionorbatv/smil:radionorbatv.smil/playlist.m3u8
+#EXTINF:-1 ,TVCI
+http://flash8.crossdigital.com.br:1935/2306/2306/live.m3u8
+#EXTINF:-1 ,FM Italia
+http://flash8.streaming.xdevel.com/fmitalia/fmitalia/playlist.m3u8
+#EXTINF:-1 ,Kontra Channel
+http://flashcloud.mediacdn.com/live/kontratv/.m3u8
+
+#EXTINF:-1 ,TVA Vicenza (Opt-1)
+http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
+#EXTINF:-1 ,TeleChiara Vicenza (Opt-1)
+http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8
+
+#EXTINF:-1 ,Franken Fernsehen
+http://frankentv.iptv-playoutcenter.de:1935/frankentv/frankentv.stream_1/playlist.m3u8
+
+#EXTINF:-1 ,TVT Zgorzelec
+http://gargoyle.tomkow.pl/hls/tvt.m3u8
+#EXTINF:-1 ,TVT Zgorzelec
+http://gargoyle.tomkow.pl/hls/tvt.m3u8
+#EXTINF:-1 ,Leominster TV Government
+http://gov.leominster.tv/Gov/smil:Gov.smil/chunklist_w1957429215_b1344100_sleng_t64NzIwcA==.m3u8
+#EXTINF:-1 ,Leominster TV Government
+http://gov.leominster.tv/Gov/smil:Gov.smil/chunklist_w1957429215_b1344100_sleng_t64NzIwcA==.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,Leominster TV Public
+http://gov.leominster.tv/Pub/smil:Pub.smil/chunklist_w2036537178_b1344100_sleng_t64NzIwcA==.m3u8
+#EXTINF:-1 ,Leominster TV Public
+http://gov.leominster.tv/Pub/smil:Pub.smil/chunklist_w2036537178_b1344100_sleng_t64NzIwcA==.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,Olelo Community Media 53
+http://granicusliveus12-a.akamaihd.net/olelo/G0125_011/chunklist.m3u8
+#EXTINF:-1 ,Olelo Community Media 54
+http://granicusliveus12-a.akamaihd.net/olelo/G0125_012/chunklist.m3u8
+#EXTINF:-1 ,Olelo Community Media 55
+http://granicusliveus12-a.akamaihd.net/olelo/G0125_013/chunklist.m3u8
+#EXTINF:-1 ,Tempe 11
+http://granicusliveus1-a.akamaihd.net/tempe/G0355_003/chunklist.m3u8
+#EXTINF:-1 ,Lex TV
+http://granicusliveus2-a.akamaihd.net/lfucg/G0264_002/chunklist_w831870727.m3u8
+#EXTINF:-1 ,Lex TV
+http://granicusliveus2-a.akamaihd.net/lfucg/G0264_002/chunklist_w831870727.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,CC-TV Charlotte County
+http://granicusliveus3-a.akamaihd.net/charlotte/G0055_002/chunklist.m3u8
+#EXTINF:-1 ,Bowie TV
+http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
+#EXTINF:-1 ,Cerritos TV3
+http://granicusliveus4-a.akamaihd.net/cerritos/G0010_002/chunklist.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,Greensboro TV
+http://granicusliveus4-a.akamaihd.net/greensboro/G0197_003/chunklist.m3u8
+#EXTINF:-1 ,LA36
+http://granicusliveus6-a.akamaihd.net/la36/G0019_002/chunklist_w1442089063.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,Denver 8 TV
+http://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8
+#EXTINF:-1 ,Nago TV
+http://haititivi.com:8088/haititv/tele6NY/index.m3u8
+#EXTINF:-1 ,TVP3 Bialystok
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpbialystok
+#EXTINF:-1 ,TVP3 Bydgoszcz
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpbydgoszcz
+#EXTINF:-1 ,TVP3 Gdansk
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpgdansk
+#EXTINF:-1 ,TVP3 Gorzow Wielkopolski
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpgorzow
+#EXTINF:-1 ,TVP3 Info
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpinfo
+#EXTINF:-1 ,TVP3 Katowice
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkatowice
+#EXTINF:-1 ,TVP3 Kielce
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkielce
+#EXTINF:-1 ,TVP3 Krakow
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkrakow
+#EXTINF:-1 ,TVP3 Lodz
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvplodz
+#EXTINF:-1 ,TVP3 Lublin
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvplublin
+#EXTINF:-1 ,TVP3 Olsztyn
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpolsztyn
+#EXTINF:-1 ,TVP3 Opole
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpopole
+#EXTINF:-1 ,TVP3 Poznan
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvppoznan
+#EXTINF:-1 ,TVP3 Rzeszow
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvprzeszow
+#EXTINF:-1 ,TVP3 Szczecin
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpszczecin
+#EXTINF:-1 ,TVP3 Warszawa
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpwarszawa
+#EXTINF:-1 ,TVP3 Wroclaw
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpwroclaw
+
+#EXTINF:-1 ,Radio PROS 105.8 FM Denderhoutem
+http://highvolume04.streampartner.nl/radiopros/livestream/playlist.m3u8
+#EXTINF:-1 ,Regionieuws TV Groningen (Opt-2)
+http://highvolume04.streampartner.nl/regiomedia/regiomedia/playlist.m3u8
+#EXTINF:-1 ,Nos Pa�s
+http://highvolume04.streampartner.nl:1935/nos_pais_24_7/smil:livestream.stream.smil/chunklist_w1798703532_b2000000.m3u8
+#EXTINF:-1 ,VTK
+http://hls.cdn.bg:2007/fls/vtv/chunklist_w689766971.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,Vozrozhdenie
+http://hls.cdn.ua/vo.org.ua_live/_definst_/online-ru-hotbird-high/chunklist_w1303998472.m3u8
+
+#EXTINF:-1 ,Long Island - News 12
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12LI_WEST
+#EXTINF:-1 ,New Jersey - News 12
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12NJ_CENTRAL
+
+#EXTINF:-1 ,Mir HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+#EXTINF:-1 ,Mir 24 (Opt-1)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 ,Mir 24 (Opt-2)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 ,Mir
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 ,Mir (+4)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+#EXTINF:-1 ,Acasa TV
+http://hls.protv.md/acasatv/acasatv.m3u8
+#EXTINF:-1 ,Pro TV
+http://hls.protv.md/hls/protv.m3u8
+#EXTINF:-1 ,Polsat News 2
+http://hls.redefine.pl/20C4EB56/1575/0/hls576/masterlist.m3u8
+#EXTINF:-1 ,Polsat Cafe
+http://hls.redefine.pl/97100F84/1577/0/hls576/576p/list.m3u8
+#EXTINF:-1 ,Shanson TV (Opt-1)
+http://hls.shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
+#EXTINF:-1 ,Simon (New!)
+http://hls.simon.ua/live-HD/live/playlist.m3u8
+#EXTINF:-1 ,Imedi TV (Opt-1)
+http://hls.t.stream-dns.net/hls/imedi/imedi.m3u8
+#EXTINF:-1 ,Rustavi 2
+http://hls.t.stream-dns.net/hls/rustavi2/rustavi2.m3u8
+#EXTINF:-1 ,TMA
+http://hls.tmacaraibes.com/live/index.m3u8
+#EXTINF:-1 ,Muz Sojuz
+http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
+
+#EXTINF:-1 ,Noa 4 Norderstedt
+http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
+#EXTINF:-1 ,Noa 4 Hamburg
+http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
+#EXTINF:-1 ,Izvestia
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1 ,24 Horas (Opt-1)
+http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
+#EXTINF:-1 ,Faith USA
+http://hls-live-media.cdn01.net/default/stream_14889.m3u8
+
+#EXTINF:-1 ,NBC
+http://htvpalsat.mada.ps:8888/najah/index.m3u8?v=1559311573
+#EXTINF:-1 ,Palestine TV
+http://htvpalsat.mada.ps:8888/PBC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Palestine TV Mobasher
+http://htvpalsat.mada.ps:8888/PBCLive/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Red Bull TV
+http://i.mjh.nz/au/Canberra/tv.redbull.tv.m3u8
+#EXTINF:-1 ,ACCTV
+http://i.mjh.nz/au/Melbourne/tv.acctv.m3u8
+#EXTINF:-1 ,Maori TV (Opt-1)
+http://i.mjh.nz/nz/tv.13.m3u8
+#EXTINF:-1 ,Parliament TV
+http://i.mjh.nz/nz/tv.18.m3u8
+#EXTINF:-1 ,Te Reo
+http://i.mjh.nz/nz/tv.20.m3u8
+
+#EXTINF:-1 ,Red Bull TV
+http://i.mjh.nz/nz/tv.redbull.tv.m3u8
+
+#EXTINF:-1 ,ILTV Studios
+http://iltv.cachefly.net/live/live_720p/chunklist_w623022374.m3u8
+#EXTINF:-1 ,Dunya News (Opt-3)
+http://imob.dunyanews.tv/live/_definst_/dunyalive_1/FluxusTV.m3u8
+
+#EXTINF:-1 ,TVG Infantil
+http://infantil-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,Inspiration TV
+http://inspnetworks-lh.akamaihd.net/i/insp_2@393793/master.m3u8
+#EXTINF:-1 ,Interalmeria TV
+http://interalmeria.tv/directo/live.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,Bulgaria ON AIR
+http://ios.cdn.bg:2006/fls/bonair.stream/chunklist_w2129214630.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,Cherno More
+http://ios.cdn.bg:2006/fls/chmore.stream/playlist.m3u8
+#EXTINF:-1 ,MU-Vi TV
+http://ios.cdn.bg:2013/fls/livetv.stream/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,QVC Deutschland
+http://ios-stream.qvc.de/qvc.m3u8
+#EXTINF:-1 ,TV Opoja (Opt-2)
+http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
+
+#EXTINF:-1 ,Rangarang TV (US)
+http://iptv.rangarang.us/live/playlist.m3u8
+#EXTINF:-1 ,Tapesh TV (US)
+http://iptv.tapesh.tv/tapesh/playlist.m3u8
+#EXTINF:-1 ,Campus TV Magdeburg
+http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-wernigerode_high/hasbahca.m3u8?bitrate=800
+#EXTINF:-1 ,Isar TV
+http://isar-tv.iptv-playoutcenter.de:1935/isar-tv/isar-tv.stream_1/playlist.m3u8
+#EXTINF:-1 ,CCTV-1
+http://ivi.bupt.edu.cn/hls/cctv1.m3u8
+#EXTINF:-1 ,CCTV-10
+http://ivi.bupt.edu.cn/hls/cctv10.m3u8
+#EXTINF:-1 ,CCTV-11
+http://ivi.bupt.edu.cn/hls/cctv11.m3u8
+#EXTINF:-1 ,CCTV-12
+http://ivi.bupt.edu.cn/hls/cctv12.m3u8
+#EXTINF:-1 ,CCTV-13 (Opt-1)
+http://ivi.bupt.edu.cn/hls/cctv13.m3u8
+#EXTINF:-1 ,CCTV-14
+http://ivi.bupt.edu.cn/hls/cctv14.m3u8
+#EXTINF:-1 ,CCTV-15
+http://ivi.bupt.edu.cn/hls/cctv15.m3u8
+#EXTINF:-1 ,CCTV-2
+http://ivi.bupt.edu.cn/hls/cctv2.m3u8
+#EXTINF:-1 ,CCTV-3 (Opt-1)
+http://ivi.bupt.edu.cn/hls/cctv3.m3u8
+#EXTINF:-1 ,CCTV-3 (Opt-2)
+http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
+#EXTINF:-1 ,CCTV-6
+http://ivi.bupt.edu.cn/hls/cctv6.m3u8
+#EXTINF:-1 ,CCTV-7
+http://ivi.bupt.edu.cn/hls/cctv7.m3u8
+#EXTINF:-1 ,CCTV-8
+http://ivi.bupt.edu.cn/hls/cctv8.m3u8
+#EXTINF:-1 ,CCTV-9
+http://ivi.bupt.edu.cn/hls/cctv9.m3u8
+
+#EXTINF:-1 ,Telesur
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+#EXTINF:-1 ,Ben TV
+http://kanalben.cubecdn.net/live/kanalben1.m3u8
+#EXTINF:-1 ,Kazakh TV (EN) (Opt-1)
+http://kazakhtven.ultraiptv.com/live_en/playlist1/index.m3u8
+#EXTINF:-1 ,Kazakh TV (RU) (Opt-2)
+http://kazakhtvru.ultraiptv.com/live_ru/playlist1/index.m3u8
+#EXTINF:-1 ,HaHadashot 12 (Opt-1)
+http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
+#EXTINF:-1 ,HaHadashot 12 (Opt-2)
+http://keshethlslive-lh.akamaihd.net/i/c2nsec_1@195268/master.m3u8
+
+#EXTINF:-1 ,KBVR TV OSU
+http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8
+#EXTINF:-1 ,Orange Media Network
+http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8
+#EXTINF:-1 ,TeleBarn (Opt-2)
+http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/sd/10000/t/XTGwenpKUhx_fbVnsiu9MQ/master.m3u8
+#EXTINF:-1 ,TeleBarn (Opt-1)
+http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/t/gaudIWTPWrpJe6yJmHI9vA/index-s32.m3u8
+#EXTINF:-1 ,Tele M1
+http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_ljzy3evp/sd/10000/t/nwOKUovT2mwnA8x_KnC4zg/index-s32.m3u8
+#EXTINF:-1 ,Radio Argovia 90.3 FM Aarau
+http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_uv9hs4ww/sd/6000/t/wrKSSij4alVi5jiCA3spVQ/index-s32.m3u8
+
+#EXTINF:-1 ,NBC San Jose CA (KNTV)
+http://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/index_1286_av-p.m3u8
+#EXTINF:-1 ,Krasnaja Linija
+http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
+
+#EXTINF:-1 ,Rik Sat (Opt-2)
+http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+#EXTINF:-1 ,RTS Salzburg
+http://lb.hd-livestream.de:1935/live/RTS2015/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,Tirol TV
+http://lb.hd-livestream.de:1935/live/TirolTV/master.m3u8
+#EXTINF:-1 ,Fashion TV
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,Star TV (Opt-1)
+http://lcgid8xu.rocketcdn.com/startvhd.stream_360p/chunklist.m3u8
+#EXTINF:-1 ,Star TV (Opt-2)
+http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+#EXTINF:-1 ,Hungama - Kadak Hits
+http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
+#EXTINF:-1 ,Hungama - Bhakti Sagar
+http://linear02hun-lh.akamaihd.net/i/bhaktisagar_1@665239/master.m3u8
+#EXTINF:-1 ,Hungama - Bhaarat Sagar
+http://linear02hun-lh.akamaihd.net/i/bhaktisagar_1@665239/master.m3u8
+#EXTINF:-1 ,Hungama - Sakkat
+http://linear03hun-lh.akamaihd.net/i/sakkat_1@665240/master.m3u8
+#EXTINF:-1 ,Hungama - Pop Pataka
+http://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/master.m3u8
+#EXTINF:-1 ,Hungama - Punjabi Tadka
+http://linear05hun-lh.akamaihd.net/i/punjabitadka_1@665242/master.m3u8
+#EXTINF:-1 ,Hungama - Nazrana
+http://linear08hun-lh.akamaihd.net/i/nazrana_1@673935/master.m3u8
+#EXTINF:-1 ,Boogle Bollywood
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+#EXTINF:-1 ,Life Punjabi
+http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
+#EXTINF:-1 ,Alsace 20
+http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
+#EXTINF:-1 ,Dersim 62
+http://live.arkumedia.com:1935/dersim62tv/dersim62tv/playlist.m3u8
+#EXTINF:-1 ,Finans Turk TV
+http://live.arkumedia.com:1935/finansturktv/finansturktv/playlist.m3u8
+#EXTINF:-1 ,Kanal 19
+http://live.arkumedia.com:1935/kanal19tv/kanal19tv/chunklist.m3u8
+#EXTINF:-1 ,Kanal 34
+http://live.arkumedia.com:1935/kanal34tv/kanal34tv/chunklist.m3u8
+#EXTINF:-1 ,Siteler TV
+http://live.arkumedia.com:1935/sitelertv/sitelertv/chunklist.m3u8
+
+#EXTINF:-1 ,Canada Star TV
+http://live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u
+#EXTINF:-1 ,Canal Once Nacional
+http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
+#EXTINF:-1 ,Canal Once Internacional
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+#EXTINF:-1 ,TV8 (Opt-1)
+
+#EXTINF:-1 ,CGTN (CN) (Opt-2)
+http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 ,CGTN Fran�ais (Opt-1)
+http://live.cgtn.com/1000f/prog_index.m3u8
+#EXTINF:-1 ,CGTN Russian (Opt-1)
+http://live.cgtn.com/1000r/prog_index.m3u8
+#EXTINF:-1 ,CGTN (CN) (Opt-1)
+http://live.cgtn.com/500/prog_index.m3u8
+#EXTINF:-1 ,CGTN Documentary (Opt-1)
+http://live.cgtn.com/cctv-d.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 ,MyComedy (New!)
+http://live.creacast.com/mycomedy/smil:mycomedy.smil/chunklist_w1113167704_b1928000.m3u8
+#EXTINF:-1 ,Crete TV
+http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
+#EXTINF:-1 ,15TV Sabinas (Opt-2)
+http://live.gvstream.net:1935/e-tv-video/play.stream/playlist.m3u8
+#EXTINF:-1 ,15TV Sabinas (Opt-1)
+http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
+
+#EXTINF:-1 ,La Chaine Normande
+http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
+#EXTINF:-1 ,M2
+http://live.m2.tv/hls/stream.m3u8
+#EXTINF:-1 ,Metro Cable Network
+http://live.mcn6.org:8180/live/CELL-496k-270p/CELL-496k-270p.m3u8
+
+#EXTINF:-1 ,Noroc TV
+http://live.noroc.tv/hls/noroctv_chisinau.m3u8
+#EXTINF:-1 ,Palestine Today
+http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
+
+#EXTINF:-1 ,One31
+http://live.pjmcdn.info/live/ONE-HD.stream/playlist.m3u8
+#EXTINF:-1 ,NBT 2
+http://live.prd.go.th:1935/live/ch1_L.sdp/playlist.m3u8
+#EXTINF:-1 ,NBT 9
+http://live.prd.go.th:1935/live/ch9_L.sdp/chunklist.m3u8
+#EXTINF:-1 ,QVC Beauty
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1 ,QVC Extra
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_extra_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1 ,QVC
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1 ,QVC Style
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_style_clean/bitrate1.isml/live.m3u8
+#EXTINF:-1 ,RedTraffic Big Ass
+http://live.redtraffic.xyz/bigass.m3u8
+#EXTINF:-1 ,RedTraffic Big Dick
+http://live.redtraffic.xyz/bigdick.m3u8
+#EXTINF:-1 ,RedTraffic Big Tits
+http://live.redtraffic.xyz/bigtits.m3u8
+#EXTINF:-1 ,RedTraffic Blowjob
+http://live.redtraffic.xyz/blowjob.m3u8
+#EXTINF:-1 ,RedTraffic Cuckold
+http://live.redtraffic.xyz/cuckold.m3u8
+#EXTINF:-1 ,RedTraffic Fetish
+http://live.redtraffic.xyz/fetish.m3u8
+#EXTINF:-1 ,RedTraffic Hardcore
+http://live.redtraffic.xyz/hardcore.m3u8
+#EXTINF:-1 ,RedTraffic Interracial
+http://live.redtraffic.xyz/interracial.m3u8
+#EXTINF:-1 ,RedTraffic Latina
+http://live.redtraffic.xyz/latina.m3u8
+#EXTINF:-1 ,RedTraffic Lesbian
+http://live.redtraffic.xyz/lesbian.m3u8
+#EXTINF:-1 ,RedTraffic MILF
+http://live.redtraffic.xyz/milf.m3u8
+#EXTINF:-1 ,RedTraffic Pornstar
+http://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:-1 ,RedTraffic POV
+http://live.redtraffic.xyz/pov.m3u8
+#EXTINF:-1 ,RedTraffic Russian
+http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:-1 ,RedTraffic Teen
+http://live.redtraffic.xyz/teen.m3u8
+#EXTINF:-1 ,RedTraffic Threesome
+http://live.redtraffic.xyz/threesome.m3u8
+
+#EXTINF:-1 ,ETV Marche (Opt-1)
+http://live.sloode.com:1935/etvmarche_live/_definst_/etvmarche/playlist.m3u8
+#EXTINF:-1 ,Telegranda
+http://live.sloode.com:1935/telegranda_live/C2AD-0664-DC75-4744/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,Siciliamedia TV
+http://live.streamcaster.net:1935/siciliamediatv_live/siciliamedia/playlist.m3u8
+#EXTINF:-1 ,EET TV (CA)
+http://live.streamjo.com:1935/eetlive/eettv/playlist.m3u8
+#EXTINF:-1 ,Analai Express
+http://live.streamjo.com:1935/sarastv/sarastv.m3u8
+#EXTINF:-1 ,Cannali TV
+http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
+#EXTINF:-1 ,Fox Int'l
+http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
+
+#EXTINF:-1 ,NG Radio
+http://live.streams.ovh:1935/NGradio/NGradio/playlist.m3u8
+#EXTINF:-1 ,Creta
+http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
+#EXTINF:-1 ,TV Filipoli
+http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
+#EXTINF:-1 ,Tamil Vision Int'l (CA) (HD)
+http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
+#EXTINF:-1 ,Tamil Vision Int'l (CA) (SD)
+http://live.tamilvision.tv:8081/TVI/SD/chunks.m3u8
+
+#EXTINF:-1 ,Moldova 1 (Opt-2)
+http://live.trm.md:1935/live/M1Mlive/chunklist_w267481340.m3u8
+#EXTINF:-1 ,Moldova 2
+http://live.trm.md:1935/live/MoldovaDoi2/playlist.m3u8
+#EXTINF:-1 ,Moldova 1 (Opt-1)
+http://live.trm.md:1935/live/MoldovaUnu1/playlist.m3u8
+#EXTINF:-1 ,TV2 Bornholm
+http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
+#EXTINF:-1 ,TV Lux
+http://live.tvlux.sk:1935/lux/lux.stream_360p/chunklist_w1295439472.m3u8
+#EXTINF:-1 ,Ugra TV
+http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8
+#EXTINF:-1 ,Desi Channel (Opt-1)
+http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
+#EXTINF:-1 ,Janta TV
+http://live.wmncdn.net/jantatv/live.stream/index.m3u8
+
+#EXTINF:-1 ,TCV Tirur
+http://live.wmncdn.net/ttv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+
+#EXTINF:-1 ,Canal 15 Fresnillo
+http://live.zuperdns.net:1935/zuperhosting.live.grupob.canal15fresnillo/livestream/playlist.m3u8
+
+#EXTINF:-1 ,Teins TV
+http://live1.markenfunk.com/t1/live/chunklist.m3u8
+
+#EXTINF:-1 ,TRO Soyuz
+http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+#EXTINF:-1 ,BelRos TV
+http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+#EXTINF:-1 ,Habar 24 (Opt-1)
+http://live-24kz.cdnvideo.ru/24kz/24kz.sdp/playlist.m3u8
+
+#EXTINF:-1 ,Canal Macau (Opt-1)
+http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8
+#EXTINF:-1 ,TDM Macau Satelite (Opt-1)
+http://live4.tdm.com.mo:80/ch3/_definst_/ch3.live/playlist.m3u8
+
+#EXTINF:-1 ,Almaty TV
+http://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8
+#EXTINF:-1 ,Atameken Business
+http://live-atameken.cdnvideo.ru/atameken/atameken_hq.sdp/playlist.m3u8
+#EXTINF:-1 ,Publika TV
+http://livebeta.publika.md/LIVE/P/6810.m3u8
+#EXTINF:-1 ,Black Sea TV
+http://live-blackseatv.cdnvideo.ru/blackseatv/blackseatv.sdp/playlist.m3u8
+#EXTINF:-1 ,OSN Cinema 1
+http://livecdnh1.tvanywhere.ae/hls/cin1/index.m3u8
+#EXTINF:-1 ,DMC Drama
+http://livecdnh1.tvanywhere.ae/hls/dmcdrama/04.m3u8
+
+#EXTINF:-1 ,National Geographic
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
+#EXTINF:-1 ,National Geographic
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+#EXTINF:-1 ,Nat Geo People
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/02.m3u8
+#EXTINF:-1 ,Nat Geo People
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/04.m3u8
+#EXTINF:-1 ,Nat Geo People
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
+#EXTINF:-1 ,Nat Geo Wild
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
+#EXTINF:-1 ,Nat Geo Wild HD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8
+#EXTINF:-1 ,Nat Geo Wild
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+
+#EXTINF:-1 ,Star Movies HD Middle East
+http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
+#EXTINF:-1 ,Star Movies (HD)
+http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 ,Star World HD Middle East
+http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
+#EXTINF:-1 ,Star World (HD)
+http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 ,H2
+http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
+#EXTINF:-1 ,National Geographic
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
+#EXTINF:-1 ,Nat Geo People
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
+
+#EXTINF:-1 ,2M Monde (Opt-2)
+http://livecdnH2.tvanywhere.ae/hls/2m_maroc/index.m3u8
+#EXTINF:-1 ,Ajman TV
+http://livecdnh2.tvanywhere.ae/hls/ajman/04.m3u8
+#EXTINF:-1 ,Blue Nile
+http://livecdnh2.tvanywhere.ae/hls/blue_nile/04.m3u8
+#EXTINF:-1 ,CBC Drama
+http://livecdnh2.tvanywhere.ae/hls/cbc_drama/04.m3u8
+#EXTINF:-1 ,English Club TV
+http://livecdnh2.tvanywhere.ae/hls/english_club/04.m3u8
+#EXTINF:-1 ,Alhayat TV
+http://livecdnh2.tvanywhere.ae/hls/hayat/04.m3u8
+#EXTINF:-1 ,Al Kahera Wal Nas
+http://livecdnh2.tvanywhere.ae/hls/kahera_nas/04.m3u8
+#EXTINF:-1 ,LBC
+http://livecdnh2.tvanywhere.ae/hls/lbc_int/04.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,MBC Bollywood (Opt-2)
+http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/index.m3u8
+#EXTINF:-1 ,MBC Masr (Opt-2)
+http://livecdnh2.tvanywhere.ae/hls/mbc_msr/index.m3u8
+#EXTINF:-1 ,MBC 1 (HD)
+http://livecdnh2.tvanywhere.ae/hls/mbc1/05.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 ,MBC 3 (HD)
+http://livecdnh2.tvanywhere.ae/hls/mbc3/05.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 ,Nessma TV
+http://livecdnh2.tvanywhere.ae/hls/nessma/04.m3u8
+#EXTINF:-1 ,Nile Drama
+http://livecdnh2.tvanywhere.ae/hls/nile_drama/02.m3u8
+
+#EXTINF:-1 ,Spacetoon (Opt-2)
+http://livecdnh2.tvanywhere.ae/hls/spacetoon/04.m3u8
+
+#EXTINF:-1 ,Wanasah
+http://livecdnh2.tvanywhere.ae/hls/wanasah/04.m3u8
+
+#EXTINF:-1 ,MBC Drama (HD)
+http://livecdnh2.tvanywhere.ae:80/hls/mbc_drama/05.m3u8
+
+#EXTINF:-1 ,Al Nahar (CA)
+http://livecdnh2.tvanywhere.ae:80/hls/nahar_sd/03.m3u8
+#EXTINF:-1 ,Al Nahar Drama (CA)
+http://livecdnh2.tvanywhere.ae:80/hls/nahar_sd_drama/03.m3u8
+
+#EXTINF:-1 ,B4U Plus
+http://livecdnh3.tvanywhere.ae/hls/b4uplus/index.m3u8
+
+#EXTINF:-1 ,DocuBox HD
+http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
+
+#EXTINF:-1 ,Duck TV (MENA)
+http://livecdnh3.tvanywhere.ae/hls/duck/04.m3u8
+
+#EXTINF:-1 ,Hawacom TV
+http://livecdnh3.tvanywhere.ae/hls/hawacom/04.m3u8
+#EXTINF:-1 ,Al Jadeed (Opt-1)
+http://livecdnh3.tvanywhere.ae/hls/jadeed/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,MBC 2 (HD)
+http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,MBC 2 (SD)
+http://livecdnh3.tvanywhere.ae/hls/mbc2/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,MBC 4 (HD)
+http://livecdnh3.tvanywhere.ae/hls/mbc4/05.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,MBC 4 (SD)
+http://livecdnh3.tvanywhere.ae/hls/mbc4/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,MBC Action (HD)
+http://livecdnh3.tvanywhere.ae/hls/mbcaction/05.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,MBC Action (SD)
+http://livecdnh3.tvanywhere.ae/hls/mbcaction/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,MBC Max (HD)
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,MBC Max (SD)
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,MTV (Opt-1)
+http://livecdnh3.tvanywhere.ae/hls/MTVLbnHD/index.m3u8
+
+#EXTINF:-1 ,Rotana Cinema
+http://livecdnh3.tvanywhere.ae/hls/rotcinema/index.m3u8
+#EXTINF:-1 ,Rotana Classic
+http://livecdnh3.tvanywhere.ae/hls/rotclassic/index.m3u8
+#EXTINF:-1 ,Rotana Clip
+http://livecdnh3.tvanywhere.ae/hls/rotclip/index.m3u8
+
+#EXTINF:-1 ,RTL (Opt-3)
+http://live-edge01.rtl.lu/channel2/smil:channel2/playlist.m3u8
+#EXTINF:-1 ,Music Top
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:-1 ,Telemax
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:-1 ,Canal 26 (Opt-2)
+http://live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8
+#EXTINF:-1 ,RTL (Opt-2)
+http://live-edge02.rtl.lu/channel1/smil:channel1/playlist.m3u8
+#EXTINF:-1 ,CGTN Espa�ol (Opt-1)
+http://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 ,CGTN Documentary (Opt-2)
+http://livefr.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1 ,CGTN Espa�ol (Opt-2)
+http://livefr.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 ,CGTN Fran�ais (Opt-2)
+http://livefr.cgtn.com/1000f/prog_index.m3u8
+#EXTINF:-1 ,CGTN Russian (Opt-2)
+http://livefr.cgtn.com/1000r/prog_index.m3u8
+#EXTINF:-1 ,ACCTV
+http://live-mobile.cdn01.net/hls-live/202E1F/default/mobile/stream_14949_1.m3u8?source=othersites&attempt=1
+#EXTINF:-1 ,Ingushetiya TV
+http://live-ntk.cdnvideo.ru/ntk-publish/ntk.sdp/playlist.m3u8
+#EXTINF:-1 ,Bloomberg TV Europe
+http://liveprodeucentral.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
+#EXTINF:-1 ,Bloomberg TV
+http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+#EXTINF:-1 ,Video 33 Alto Adige
+http://livestream.goinfo.it/V33Live/v33ros/playlist.m3u8
+
+#EXTINF:-1 ,Realitatea TV
+http://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 ,ARTN (US)
+http://livestream.usatv.com/hls/m3u8/ARTN-NET.m3u8
+#EXTINF:-1 ,USArmenia TV (US)
+http://livestream.usatv.com/hls/m3u8/USARMENIA720.m3u8
+#EXTINF:-1 ,SET TV
+http://livestream.vnvn.net/hls-live/livepkgr/_definst_/settv574-1/settv574-1.m3u8
+#EXTINF:-1 ,VNA TV 57.3 (US)
+http://livestream.vnvn.net/vnatv573.m3u8
+
+#EXTINF:-1 ,Aliento Vision
+http://livestreamcdn.net:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8
+#EXTINF:-1 ,Extrema TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 ,Videolina Sardegna
+http://livestreaming.videolina.it/live/Videolina/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,CTC TV Cusco
+http://livestreamingperu.com:1935/ctctv/ctctv/chunklist.m3u8
+
+#EXTINF:-1 ,Radio Italia Vision Ravena
+http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
+#EXTINF:-1 ,TeleRomagna24
+http://livetr.teleromagna.it/mia/live/playlist.m3u8
+#EXTINF:-1 ,TeleRomagna Mia
+http://livetr.teleromagna.it/news/live/playlist.m3u8
+#EXTINF:-1 ,TeleRomagna Sport
+http://livetr.teleromagna.it/sport/live/playlist.m3u8
+#EXTINF:-1 ,TeleRomagna
+http://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
+#EXTINF:-1 ,Leeeko TV (New!)
+http://livetvsteam.com:1935/leeeko/leeeko/chunklist.m3u8
+#EXTINF:-1 ,La Tele (Opt-2)
+http://livevideo.infomaniak.com/streaming/livecast/latele/playlist.m3u8
+#EXTINF:-1 ,TVM 3
+http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
+#EXTINF:-1 ,QVC +1
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/live.m3u8
+#EXTINF:-1 ,Luys TV (TR)
+http://luyse.mediatriple.net/luystv/luystv.smil/chunklist.m3u8
+#EXTINF:-1 ,Radio m20 Lazio
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+
+#EXTINF:-1 ,Alhurra
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+#EXTINF:-1 ,Mirror Now
+http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
+#EXTINF:-1 ,Al Mayadeen (Opt-1)
+http://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b1300000_t64NTc2cA==.m3u8
+#EXTINF:-1 ,Multimedios Monterrey
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,Teleritmo
+http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1 ,Meclis TV
+http://mecliscanlitv-lh.akamaihd.net:80/i/MECLISTV_1@127503/master.m3u8
+
+#EXTINF:-1 ,Hong Kong Open TV (Opt-1)
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#EXTINF:-1 ,Hong Kong Open TV (Opt-2)
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:-1 ,CNN Turk (Opt-1)
+http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+
+#EXTINF:-1 ,RTN Neuquen
+http://media.neuquen.gov.ar/rtn/television/chunklist_w2042779766.m3u8
+#EXTINF:-1 ,RTV Noord Extra
+http://media.rtvnoord.nl/live/rtvnoord/extra/index.m3u8
+#EXTINF:-1 ,CSat TV
+http://media.smc-host.com:1935/csat.tv/smil:csat.smil/chunklist_w1421926306_b692000_slar_t64SEQ=.m3u8
+#EXTINF:-1 ,Christian Youth Channel
+http://media.smc-host.com:1935/cycnow.com/cyc2/chunklist_w258510680.m3u8
+#EXTINF:-1 ,Christian Youth Channel
+http://media.smc-host.com:1935/cycnow.com/cyc2/chunklist_w884806316.m3u8
+#EXTINF:-1 ,OOG TV Groningen (New!)
+http://media.streamone.net/hlslive/account=BAAIMu-JR8Yy/livestream=ERREOY4AeMUU/events.m3u8
+#EXTINF:-1 ,Omroep Assen
+http://media.streamone.net/hlslive/account=BpRIEq4LT84W/livestream=IjYFI8qBJM0W/events.m3u8
+#EXTINF:-1 ,Omroep Sudwest
+http://media.streamone.net/hlslive/account=E7RAPuILTJc2/livestream=-ZZMK-aARoY2/events.m3u8
+#EXTINF:-1 ,ZO-NWS
+http://media.streamone.net/hlslive/account=FjJBFsIbBtw2/livestream=1QJFCqsQeMwQ/events.m3u8
+#EXTINF:-1 ,Streekomroep Start
+http://media.streamone.net/hlslive/account=gbYAOsqLTJ8y/livestream=YzIFOeIABwUW/events.m3u8
+#EXTINF:-1 ,RTV Meppel
+http://media.streamone.net/hlslive/account=lJBBN8OLDwQy/livestream=_4REFuIBBY8W/events.m3u8
+#EXTINF:-1 ,RTV 1 Stadskanaal
+http://media.streamone.net/hlslive/account=lqRIFo4bDtQ2/livestream=X7ZMrsKBXl8S/events.m3u8
+#EXTINF:-1 ,Aavisie
+http://media.streamone.net/hlslive/account=nYRIFIaZSIY2/livestream=CZAJjY-KKkc2/events.m3u8
+#EXTINF:-1 ,SL48 TV Lazio
+http://media.velcom.it:1935/sl48/sl48/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,TV Natura
+http://media1.tvnatura.cz/live_out/1/live.m3u8
+
+#EXTINF:-1 ,Beach TV - Panama City
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
+#EXTINF:-1 ,Beach TV - 30A
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+
+#EXTINF:-1 ,Eco TV Tandil
+http://mediacontrol.jargon.com.ar:1935/elecotv/elecotv/playlist.m3u8
+#EXTINF:-1 ,Rai News 24
+http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=0000001
+
+#EXTINF:-1 ,KRAL TV
+http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
+
+#EXTINF:-1 ,iFilm English
+http://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/chunklist.m3u8
+#EXTINF:-1 ,iFILM English
+http://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/chunklist_b1096000.m3u8
+#EXTINF:-1 ,iFILM English
+http://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/index.m3u8
+#EXTINF:-1 ,iFilm 2
+http://mn-nl.mncdn.com/ifilm/smil:ifilmfa2.smil/index.m3u8
+#EXTINF:-1 ,TVG Momentos G
+http://momentog-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,WeatherNews
+http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
+
+#EXTINF:-1 ,BabyFirst (US)
+http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+#EXTINF:-1 ,RTV Arnhem
+http://ms2.mx-cd.net/tv/163-669433/RTV_Arnhem.smil/chunklist_b1894400_slNLD.m3u8
+#EXTINF:-1 ,RTV Dordrecht
+http://ms7.mx-cd.net/dtv-02/107-475823/RTV_Dordrecht.smil/chunklist_w1043703258_b1894400_slNLD.m3u8
+#EXTINF:-1 ,WeertFM 107.5 FM Eindhoven
+http://ms7.mx-cd.net/tv/109-573495/MLA.smil/playlist.m3u8
+#EXTINF:-1 ,WEEFF
+http://ms7.mx-cd.net/tv/129-562449/WEEFF_TV.smil/chunklist_b1894400_slNLD.m3u8
+#EXTINF:-1 ,Omroep P&M
+http://ms7.mx-cd.net/tv/153-840564/Omroep_Peel_en_Maas_TV.smil/chunklist.m3u8
+#EXTINF:-1 ,1Twente
+http://ms7.mx-cd.net/tv/198-989148/1Twente_TV.smil/playlist.m3u8
+
