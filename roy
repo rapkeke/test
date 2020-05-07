@@ -162,37 +162,6 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/03.m3u8
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="KNOWLEDGE",NAT GEO WILD
 http://livecdnh1.TVanywhere.ae/hls/nat_geo_wild/03.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qRGcyjq7/useetv.png" group-title="USEETV",Champion 2
-https://www.dropbox.com/s/m95b7dd87witmxr/Champion_TV_2.m3u8?dl=1
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qRGcyjq7/useetv.png" group-title="USEETV",Fox sport 1
-https://www.dropbox.com/s/4lprbnpxu6qevkn/Fox_Sport_1.m3u8?dl=1
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qRGcyjq7/useetv.png" group-title="USEETV",Useesport 1
-https://www.dropbox.com/s/6ok0jonavdkj0jc/UseeSports1.m3u8?dl=1
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qRGcyjq7/useetv.png" group-title="USEETV",Useesport 2
-https://www.dropbox.com/s/2tsoyzmbd9urc76/UseeSports2.m3u8?dl=1
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qRGcyjq7/useetv.png" group-title="USEETV",Discovery
-https://www.dropbox.com/s/28rw7fo9hof2vn4/discovery.m3u8?dl=1
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qRGcyjq7/useetv.png" group-title="USEETV",NatGeoPeople
-https://www.dropbox.com/s/nttwprz66i9yxq2/Nat_Geo_People.m3u8?dl=1
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qRGcyjq7/useetv.png" group-title="USEETV",NatGeoWildee
-https://www.dropbox.com/s/ydhblaz7aidq42q/Nat_Geo_Wildee.m3u8?dl=1
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qRGcyjq7/useetv.png" group-title="USEETV",NatGeoEe
-https://www.dropbox.com/s/v0qlr8nhwcm30gr/Nat_Geoee.m3u8?dl=1
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qRGcyjq7/useetv.png" group-title="USEETV",NBA
-https://www.dropbox.com/s/4b5t0hgocvy42o1/NBA.m3u8?dl=1
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qRGcyjq7/useetv.png" group-title="USEETV",Net TV
-https://www.dropbox.com/s/qmnpmdh4rk5keti/Live_Net.m3u8?dl=1
-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/euronews.png" group-title="News",EuroNews
 http://210.210.155.35/qwr9ew/s/s15/01.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/skynews.png" group-title="News",SKY News
