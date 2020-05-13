@@ -12,6 +12,890 @@ http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
 #EXTINF:-1,HRT 4
 http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 
+#EXTM3U
+#EXTINF:-1,A&E HD
+http://maxptv.net:8080/jose/jose/236
+
+#EXTINF:-1,A&E SD
+http://maxptv.net:8080/jose/jose/235
+
+#EXTINF:-1,Amc HD
+http://maxptv.net:8080/jose/jose/512
+
+#EXTINF:-1,AMC SD
+http://maxptv.net:8080/jose/jose/233
+
+#EXTINF:-1,Animal Planet HD
+http://maxptv.net:8080/jose/jose/232
+
+#EXTINF:-1,Animal Planet SD
+http://maxptv.net:8080/jose/jose/231
+
+#EXTINF:-1,AXN HD
+http://maxptv.net:8080/jose/jose/535
+
+#EXTINF:-1,AXN SD
+http://maxptv.net:8080/jose/jose/227
+
+#EXTINF:-1,BabyTV HD
+http://maxptv.net:8080/jose/jose/226
+
+#EXTINF:-1,BabyTV SD
+http://maxptv.net:8080/jose/jose/225
+
+#EXTINF:-1,Band Campinas HD
+http://maxptv.net:8080/jose/jose/242
+
+#EXTINF:-1,Band Campinas SD
+http://maxptv.net:8080/jose/jose/241
+
+#EXTINF:-1,Band News HD
+http://maxptv.net:8080/jose/jose/224
+
+#EXTINF:-1,Band News SD
+http://maxptv.net:8080/jose/jose/223
+
+#EXTINF:-1,Band SP HD
+http://maxptv.net:8080/jose/jose/130
+
+#EXTINF:-1,Band SP SD
+http://maxptv.net:8080/jose/jose/129
+
+#EXTINF:-1,Band Sports HD
+http://maxptv.net:8080/jose/jose/221
+
+#EXTINF:-1,Band Sports SD
+http://maxptv.net:8080/jose/jose/220
+
+#EXTINF:-1,BIZ HD
+http://maxptv.net:8080/jose/jose/219
+
+#EXTINF:-1,BIZ SD
+http://maxptv.net:8080/jose/jose/218
+
+#EXTINF:-1,Boomerang HD
+http://maxptv.net:8080/jose/jose/217
+
+#EXTINF:-1,Boomerang SD
+http://maxptv.net:8080/jose/jose/216
+
+#EXTINF:-1,Canal Canção Nova HD
+http://maxptv.net:8080/jose/jose/215
+
+#EXTINF:-1,Canal Canal Canção SD
+http://maxptv.net:8080/jose/jose/214
+
+#EXTINF:-1,Canal Futura HD
+http://maxptv.net:8080/jose/jose/211
+
+#EXTINF:-1,Canal Futura SD
+http://maxptv.net:8080/jose/jose/210
+
+#EXTINF:-1,Canal Curta! HD
+http://maxptv.net:8080/jose/jose/213
+
+#EXTINF:-1,Canal Curta! SD
+http://maxptv.net:8080/jose/jose/212
+
+#EXTINF:-1,Canal HGTV HD
+http://maxptv.net:8080/jose/jose/193
+
+#EXTINF:-1,Canal HGTV SD
+http://maxptv.net:8080/jose/jose/192
+
+#EXTINF:-1,Canal OFF HD
+http://maxptv.net:8080/jose/jose/209
+
+#EXTINF:-1,Canal OFF SD
+http://maxptv.net:8080/jose/jose/208
+
+#EXTINF:-1,Canal Woohoo HD
+http://maxptv.net:8080/jose/jose/207
+
+#EXTINF:-1,Canal Woohoo SD
+http://maxptv.net:8080/jose/jose/206
+
+#EXTINF:-1,Cartoon Network HD
+http://maxptv.net:8080/jose/jose/524
+
+#EXTINF:-1,Cartoon Network SD
+http://maxptv.net:8080/jose/jose/204
+
+#EXTINF:-1,Comedy Central HD
+http://maxptv.net:8080/jose/jose/199
+
+#EXTINF:-1,Comedy Central SD
+http://maxptv.net:8080/jose/jose/198
+
+#EXTINF:-1,Combate HD
+http://maxptv.net:8080/jose/jose/201
+
+#EXTINF:-1,Combate SD
+http://maxptv.net:8080/jose/jose/200
+
+#EXTINF:-1,Cinemax HD
+http://maxptv.net:8080/jose/jose/203
+
+#EXTINF:-1,Cinemax SD
+http://maxptv.net:8080/jose/jose/202
+
+#EXTINF:-1,Black Kamen Rider 24H
+http://maxptv.net:8080/jose/jose/537
+
+#EXTINF:-1,Canal CSI 24H
+http://maxptv.net:8080/jose/jose/538
+
+#EXTINF:-1,Cine Action 24H Ultra HD
+http://maxptv.net:8080/jose/jose/548
+
+#EXTINF:-1,Cine Aventura 24H Ultra HD
+http://maxptv.net:8080/jose/jose/549
+
+#EXTINF:-1,Cine Drama 24H Ultra HD
+http://maxptv.net:8080/jose/jose/550
+
+#EXTINF:-1,Cine Family 24H
+http://maxptv.net:8080/jose/jose/551
+
+#EXTINF:-1,Cine Faroeste 24H Ultra HD
+http://maxptv.net:8080/jose/jose/1478
+
+#EXTINF:-1,Cine Fiction 24H Ultra HD
+http://maxptv.net:8080/jose/jose/536
+
+#EXTINF:-1,Cine Fun 24H Ultra HD
+http://maxptv.net:8080/jose/jose/552
+
+#EXTINF:-1,Cine Guerra 24H Ultra HD
+http://maxptv.net:8080/jose/jose/1477
+
+#EXTINF:-1,Cine Horror 24H Ultra HD
+http://maxptv.net:8080/jose/jose/553
+
+#EXTINF:-1,CINE KIDS 24H ULTRA HD
+http://maxptv.net:8080/jose/jose/554
+
+#EXTINF:-1,CINE Nacionais 24H
+http://maxptv.net:8080/jose/jose/555
+
+#EXTINF:-1,Como eu Conheci a Sua Mae  24H
+http://maxptv.net:8080/jose/jose/567
+
+#EXTINF:-1,Cultura HD
+http://maxptv.net:8080/jose/jose/197
+
+#EXTINF:-1,CULTURA HD FHD
+http://maxptv.net:8080/jose/jose/3040
+
+#EXTINF:-1,Cultura SD
+http://maxptv.net:8080/jose/jose/196
+
+#EXTINF:-1,Cybercop 24H
+http://maxptv.net:8080/jose/jose/1479
+
+#EXTINF:-1,Discovery Channel HD
+http://maxptv.net:8080/jose/jose/195
+
+#EXTINF:-1,Discovery Channel SD
+http://maxptv.net:8080/jose/jose/194
+
+#EXTINF:-1,Discovery Home & Health HD
+http://maxptv.net:8080/jose/jose/191
+
+#EXTINF:-1,Discovery Home & Health SD
+http://maxptv.net:8080/jose/jose/190
+
+#EXTINF:-1,Discovery Kids HD
+http://maxptv.net:8080/jose/jose/189
+
+#EXTINF:-1,Discovery Kids SD
+http://maxptv.net:8080/jose/jose/188
+
+#EXTINF:-1,Discovery Science HD
+http://maxptv.net:8080/jose/jose/187
+
+#EXTINF:-1,Discovery Science SD
+http://maxptv.net:8080/jose/jose/186
+
+#EXTINF:-1,Discovery Theater HD
+http://maxptv.net:8080/jose/jose/185
+
+#EXTINF:-1,Discovery Theater SD
+http://maxptv.net:8080/jose/jose/184
+
+#EXTINF:-1,Discovery Turbo HD
+http://maxptv.net:8080/jose/jose/183
+
+#EXTINF:-1,Discovery Turbo SD
+http://maxptv.net:8080/jose/jose/182
+
+#EXTINF:-1,Discovery World HD
+http://maxptv.net:8080/jose/jose/181
+
+#EXTINF:-1,Discovery World SD
+http://maxptv.net:8080/jose/jose/180
+
+#EXTINF:-1,Disney Channel  HD
+http://maxptv.net:8080/jose/jose/179
+
+#EXTINF:-1,Disney Channel SD
+http://maxptv.net:8080/jose/jose/178
+
+#EXTINF:-1,Disney Junior HD
+http://maxptv.net:8080/jose/jose/177
+
+#EXTINF:-1,Disney Junior SD
+http://maxptv.net:8080/jose/jose/176
+
+#EXTINF:-1,Disney XD HD
+http://maxptv.net:8080/jose/jose/175
+
+#EXTINF:-1,Disney XD SD
+http://maxptv.net:8080/jose/jose/174
+
+#EXTINF:-1,DR. House 24HR
+http://maxptv.net:8080/jose/jose/568
+
+#EXTINF:-1,Dragoes  24H
+http://maxptv.net:8080/jose/jose/1480
+
+#EXTINF:-1,E! HD
+http://maxptv.net:8080/jose/jose/516
+
+#EXTINF:-1,E! SD
+http://maxptv.net:8080/jose/jose/172
+
+#EXTINF:-1,EPTV Campinas HD
+http://maxptv.net:8080/jose/jose/238
+
+#EXTINF:-1,EPTV Campinas HD 2
+http://maxptv.net:8080/jose/jose/246
+
+#EXTINF:-1,EPTV Campinas SD
+http://maxptv.net:8080/jose/jose/237
+
+#EXTINF:-1,Eptv FHD Ribeirao
+http://maxptv.net:8080/jose/jose/3073
+
+#EXTINF:-1,Espn  2 HD
+http://maxptv.net:8080/jose/jose/171
+
+#EXTINF:-1,Espn  2 SD
+http://maxptv.net:8080/jose/jose/170
+
+#EXTINF:-1,Espn Brasil HD
+http://maxptv.net:8080/jose/jose/169
+
+#EXTINF:-1,Espn Brasil SD
+http://maxptv.net:8080/jose/jose/168
+
+#EXTINF:-1,Espn Extra  SD
+http://maxptv.net:8080/jose/jose/164
+
+#EXTINF:-1,Espn Extra HD
+http://maxptv.net:8080/jose/jose/165
+
+#EXTINF:-1,Espn HD
+http://maxptv.net:8080/jose/jose/167
+
+#EXTINF:-1,Espn SD
+http://maxptv.net:8080/jose/jose/166
+
+#EXTINF:-1,Eu a Patroa e as Crianças
+http://maxptv.net:8080/jose/jose/321
+
+#EXTINF:-1,Familia da Pesada 24H
+http://maxptv.net:8080/jose/jose/1481
+
+#EXTINF:-1,Familia Dinossauro  24H
+http://maxptv.net:8080/jose/jose/569
+
+#EXTINF:-1,FISH TV HD
+http://maxptv.net:8080/jose/jose/525
+
+#EXTINF:-1,Fish TV SD
+http://maxptv.net:8080/jose/jose/161
+
+#EXTINF:-1,Food Network HD
+http://maxptv.net:8080/jose/jose/158
+
+#EXTINF:-1,Food Network SD
+http://maxptv.net:8080/jose/jose/159
+
+#EXTINF:-1,FOX HD
+http://maxptv.net:8080/jose/jose/157
+
+#EXTINF:-1,FOX Life HD
+http://maxptv.net:8080/jose/jose/156
+
+#EXTINF:-1,FOX Life SD
+http://maxptv.net:8080/jose/jose/155
+
+#EXTINF:-1,Fox Premium 2 HD
+http://maxptv.net:8080/jose/jose/526
+
+#EXTINF:-1,Fox Premium 2 SD
+http://maxptv.net:8080/jose/jose/527
+
+#EXTINF:-1,Fox Premium HD
+http://maxptv.net:8080/jose/jose/528
+
+#EXTINF:-1,Fox Premium SD
+http://maxptv.net:8080/jose/jose/151
+
+#EXTINF:-1,FOX SD
+http://maxptv.net:8080/jose/jose/150
+
+#EXTINF:-1,Fox Sports 2 HD
+http://maxptv.net:8080/jose/jose/529
+
+#EXTINF:-1,Fox Sports 2 SD
+http://maxptv.net:8080/jose/jose/148
+
+#EXTINF:-1,Fox Sports HD
+http://maxptv.net:8080/jose/jose/147
+
+#EXTINF:-1,Fox Sports SD
+http://maxptv.net:8080/jose/jose/146
+
+#EXTINF:-1,FX HD
+http://maxptv.net:8080/jose/jose/145
+
+#EXTINF:-1,FX SD
+http://maxptv.net:8080/jose/jose/144
+
+#EXTINF:-1,Galinha Pintadinha 24H
+http://maxptv.net:8080/jose/jose/1476
+
+#EXTINF:-1,Globo Ribeirão HD
+http://maxptv.net:8080/jose/jose/985
+
+#EXTINF:-1,Globo Ribeirão SD
+http://maxptv.net:8080/jose/jose/986
+
+#EXTINF:-1,Globo SP HD
+http://maxptv.net:8080/jose/jose/72
+
+#EXTINF:-1,Globo SP SD
+http://maxptv.net:8080/jose/jose/71
+
+#EXTINF:-1,GloboNews HD
+http://maxptv.net:8080/jose/jose/143
+
+#EXTINF:-1,GloboNews SD
+http://maxptv.net:8080/jose/jose/142
+
+#EXTINF:-1,Gloob HD
+http://maxptv.net:8080/jose/jose/530
+
+#EXTINF:-1,Gloob SD
+http://maxptv.net:8080/jose/jose/140
+
+#EXTINF:-1,GNT HD
+http://maxptv.net:8080/jose/jose/139
+
+#EXTINF:-1,GNT SD
+http://maxptv.net:8080/jose/jose/138
+
+#EXTINF:-1,H2 HD
+http://maxptv.net:8080/jose/jose/137
+
+#EXTINF:-1,H2 SD
+http://maxptv.net:8080/jose/jose/523
+
+#EXTINF:-1,HBO 2 HD
+http://maxptv.net:8080/jose/jose/135
+
+#EXTINF:-1,HBO 2 SD
+http://maxptv.net:8080/jose/jose/134
+
+#EXTINF:-1,HBO Family HD
+http://maxptv.net:8080/jose/jose/133
+
+#EXTINF:-1,HBO Family SD
+http://maxptv.net:8080/jose/jose/132
+
+#EXTINF:-1,HBO HD
+http://maxptv.net:8080/jose/jose/131
+
+#EXTINF:-1,HBO Plus HD
+http://maxptv.net:8080/jose/jose/128
+
+#EXTINF:-1,HBO Plus SD
+http://maxptv.net:8080/jose/jose/127
+
+#EXTINF:-1,HBO SD
+http://maxptv.net:8080/jose/jose/126
+
+#EXTINF:-1,HBO Signature HD
+http://maxptv.net:8080/jose/jose/531
+
+#EXTINF:-1,HBO Signature SD
+http://maxptv.net:8080/jose/jose/124
+
+#EXTINF:-1,History Channel HD
+http://maxptv.net:8080/jose/jose/532
+
+#EXTINF:-1,History Channel SD
+http://maxptv.net:8080/jose/jose/122
+
+#EXTINF:-1,Homem-Aranha 24H
+http://maxptv.net:8080/jose/jose/566
+
+#EXTINF:-1,ID HD
+http://maxptv.net:8080/jose/jose/121
+
+#EXTINF:-1,ID SD
+http://maxptv.net:8080/jose/jose/120
+
+#EXTINF:-1,Jaspion 24H
+http://maxptv.net:8080/jose/jose/570
+
+#EXTINF:-1,Jiraya  O Incrivel Ninja 24H
+http://maxptv.net:8080/jose/jose/1475
+
+#EXTINF:-1,Larva 24H
+http://maxptv.net:8080/jose/jose/1474
+
+#EXTINF:-1,Lifetime HD
+http://maxptv.net:8080/jose/jose/522
+
+#EXTINF:-1,Lifetime SD
+http://maxptv.net:8080/jose/jose/118
+
+#EXTINF:-1,Lion Man 24H
+http://maxptv.net:8080/jose/jose/1473
+
+#EXTINF:-1,Looney Tunnes 24H
+http://maxptv.net:8080/jose/jose/565
+
+#EXTINF:-1,Mais Globosat HD
+http://maxptv.net:8080/jose/jose/117
+
+#EXTINF:-1,Mais Globosat SD
+http://maxptv.net:8080/jose/jose/116
+
+#EXTINF:-1,MARVEL & DC 24H
+http://maxptv.net:8080/jose/jose/545
+
+#EXTINF:-1,HBO Mundi HD
+http://maxptv.net:8080/jose/jose/521
+
+#EXTINF:-1,HBO Xtreme HD
+http://maxptv.net:8080/jose/jose/520
+
+#EXTINF:-1,HBO Xtreme SD
+http://maxptv.net:8080/jose/jose/113
+
+#EXTINF:-1,HBO Mundi SD
+http://maxptv.net:8080/jose/jose/112
+
+#EXTINF:-1,HBO Pop HD
+http://maxptv.net:8080/jose/jose/111
+
+#EXTINF:-1,HBO Pop SD
+http://maxptv.net:8080/jose/jose/110
+
+#EXTINF:-1,Megapix HD
+http://maxptv.net:8080/jose/jose/109
+
+#EXTINF:-1,Megapix SD
+http://maxptv.net:8080/jose/jose/108
+
+#EXTINF:-1,MR. Bean 24H
+http://maxptv.net:8080/jose/jose/546
+
+#EXTINF:-1,MTV HD
+http://maxptv.net:8080/jose/jose/519
+
+#EXTINF:-1,MTV SD
+http://maxptv.net:8080/jose/jose/106
+
+#EXTINF:-1,MULTISHOW HD
+http://maxptv.net:8080/jose/jose/105
+
+#EXTINF:-1,MULTISHOW SD
+http://maxptv.net:8080/jose/jose/104
+
+#EXTINF:-1,Naruto 24H
+http://maxptv.net:8080/jose/jose/564
+
+#EXTINF:-1,Nat Geo Kids HD
+http://maxptv.net:8080/jose/jose/518
+
+#EXTINF:-1,Nat Geo Kids SD
+http://maxptv.net:8080/jose/jose/102
+
+#EXTINF:-1,Nat Geo Wild HD
+http://maxptv.net:8080/jose/jose/101
+
+#EXTINF:-1,Nat Geo Wild SD
+http://maxptv.net:8080/jose/jose/100
+
+#EXTINF:-1,National Geographic HD
+http://maxptv.net:8080/jose/jose/99
+
+#EXTINF:-1,National Geographic SD
+http://maxptv.net:8080/jose/jose/98
+
+#EXTINF:-1,NHK HD
+http://maxptv.net:8080/jose/jose/97
+
+#EXTINF:-1,NHK SD
+http://maxptv.net:8080/jose/jose/96
+
+#EXTINF:-1,Nick Jr HD
+http://maxptv.net:8080/jose/jose/95
+
+#EXTINF:-1,Nick Jr SD
+http://maxptv.net:8080/jose/jose/94
+
+#EXTINF:-1,Nickelodeon HD
+http://maxptv.net:8080/jose/jose/93
+
+#EXTINF:-1,Nickelodeon SD
+http://maxptv.net:8080/jose/jose/92
+
+#EXTINF:-1,Os Simpsons 24H
+http://maxptv.net:8080/jose/jose/563
+
+#EXTINF:-1,Os Vingadores 24H
+http://maxptv.net:8080/jose/jose/1482
+
+#EXTINF:-1,Paramount Channel HD
+http://maxptv.net:8080/jose/jose/91
+
+#EXTINF:-1,Paramount Channel SD
+http://maxptv.net:8080/jose/jose/90
+
+#EXTINF:-1,Peppa Pig 24H
+http://maxptv.net:8080/jose/jose/562
+
+#EXTINF:-1,Playboy HD
+http://maxptv.net:8080/jose/jose/88
+
+#EXTINF:-1,Playboy SD
+http://maxptv.net:8080/jose/jose/87
+
+#EXTINF:-1,POCOYO 24H
+http://maxptv.net:8080/jose/jose/561
+
+#EXTINF:-1,Pokemon 24H
+http://maxptv.net:8080/jose/jose/560
+
+#EXTINF:-1,Premiere 1 HD
+http://maxptv.net:8080/jose/jose/86
+
+#EXTINF:-1,Premiere 1 HD Alternativo
+http://maxptv.net:8080/jose/jose/1461
+
+#EXTINF:-1,Premiere 1 HD2
+http://maxptv.net:8080/jose/jose/247
+
+#EXTINF:-1,Premiere 1 SD
+http://maxptv.net:8080/jose/jose/85
+
+#EXTINF:-1,Premiere 2 HD
+http://maxptv.net:8080/jose/jose/84
+
+#EXTINF:-1,Premiere 2 HD Alternativo
+http://maxptv.net:8080/jose/jose/1462
+
+#EXTINF:-1,Premiere 2 SD
+http://maxptv.net:8080/jose/jose/83
+
+#EXTINF:-1,PREMIERE 3 FHD
+http://maxptv.net:8080/jose/jose/3065
+
+#EXTINF:-1,Premiere 3 HD
+http://maxptv.net:8080/jose/jose/82
+
+#EXTINF:-1,Premiere 3 HD Alternativo
+http://maxptv.net:8080/jose/jose/1463
+
+#EXTINF:-1,Premiere 3 SD
+http://maxptv.net:8080/jose/jose/81
+
+#EXTINF:-1,PREMIERE 4 FHD
+http://maxptv.net:8080/jose/jose/3066
+
+#EXTINF:-1,Premiere 4 HD
+http://maxptv.net:8080/jose/jose/80
+
+#EXTINF:-1,Premiere 4 HD Alternativo
+http://maxptv.net:8080/jose/jose/1464
+
+#EXTINF:-1,Premiere 4 SD
+http://maxptv.net:8080/jose/jose/79
+
+#EXTINF:-1,Premiere 5 HD
+http://maxptv.net:8080/jose/jose/78
+
+#EXTINF:-1,Premiere 5 HD Alternativo
+http://maxptv.net:8080/jose/jose/1465
+
+#EXTINF:-1,Premiere 5 SD
+http://maxptv.net:8080/jose/jose/77
+
+#EXTINF:-1,Premiere 7 HD
+http://maxptv.net:8080/jose/jose/74
+
+#EXTINF:-1,Premiere 7 HD Alternativo
+http://maxptv.net:8080/jose/jose/1467
+
+#EXTINF:-1,Premiere 7 SD
+http://maxptv.net:8080/jose/jose/73
+
+#EXTINF:-1,Record HD
+http://maxptv.net:8080/jose/jose/240
+
+#EXTINF:-1,Record HD 2
+http://maxptv.net:8080/jose/jose/68
+
+#EXTINF:-1,Record News HD
+http://maxptv.net:8080/jose/jose/67
+
+#EXTINF:-1,Record News SD
+http://maxptv.net:8080/jose/jose/66
+
+#EXTINF:-1,Record SD
+http://maxptv.net:8080/jose/jose/239
+
+#EXTINF:-1,Record SP HD
+http://maxptv.net:8080/jose/jose/65
+
+#EXTINF:-1,Record SP SD
+http://maxptv.net:8080/jose/jose/64
+
+#EXTINF:-1,REDE TV FHD
+http://maxptv.net:8080/jose/jose/3071
+
+#EXTINF:-1,Rede Vida HD
+http://maxptv.net:8080/jose/jose/62
+
+#EXTINF:-1,Rede Vida SD
+http://maxptv.net:8080/jose/jose/63
+
+#EXTINF:-1,RedeTV HD
+http://maxptv.net:8080/jose/jose/61
+
+#EXTINF:-1,RedeTV SD
+http://maxptv.net:8080/jose/jose/60
+
+#EXTINF:-1,Rá -Tim Bum- HD
+http://maxptv.net:8080/jose/jose/70
+
+#EXTINF:-1,Rá- Tim- Bum SD
+http://maxptv.net:8080/jose/jose/69
+
+#EXTINF:-1,SBT FHD INTERIOR
+http://maxptv.net:8080/jose/jose/3060
+
+#EXTINF:-1,Sbt HD
+http://maxptv.net:8080/jose/jose/59
+
+#EXTINF:-1,Sbt SD
+http://maxptv.net:8080/jose/jose/58
+
+#EXTINF:-1,Sextreme HD
+http://maxptv.net:8080/jose/jose/57
+
+#EXTINF:-1,Sextreme SD
+http://maxptv.net:8080/jose/jose/56
+
+#EXTINF:-1,Sexy Hot HD
+http://maxptv.net:8080/jose/jose/55
+
+#EXTINF:-1,Sexy Hot SD
+http://maxptv.net:8080/jose/jose/54
+
+#EXTINF:-1,Show da Luna 24H
+http://maxptv.net:8080/jose/jose/559
+
+#EXTINF:-1,Sony HD
+http://maxptv.net:8080/jose/jose/53
+
+#EXTINF:-1,Sony SD
+http://maxptv.net:8080/jose/jose/52
+
+#EXTINF:-1,South Park 24H
+http://maxptv.net:8080/jose/jose/544
+
+#EXTINF:-1,Space HD
+http://maxptv.net:8080/jose/jose/51
+
+#EXTINF:-1,Space SD
+http://maxptv.net:8080/jose/jose/50
+
+#EXTINF:-1,SporTV HD
+http://maxptv.net:8080/jose/jose/49
+
+#EXTINF:-1,SporTV SD
+http://maxptv.net:8080/jose/jose/48
+
+#EXTINF:-1,SporTV2 HD
+http://maxptv.net:8080/jose/jose/47
+
+#EXTINF:-1,SporTV2 SD
+http://maxptv.net:8080/jose/jose/46
+
+#EXTINF:-1,SporTV3 HD
+http://maxptv.net:8080/jose/jose/45
+
+#EXTINF:-1,SporTV3 SD
+http://maxptv.net:8080/jose/jose/44
+
+#EXTINF:-1,Studio Universal HD
+http://maxptv.net:8080/jose/jose/43
+
+#EXTINF:-1,Studio Universal SD
+http://maxptv.net:8080/jose/jose/42
+
+#EXTINF:-1,Syfy HD
+http://maxptv.net:8080/jose/jose/41
+
+#EXTINF:-1,Syfy SD
+http://maxptv.net:8080/jose/jose/40
+
+#EXTINF:-1,Tbs HD
+http://maxptv.net:8080/jose/jose/39
+
+#EXTINF:-1,Tbs SD
+http://maxptv.net:8080/jose/jose/38
+
+#EXTINF:-1,TCM HD
+http://maxptv.net:8080/jose/jose/37
+
+#EXTINF:-1,TCM SD
+http://maxptv.net:8080/jose/jose/36
+
+#EXTINF:-1,Telecine Action HD
+http://maxptv.net:8080/jose/jose/35
+
+#EXTINF:-1,Telecine Action SD
+http://maxptv.net:8080/jose/jose/34
+
+#EXTINF:-1,Telecine Cult HD
+http://maxptv.net:8080/jose/jose/33
+
+#EXTINF:-1,Telecine Cult SD
+http://maxptv.net:8080/jose/jose/32
+
+#EXTINF:-1,Telecine Fun HD
+http://maxptv.net:8080/jose/jose/31
+
+#EXTINF:-1,Telecine Fun SD
+http://maxptv.net:8080/jose/jose/30
+
+#EXTINF:-1,Telecine Pipoca HD
+http://maxptv.net:8080/jose/jose/29
+
+#EXTINF:-1,Telecine Pipoca SD
+http://maxptv.net:8080/jose/jose/28
+
+#EXTINF:-1,Telecine Premium HD
+http://maxptv.net:8080/jose/jose/27
+
+#EXTINF:-1,Telecine Premium SD
+http://maxptv.net:8080/jose/jose/26
+
+#EXTINF:-1,Telecine Touch HD
+http://maxptv.net:8080/jose/jose/25
+
+#EXTINF:-1,Telecine Touch SD
+http://maxptv.net:8080/jose/jose/24
+
+#EXTINF:-1,The Backyardigans 24H
+http://maxptv.net:8080/jose/jose/558
+
+#EXTINF:-1,The Big Bang Theory 24H
+http://maxptv.net:8080/jose/jose/543
+
+#EXTINF:-1,TLC HD
+http://maxptv.net:8080/jose/jose/23
+
+#EXTINF:-1,TLC SD
+http://maxptv.net:8080/jose/jose/22
+
+#EXTINF:-1,TNT HD
+http://maxptv.net:8080/jose/jose/21
+
+#EXTINF:-1,TNT SD
+http://maxptv.net:8080/jose/jose/20
+
+#EXTINF:-1,TNT Series HD
+http://maxptv.net:8080/jose/jose/517
+
+#EXTINF:-1,TNT Series SD
+http://maxptv.net:8080/jose/jose/18
+
+#EXTINF:-1,Todo Mundo Odeia o Cris
+http://maxptv.net:8080/jose/jose/317
+
+#EXTINF:-1,Tom & Jerry  24H
+http://maxptv.net:8080/jose/jose/557
+
+#EXTINF:-1,Tooncast HD
+http://maxptv.net:8080/jose/jose/17
+
+#EXTINF:-1,Tooncast SD
+http://maxptv.net:8080/jose/jose/16
+
+#EXTINF:-1,TV Aparecida HD
+http://maxptv.net:8080/jose/jose/15
+
+#EXTINF:-1,TV Aparecida SD
+http://maxptv.net:8080/jose/jose/14
+
+#EXTINF:-1,TV Rio Preto
+http://maxptv.net:8080/jose/jose/13
+
+#EXTINF:-1,Two And a Half Man 24H
+http://maxptv.net:8080/jose/jose/542
+
+#EXTINF:-1,Um Maluco No Pedaco  24H
+http://maxptv.net:8080/jose/jose/541
+
+#EXTINF:-1,Universal Channel HD
+http://maxptv.net:8080/jose/jose/12
+
+#EXTINF:-1,Universal Channel SD
+http://maxptv.net:8080/jose/jose/11
+
+#EXTINF:-1,Venus HD
+http://maxptv.net:8080/jose/jose/10
+
+#EXTINF:-1,Venus SD
+http://maxptv.net:8080/jose/jose/9
+
+#EXTINF:-1,VH1 HD
+http://maxptv.net:8080/jose/jose/8
+
+#EXTINF:-1,VH1 SD
+http://maxptv.net:8080/jose/jose/7
+
+#EXTINF:-1,Viva HD
+http://maxptv.net:8080/jose/jose/6
+
+#EXTINF:-1,Viva SD
+http://maxptv.net:8080/jose/jose/5
+
+#EXTINF:-1,Warner Bros HD
+http://maxptv.net:8080/jose/jose/4
+
+#EXTINF:-1,Warner Bros SD
+http://maxptv.net:8080/jose/jose/3
+
+#EXTINF:-1,X-Men Evolution 24H
+http://maxptv.net:8080/jose/jose/1483
+
+#EXTINF:-1,Zoomoo HD
+http://maxptv.net:8080/jose/jose/2
+
+#EXTINF:-1,Zoomoo SD
+http://maxptv.net:8080/jose/jose/1
+
+
 #EXTINF:-1,RTL CRO
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 
