@@ -600,9 +600,6 @@ http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 #EXTINF:-1,group-title="China" Hong Kong Open TV
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 
-#EXTINF:-1,group-title="China" RTHK 31
-http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8
-
 #EXTINF:-1,group-title="China" Canal Macau
 http://61.244.22.4/ch2/ch2.live/playelist.m3u8
 
@@ -654,9 +651,6 @@ http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8?fluxustv.m3u8
 
 #EXTINF:-1,group-title="China" UChannel TV
 http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
-
-#EXTINF:-1,group-title="India" 5aab TV
-http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 
 #EXTINF:-1,group-title="India" Aaj Tak
 http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
@@ -1036,8 +1030,7 @@ http://live.4ulive.ir/
 http://edge-stream-07.otv.co.th/livestream/5Plus.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="http://i65.tinypic.com/wmf409.jpg" tvg-country="IT" tvg-url="" group-title="",51 Radio TV
 http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/k9M5ydW.png" tvg-country="CA" tvg-url="" group-title="",5AAB TV
-http://158.69.124.9:1935/5aabtv/5aabtv/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/k9M5ydW.png" tvg-country="CA" tvg-url="" group-title="",5AAB TV
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/PUNJAB5AAB.jpg" tvg-country="IN" tvg-url="" group-title="",5aab TV
@@ -2777,8 +2770,7 @@ https://live.creacast.com/d5tv/smil:d5tv.smil/chunklist_w958420568_b1928000.m3u8
 http://live.creacast.com/d5tv/smil:d5tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-logo="http://danangtv.vn/images/drt1.png" tvg-country="VN" tvg-url="" group-title="",Da Nang TV1
 http://vietcago.net/vstv/danangtv1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-logo="http://danangtv.vn/images/drt1.png" tvg-country="VN" tvg-url="" group-title="",Da Nang TV1 HD
-http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/9I4gX5Y.png" tvg-country="VN" tvg-url="" group-title="",Da Nang TV2
 http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://pmcvariety.files.wordpress.com/2019/06/dabl-herologo1-e1560713804358.jpg" tvg-country="US" tvg-url="" group-title="",Dabl
@@ -2828,8 +2820,6 @@ https://5949aa132c8fb.streamlock.net:554/iptvbhtv/livebhtvtv/playlist.m3u8
 http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
 #EXTINF:-1 tvg-id="Deejay TV IT" tvg-name="Deejay TV IT" tvg-language="Italian" tvg-logo="" tvg-country="IT" tvg-url="" group-title="Music",DeeJay TV
 http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://v4.deltatv.gr/images/deltaTV-logo.png" tvg-country="GR" tvg-url="" group-title="",Delta TV
-http://video.onestreaming.com:8081/deltatv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/gkzlRED.jpg" tvg-country="NL" tvg-url="" group-title="",Den Haag TV
 http://wowza5.video-streams.nl:1935/denhaag/denhaag/playlist.m3u8
@@ -3745,9 +3735,6 @@ http://202.93.133.3:1935/SVR1/ch_hiduptv.stream_720p/playlist.m3u8
 https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Swedish" tvg-logo="https://i.imgur.com/pW6pPFF.jpg" tvg-country="SE" tvg-url="" group-title="Religious",Himlen TV7
 http://vod.tv7.fi:1935/tv7-se/_definst_/mp4:tv7-se.stream_360p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Sinhala" tvg-logo="http://www.asiaexhibition.lk/images/partners/partner%20logo%20hiru.jpg" tvg-country="LK" tvg-url="" group-title="",Hiru TV
-http://cdncities.com/8012/8012/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="" tvg-country="IT" tvg-url="" group-title="History",History Lab
 http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
@@ -4864,12 +4851,7 @@ http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?ref=http://
 http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/gn66K1Z.png" tvg-country="BR" tvg-url="" group-title="Education",MultiRio
 http://187.111.97.45:1935/webtv/webtv/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/LHtd9oT.png" tvg-country="AR" tvg-url="" group-title="",Multivision Argentina
-http://panel.dattalive.com:1935/8250/8250/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/LHtd9oT.png" tvg-country="AR" tvg-url="" group-title="",Multivision Argentina
-http://panel.dattalive.com:1935/8250/8250/chunklist_w689217833.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/LHtd9oT.png" tvg-country="AR" tvg-url="" group-title="",Multivision Argentina
-http://panel.dattalive.com:1935/8250/8250/chunklist_w689217833.m3u8?GrupoTopIptv
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/CREs19T.png" tvg-country="CO" tvg-url="" group-title="",Mundo Mas
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/PEFW4Vy.png" tvg-country="PS" tvg-url="" group-title="",MusawaChannel
@@ -4912,8 +4894,7 @@ https://edge1a.v2h-cdn.com/appt7/MVLAO.stream_720p/chunklist_w1228847336.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Burmese" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mvm.jpg" tvg-country="MM" tvg-url="" group-title="",MVTV Myanmar
 https://edge1a.v2h-cdn.com/appt7/MVM.stream_720p/chunklist_w2034544246.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mvi.png" tvg-country="TH" tvg-url="" group-title="",MVTVI
-https://edge1a.v2h-cdn.com/appt7/WSM.stream_720p/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Burmese" tvg-logo="https://pbs.twimg.com/profile_images/2518099812/ogpxiyy659mwls0bdqu7.jpeg" tvg-country="MM" tvg-url="" group-title="",MWD
 http://203.81.84.130/hls/mwd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Burmese" tvg-logo="https://i.pinimg.com/236x/63/0b/81/630b814e80a6fdad1f020e1606590c27.jpg" tvg-country="MM" tvg-url="" group-title="",MWD Variety
