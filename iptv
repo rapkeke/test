@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1,Fan TV
 http://195.9.195.3:8080/hls/157239.m3u8
 
@@ -14,9 +13,6 @@ https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 
 #EXTINF:-1,Duck TV
 http://livecdnh3.tvanywhere.ae/hls/duck/04.m3u8
-
-#EXTINF:-1,Hodhod
-http://51.158.184.234/hls/stream.m3u8
 
 #EXTINF:-1,Kuriakos Kids
 http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8?fluxustv.m3u8
@@ -48,9 +44,6 @@ http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/ind
 #EXTINF:-1,group-title="Movie Channel" BFlix Movies
 https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
 
-#EXTINF:-1,Bioskop Indonesia
-http://192.154.103.75:8080/ZZ_chZZongzuo/ZZ_chZZongzuo.m3u8
-
 #EXTINF:-1,ConTV
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/640x360_756000/chunklist.m3u8
 
@@ -78,23 +71,6 @@ http://112.50.243.8/PLTV/88888888/224/3221225926/1.m3u8
 #EXTINF:-1,Screamfest
 https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
 
-#EXTINF:-1,Star Gold
-http://216.144.250.174/Star_G0ld_HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,Sony Max
-http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8
-
-#EXTINF:-1,The Film Detective
-https://distro.akamaized.net/indexfd_1280x720.m3u8
-
-#EXTINF:-1,Zee Aflam
-http://livecdnh3.tvanywhere.ae/hls/zeeaflam/03.m3u8
-
-#EXTINF:-1,Zee Action HD
-http://103.214.202.218:8081/live/zeeaction-35/chunks.m3u8
-
-#EXTINF:-1,Zee Cafe
-http://103.214.202.218:8081/live/zeecafe-30/playlist.m3u8
 
 #EXTINF:-1,BBC World News UK
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
@@ -141,35 +117,7 @@ http://161.0.157.51/pltv/88888888/224/3221227040/01.m3u8
 #EXTINF:-1,DPRK Central TV North Korea
 http://tv.nknews.org/tvhls/stream.m3u8
 
-#EXTINF:-1,History 2
-http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
 
-#EXTINF:-1,National Geographic
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
-
-#EXTINF:-1,National Geographic Abu Dhabi
-http://livecdnh2.tvanywhere.ae/hls/nat_geo_auh/05.m3u8
-
-#EXTINF:-1,Nat Geo Wild
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
-
-#EXTINF:-1,Nat Geo People
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
-
-#EXTINF:-1,Fox Life
-https://plbl.m9.lfstrm.tv/fox_life/normal/1/index.m3u8
-
-#EXTINF:-1,Lifetime HD
-http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8
-
-#EXTINF:-1,Discovery Channel
-http://streamidvo.multitvsolution.in/DiscoveryEng-a/playlist.m3u8
-
-#EXTINF:-1,Discovery Turbo
-http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
-
-#EXTINF:-1,Discovery Science
-http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
 
 #EXTINF:-1,Sony TV
 http://216.144.250.174/Sony_TV_HD_02/playlist.m3u8
@@ -336,161 +284,8 @@ http://stream.streamislam.com:8080/streamer/live/index.m3u8
 #EXTINF:-1,Jewish Life TV
 http://d3svwuchx5fp62.cloudfront.net/rtplive/smil:jltv.smil/chunklist.m3u8
 
-#EXTINF:-1,KSA Sports
-https://edge-1192-ch-gv.filmon.com/live/1781.high.stream/playlist.m3u8
 
-#EXTINF:-1,KWTV Sports
-https://kwmedia.hibridmedia.com/kwmedia/kwtvsports_dabr/kwmedia/kwtvsports_1080p/chunks.m3u8
 
-#EXTINF:-1,ATG
-https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
-
-#EXTINF:-1,Olympic Channel
-http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
-
-#EXTINF:-1,Real Madrid TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
-
-#EXTINF:-1,Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-
-#EXTINF:-1,Super Tennis
-http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
-
-#EXTINF:-1,TDM Macau Sports
-http://persik.tv/stream/3602/287583/10249.m3u8
-
-#EXTINF:-1,True Primier Football 1
-https://dl.dropboxusercontent.com/s/dkpvgxn6684d1ee/TrueEPL.m3u8
-
-#EXTINF:-1,True Primier Football 2
-https://dl.dropboxusercontent.com/s/cw3qjl8togdqvg7/TrueEPL2.m3u8
-
-#EXTINF:-1,True Primier Football 3
-https://dl.dropboxusercontent.com/s/iov7zo0dq3x5ty2/TrueEPL3.m3u8
-
-#EXTINF:-1,True Primier Football 4
-https://dl.dropboxusercontent.com/s/r3pq90qpz4jsc16/TrueEPL4.m3u8
-
-#EXTINF:-1,True Primier Football 5
-https://dl.dropboxusercontent.com/s/1g6hje6lx2nr8x4/TrueEPL5.m3u8
-
-#EXTINF:-1,nusantara TV
-https://v6.siar.us/nusantaratv/live/playlist.m3u8
-
-#EXTINF:-1,SCTV
-http://id1.indostreamingtv.com/live/sctv/index.m3u8
-
-#EXTINF:-1,TRANS TV
-https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-
-#EXTINF:-1,TRANS TV HD 1
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_w670976066_b384000_sleng.m3u8
-
-#EXTINF:-1,TRANS 7
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
-
-#EXTINF:-1,TRANS 7 HD 1
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_w140890010_b384000_sleng.m3u8
-
-#EXTINF:-1,MNC News
-http://202.80.222.130/000001/2/ch14041511564438196910/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1,METRO TV HD
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
-
-#EXTINF:-1,Indosiar Bola
-http://id1.indostreamingtv.com/live/indosiar/index.m3u8
-
-#EXTINF:-1,Rajawali TV
-http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1,Rajawali TV 1
-http://202.80.222.171:80/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com&IASHttpSessionId=OTT2198020181031055334464619
-
-#EXTINF:-1,Rajawali TV 2
-http://202.80.222.130/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1,Mgs TV
-http://wowza58.indostreamserver.com:1935/mgstv/live/playlist.m3u8
-
-#EXTINF:-1,I-News TV
-http://202.80.222.171:80/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1,CNN Indonesia HD
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
-
-#EXTINF:-1,CNN Indonesia 1
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1829045216_b384000_sleng.m3u8
-
-#EXTINF:-1,CNBC Indonesia
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
-
-#EXTINF:-1,CNBC Indonesia 1
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b280000_sleng.m3u8
-
-#EXTINF:-1,ADi TV Jogja
-http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
-
-#EXTINF:-1,JakTV
-http://202.80.222.182:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1,JakTV 2
-http://202.80.222.130/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1,JTV 2
-http://202.80.222.175/000001/2/ch00000090990000001731/1001.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1,Bali TV
-http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1,TVKU
-http://103.30.1.14:8080/hls/live.m3u8
-
-#EXTINF:-1,Padang TV
-https://video2.onlivestreaming.net/robot/livestream/chunks.m3u8
-
-#EXTINF:-1,BeritaSatu WORLD
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
-
-#EXTINF:-1,Channel NewsAsia
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-
-#EXTINF:-1,CNBC Indonesia 1
-http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8
-
-#EXTINF:-1,CNN Indonesia
-http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-
-#EXTINF:-1,CNN Indonesia
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w672934803_b384000_sleng.m3u8
-
-#EXTINF:-1,Padang TV
-https://video2.onlivestreaming.net/robot/livestream/playlist.m3u8
-
-#EXTINF:-1,Radio 51 TV
-http://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
-
-#EXTINF:-1,Rai Gulp
-http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
-
-#EXTINF:-1,RAI PREMIUM
-http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
-
-#EXTINF:-1,RAI YOYO
-http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
-
-#EXTINF:-1,Ruang Trampil
-https://dl.dropbox.com/s/8ih2a47l4xq4p2r/Ruangtrampil2.m3u8?dl=0
-
-#EXTINF:-1,TV Chosun
-http://live.chosun.gscdn.com/live/_definst_/tvchosun3.stream/playlist.m3u8
-
-#EXTINF:-1,TVIKIM
-http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/chunks.m3u8
-
-#EXTINF:-1,TVRI DKI Jakarta
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8
 
 #EXTINF:-1,(ONLINE) Abu Dhabi Sports 4
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
@@ -519,9 +314,6 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.
 #EXTINF:-1,JASMIN TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 
-#EXTINF:-1,(ONLINE) TV-CHOSUN
-http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/playlist.m3u8
-
 #EXTINF:-1,(ONLINE) ARIRANG KOREA
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u
 
@@ -537,23 +329,9 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8
 #EXTINF:-1,(ONLINE) MUSIC TOP
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
 
-#EXTINF:-1,NAT GEO
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8?IWAK-PEYEK.m3u8
-
-#EXTINF:-1,NAT GEO PEOPLE
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8?IWAK-PEYEK.m3u8
-
-#EXTINF:-1,STAR MOVIES
-http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8?IWAK-PEYEK.m3u8
-
-#EXTINF:-1,STAR WORLD
-http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8?IWAK-PEYEK.m3u8
-
 #EXTINF:-1,BTV NEWS
 http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
 
-#EXTINF:-1,(ONLINE) DUBAI RACING UAE
-http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
 
 #EXTINF:-1,(ONLINE) REAL MADRID TV ESP
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_0450_av-p.m3u8?sd=10&rebase=on
@@ -576,35 +354,7 @@ https://a.jsrdn.com/r-373576a1/publish/22680_3BR3zocwi9/index.m3u8
 #EXTINF:-1,NTV (US)
 https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
 
-#EXTINF:-1,Boogle Bollywood
-http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 
-#EXTINF:-1,Desi TV USA
-http://cdn30.liveonlineservices.com/hls/desitv.m3u8
-
-#EXTINF:-1,Ekta TV
-http://fastway.ddns.net:6421/fastway/alive/index.m3u8?token=fastwaytvstreams
-
-#EXTINF:-1,Gabruu TV (AU)
-http://104.237.60.234/live/gabruutv.m3u8
-
-#EXTINF:-1,Hungama - Kadak Hits
-http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
-
-#EXTINF:-1,Santhora TV (DE)
-http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/chunklist_w1802293946.m3u8
-
-#EXTINF:-1,Tamil Business TV (DE)
-http://rtmp.santhoratv.zecast.net/tamilbusinesstv//tamilbusinesstv/playlist.m3u8
-
-#EXTINF:-1,TCV Tirur
-http://live.wmncdn.net/ttv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
-
-#EXTINF:-1,Venus TV (UK) (Opt-1)
-https://a.jsrdn.com/broadcast/22690/-0500/c.m3u8
-
-#EXTINF:-1,yo punjabi
-https://yopunjabihdlive-lh.akamaihd.net/i/YoPunjabiHDLive_1_1@345454/index_1_a-b.m3u8?sd=10&rebase=on
 
 #EXTINF:-1,92 News (Opt-1)
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
@@ -690,11 +440,7 @@ https://linier.akamaized.net:443/live/eds/iNews_Logo/sa_hls/iNews_Logo-avc1_2000
 #EXTINF:-1,METRO TV 2
 http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
 
-#EXTINF:-1,EUROSPORT 1
-http://163.172.179.78:8081/tv/eurosport-1/playlist.m3u8
 
-#EXTINF:-1,EUROSPORT 2
-http://163.172.179.78:8081/tv/eurosport-2/playlist.m3u8
 
 #EXTINF:-1,BE MAD
 https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
@@ -702,11 +448,7 @@ https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
 #EXTINF:-1,MANOTO
 https://d2rwmwucnr0d10.cloudfront.net/live_500.m3u8
 
-#EXTINF:-1,Telenord 8 (Opt-2)
-http://newyorkstreamss2.ddns.net:28987/telenord8/telenord8/media_w1713557519.m3u8
 
-#EXTINF:-1,NAT GEO WILD
-http://livecdnh1.TVanywhere.ae/hls/nat_geo_wild/03.m3u8?
 
 #EXTINF:-1,New York City (NY) (Times Square 1)
 https://videos3.earthcam.com/fecnetwork/4017timessquare.flv/chunklist_w2120301051.m3u8
@@ -843,20 +585,7 @@ http://maxptv.net:8080/jose/jose/236
 #EXTINF:-1,A&E SD
 http://maxptv.net:8080/jose/jose/235
 
-#EXTINF:-1,Amc HD
-http://maxptv.net:8080/jose/jose/512
 
-#EXTINF:-1,AMC SD
-http://maxptv.net:8080/jose/jose/233
-
-#EXTINF:-1,Animal Planet HD
-http://maxptv.net:8080/jose/jose/232
-
-#EXTINF:-1,Animal Planet SD
-http://maxptv.net:8080/jose/jose/231
-
-#EXTINF:-1,AXN HD
-http://maxptv.net:8080/jose/jose/535
 
 #EXTINF:-1,BabyTV HD
 http://maxptv.net:8080/jose/jose/226
@@ -930,11 +659,7 @@ http://maxptv.net:8080/jose/jose/207
 #EXTINF:-1,Canal Woohoo SD
 http://maxptv.net:8080/jose/jose/206
 
-#EXTINF:-1,Cartoon Network HD
-http://maxptv.net:8080/jose/jose/524
 
-#EXTINF:-1,Cartoon Network SD
-http://maxptv.net:8080/jose/jose/204
 
 #EXTINF:-1,Comedy Central HD
 http://maxptv.net:8080/jose/jose/199
@@ -948,11 +673,7 @@ http://maxptv.net:8080/jose/jose/201
 #EXTINF:-1,Combate SD
 http://maxptv.net:8080/jose/jose/200
 
-#EXTINF:-1,Cinemax HD
-http://maxptv.net:8080/jose/jose/203
 
-#EXTINF:-1,Cinemax SD
-http://maxptv.net:8080/jose/jose/202
 
 #EXTINF:-1,Black Kamen Rider 24H
 http://maxptv.net:8080/jose/jose/537
@@ -999,74 +720,18 @@ http://maxptv.net:8080/jose/jose/567
 #EXTINF:-1,Cultura HD
 http://maxptv.net:8080/jose/jose/197
 
-#EXTINF:-1,CULTURA HD FHD
-http://maxptv.net:8080/jose/jose/3040
-
 #EXTINF:-1,Cultura SD
 http://maxptv.net:8080/jose/jose/196
 
 #EXTINF:-1,Cybercop 24H
 http://maxptv.net:8080/jose/jose/1479
 
-#EXTINF:-1,Discovery Channel HD
-http://maxptv.net:8080/jose/jose/195
 
-#EXTINF:-1,Discovery Channel SD
-http://maxptv.net:8080/jose/jose/194
-
-#EXTINF:-1,Discovery Home & Health HD
-http://maxptv.net:8080/jose/jose/191
-
-#EXTINF:-1,Discovery Home & Health SD
-http://maxptv.net:8080/jose/jose/190
-
-#EXTINF:-1,Discovery Kids HD
-http://maxptv.net:8080/jose/jose/189
-
-#EXTINF:-1,Discovery Kids SD
-http://maxptv.net:8080/jose/jose/188
-
-#EXTINF:-1,Discovery Science HD
-http://maxptv.net:8080/jose/jose/187
-
-#EXTINF:-1,Discovery Science SD
-http://maxptv.net:8080/jose/jose/186
-
-#EXTINF:-1,Discovery Theater HD
-http://maxptv.net:8080/jose/jose/185
-
-#EXTINF:-1,Discovery Theater SD
-http://maxptv.net:8080/jose/jose/184
-
-#EXTINF:-1,Discovery Turbo HD
-http://maxptv.net:8080/jose/jose/183
-
-#EXTINF:-1,Discovery Turbo SD
-http://maxptv.net:8080/jose/jose/182
-
-#EXTINF:-1,Discovery World HD
-http://maxptv.net:8080/jose/jose/181
 
 #EXTINF:-1,Discovery World SD
 http://maxptv.net:8080/jose/jose/180
 
-#EXTINF:-1,Disney Channel  HD
-http://maxptv.net:8080/jose/jose/179
 
-#EXTINF:-1,Disney Channel SD
-http://maxptv.net:8080/jose/jose/178
-
-#EXTINF:-1,Disney Junior HD
-http://maxptv.net:8080/jose/jose/177
-
-#EXTINF:-1,Disney Junior SD
-http://maxptv.net:8080/jose/jose/176
-
-#EXTINF:-1,Disney XD HD
-http://maxptv.net:8080/jose/jose/175
-
-#EXTINF:-1,Disney XD SD
-http://maxptv.net:8080/jose/jose/174
 
 #EXTINF:-1,DR. House 24HR
 http://maxptv.net:8080/jose/jose/568
@@ -1089,32 +754,6 @@ http://maxptv.net:8080/jose/jose/246
 #EXTINF:-1,EPTV Campinas SD
 http://maxptv.net:8080/jose/jose/237
 
-#EXTINF:-1,Eptv FHD Ribeirao
-http://maxptv.net:8080/jose/jose/3073
-
-#EXTINF:-1,Espn  2 HD
-http://maxptv.net:8080/jose/jose/171
-
-#EXTINF:-1,Espn  2 SD
-http://maxptv.net:8080/jose/jose/170
-
-#EXTINF:-1,Espn Brasil HD
-http://maxptv.net:8080/jose/jose/169
-
-#EXTINF:-1,Espn Brasil SD
-http://maxptv.net:8080/jose/jose/168
-
-#EXTINF:-1,Espn Extra  SD
-http://maxptv.net:8080/jose/jose/164
-
-#EXTINF:-1,Espn Extra HD
-http://maxptv.net:8080/jose/jose/165
-
-#EXTINF:-1,Espn HD
-http://maxptv.net:8080/jose/jose/167
-
-#EXTINF:-1,Espn SD
-http://maxptv.net:8080/jose/jose/166
 
 #EXTINF:-1,Eu a Patroa e as Crianças
 http://maxptv.net:8080/jose/jose/321
@@ -1137,41 +776,6 @@ http://maxptv.net:8080/jose/jose/158
 #EXTINF:-1,Food Network SD
 http://maxptv.net:8080/jose/jose/159
 
-#EXTINF:-1,FOX HD
-http://maxptv.net:8080/jose/jose/157
-
-#EXTINF:-1,FOX Life HD
-http://maxptv.net:8080/jose/jose/156
-
-#EXTINF:-1,FOX Life SD
-http://maxptv.net:8080/jose/jose/155
-
-#EXTINF:-1,Fox Premium 2 HD
-http://maxptv.net:8080/jose/jose/526
-
-#EXTINF:-1,Fox Premium 2 SD
-http://maxptv.net:8080/jose/jose/527
-
-#EXTINF:-1,Fox Premium HD
-http://maxptv.net:8080/jose/jose/528
-
-#EXTINF:-1,Fox Premium SD
-http://maxptv.net:8080/jose/jose/151
-
-#EXTINF:-1,FOX SD
-http://maxptv.net:8080/jose/jose/150
-
-#EXTINF:-1,Fox Sports 2 HD
-http://maxptv.net:8080/jose/jose/529
-
-#EXTINF:-1,Fox Sports 2 SD
-http://maxptv.net:8080/jose/jose/148
-
-#EXTINF:-1,Fox Sports HD
-http://maxptv.net:8080/jose/jose/147
-
-#EXTINF:-1,Fox Sports SD
-http://maxptv.net:8080/jose/jose/146
 
 #EXTINF:-1,FX HD
 http://maxptv.net:8080/jose/jose/145
@@ -1218,41 +822,6 @@ http://maxptv.net:8080/jose/jose/137
 #EXTINF:-1,H2 SD
 http://maxptv.net:8080/jose/jose/523
 
-#EXTINF:-1,HBO 2 HD
-http://maxptv.net:8080/jose/jose/135
-
-#EXTINF:-1,HBO 2 SD
-http://maxptv.net:8080/jose/jose/134
-
-#EXTINF:-1,HBO Family HD
-http://maxptv.net:8080/jose/jose/133
-
-#EXTINF:-1,HBO Family SD
-http://maxptv.net:8080/jose/jose/132
-
-#EXTINF:-1,HBO HD
-http://maxptv.net:8080/jose/jose/131
-
-#EXTINF:-1,HBO Plus HD
-http://maxptv.net:8080/jose/jose/128
-
-#EXTINF:-1,HBO Plus SD
-http://maxptv.net:8080/jose/jose/127
-
-#EXTINF:-1,HBO SD
-http://maxptv.net:8080/jose/jose/126
-
-#EXTINF:-1,HBO Signature HD
-http://maxptv.net:8080/jose/jose/531
-
-#EXTINF:-1,HBO Signature SD
-http://maxptv.net:8080/jose/jose/124
-
-#EXTINF:-1,History Channel HD
-http://maxptv.net:8080/jose/jose/532
-
-#EXTINF:-1,History Channel SD
-http://maxptv.net:8080/jose/jose/122
 
 #EXTINF:-1,Homem-Aranha 24H
 http://maxptv.net:8080/jose/jose/566
@@ -1293,23 +862,7 @@ http://maxptv.net:8080/jose/jose/116
 #EXTINF:-1,MARVEL & DC 24H
 http://maxptv.net:8080/jose/jose/545
 
-#EXTINF:-1,HBO Mundi HD
-http://maxptv.net:8080/jose/jose/521
 
-#EXTINF:-1,HBO Xtreme HD
-http://maxptv.net:8080/jose/jose/520
-
-#EXTINF:-1,HBO Xtreme SD
-http://maxptv.net:8080/jose/jose/113
-
-#EXTINF:-1,HBO Mundi SD
-http://maxptv.net:8080/jose/jose/112
-
-#EXTINF:-1,HBO Pop HD
-http://maxptv.net:8080/jose/jose/111
-
-#EXTINF:-1,HBO Pop SD
-http://maxptv.net:8080/jose/jose/110
 
 #EXTINF:-1,Megapix HD
 http://maxptv.net:8080/jose/jose/109
@@ -1335,41 +888,7 @@ http://maxptv.net:8080/jose/jose/104
 #EXTINF:-1,Naruto 24H
 http://maxptv.net:8080/jose/jose/564
 
-#EXTINF:-1,Nat Geo Kids HD
-http://maxptv.net:8080/jose/jose/518
 
-#EXTINF:-1,Nat Geo Kids SD
-http://maxptv.net:8080/jose/jose/102
-
-#EXTINF:-1,Nat Geo Wild HD
-http://maxptv.net:8080/jose/jose/101
-
-#EXTINF:-1,Nat Geo Wild SD
-http://maxptv.net:8080/jose/jose/100
-
-#EXTINF:-1,National Geographic HD
-http://maxptv.net:8080/jose/jose/99
-
-#EXTINF:-1,National Geographic SD
-http://maxptv.net:8080/jose/jose/98
-
-#EXTINF:-1,NHK HD
-http://maxptv.net:8080/jose/jose/97
-
-#EXTINF:-1,NHK SD
-http://maxptv.net:8080/jose/jose/96
-
-#EXTINF:-1,Nick Jr HD
-http://maxptv.net:8080/jose/jose/95
-
-#EXTINF:-1,Nick Jr SD
-http://maxptv.net:8080/jose/jose/94
-
-#EXTINF:-1,Nickelodeon HD
-http://maxptv.net:8080/jose/jose/93
-
-#EXTINF:-1,Nickelodeon SD
-http://maxptv.net:8080/jose/jose/92
 
 #EXTINF:-1,Os Simpsons 24H
 http://maxptv.net:8080/jose/jose/563
@@ -1398,68 +917,6 @@ http://maxptv.net:8080/jose/jose/561
 #EXTINF:-1,Pokemon 24H
 http://maxptv.net:8080/jose/jose/560
 
-#EXTINF:-1,Premiere 1 HD
-http://maxptv.net:8080/jose/jose/86
-
-#EXTINF:-1,Premiere 1 HD Alternativo
-http://maxptv.net:8080/jose/jose/1461
-
-#EXTINF:-1,Premiere 1 HD2
-http://maxptv.net:8080/jose/jose/247
-
-#EXTINF:-1,Premiere 1 SD
-http://maxptv.net:8080/jose/jose/85
-
-#EXTINF:-1,Premiere 2 HD
-http://maxptv.net:8080/jose/jose/84
-
-#EXTINF:-1,Premiere 2 HD Alternativo
-http://maxptv.net:8080/jose/jose/1462
-
-#EXTINF:-1,Premiere 2 SD
-http://maxptv.net:8080/jose/jose/83
-
-#EXTINF:-1,PREMIERE 3 FHD
-http://maxptv.net:8080/jose/jose/3065
-
-#EXTINF:-1,Premiere 3 HD
-http://maxptv.net:8080/jose/jose/82
-
-#EXTINF:-1,Premiere 3 HD Alternativo
-http://maxptv.net:8080/jose/jose/1463
-
-#EXTINF:-1,Premiere 3 SD
-http://maxptv.net:8080/jose/jose/81
-
-#EXTINF:-1,PREMIERE 4 FHD
-http://maxptv.net:8080/jose/jose/3066
-
-#EXTINF:-1,Premiere 4 HD
-http://maxptv.net:8080/jose/jose/80
-
-#EXTINF:-1,Premiere 4 HD Alternativo
-http://maxptv.net:8080/jose/jose/1464
-
-#EXTINF:-1,Premiere 4 SD
-http://maxptv.net:8080/jose/jose/79
-
-#EXTINF:-1,Premiere 5 HD
-http://maxptv.net:8080/jose/jose/78
-
-#EXTINF:-1,Premiere 5 HD Alternativo
-http://maxptv.net:8080/jose/jose/1465
-
-#EXTINF:-1,Premiere 5 SD
-http://maxptv.net:8080/jose/jose/77
-
-#EXTINF:-1,Premiere 7 HD
-http://maxptv.net:8080/jose/jose/74
-
-#EXTINF:-1,Premiere 7 HD Alternativo
-http://maxptv.net:8080/jose/jose/1467
-
-#EXTINF:-1,Premiere 7 SD
-http://maxptv.net:8080/jose/jose/73
 
 #EXTINF:-1,Record HD
 http://maxptv.net:8080/jose/jose/240
@@ -1482,9 +939,6 @@ http://maxptv.net:8080/jose/jose/65
 #EXTINF:-1,Record SP SD
 http://maxptv.net:8080/jose/jose/64
 
-#EXTINF:-1,REDE TV FHD
-http://maxptv.net:8080/jose/jose/3071
-
 #EXTINF:-1,Rede Vida HD
 http://maxptv.net:8080/jose/jose/62
 
@@ -1502,9 +956,6 @@ http://maxptv.net:8080/jose/jose/70
 
 #EXTINF:-1,Rá- Tim- Bum SD
 http://maxptv.net:8080/jose/jose/69
-
-#EXTINF:-1,SBT FHD INTERIOR
-http://maxptv.net:8080/jose/jose/3060
 
 #EXTINF:-1,Sbt HD
 http://maxptv.net:8080/jose/jose/59
@@ -1542,23 +993,6 @@ http://maxptv.net:8080/jose/jose/51
 #EXTINF:-1,Space SD
 http://maxptv.net:8080/jose/jose/50
 
-#EXTINF:-1,SporTV HD
-http://maxptv.net:8080/jose/jose/49
-
-#EXTINF:-1,SporTV SD
-http://maxptv.net:8080/jose/jose/48
-
-#EXTINF:-1,SporTV2 HD
-http://maxptv.net:8080/jose/jose/47
-
-#EXTINF:-1,SporTV2 SD
-http://maxptv.net:8080/jose/jose/46
-
-#EXTINF:-1,SporTV3 HD
-http://maxptv.net:8080/jose/jose/45
-
-#EXTINF:-1,SporTV3 SD
-http://maxptv.net:8080/jose/jose/44
 
 #EXTINF:-1,Studio Universal HD
 http://maxptv.net:8080/jose/jose/43
@@ -1713,9 +1147,6 @@ http://103.199.160.85/Content/insync/Live/Channel(Insync)/index.m3u8
 #EXTINF:-1,MRTV-4
 http://104275ooyala-lh.akamaihd.net/i/forevergroup_02@449366/master.m3u8?fluxustv.m3u8
 
-#EXTINF:-1,Info TDN
-http://108.175.14.125:1935/tdn/tdn/chunklist.m3u8
-
 #EXTINF:-1,Ahlulbayt TV
 http://109.123.126.14:1935/live/livestream1.sdp/chunklist.m3u8
 
@@ -1757,9 +1188,6 @@ http://149.202.68.178:1935/live/peprecasens/manifest.m3u8?fluxustv.m3u8
 
 #EXTINF:-1,PTV Cordoba
 http://149.91.98.146:1935/cordoba/stream/master.m3u8
-
-#EXTINF:-1,Canale 40 Carbonia
-http://151.80.100.112:1935/canale40/canale40/playlist.m3u8?fluxustv.m3u8
 
 #EXTINF:-1,Elche 7 TV
 http://154.60.248.32/hls/canal1.m3u8
@@ -1935,9 +1363,6 @@ http://62.113.210.250:1935/medienasa-live/ok-wettin_high/playlist.m3u8?fluxustv.
 #EXTINF:-1,QS24
 http://62.113.221.4/tv2000plus-live/_definst_/mp4:quantisana/playlist.m3u8
 
-#EXTINF:-1,Intercomarcal TV
-http://78.41.83.88:8880/hls/tvixa.m3u8
-
 #EXTINF:-1,ONT
 http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
 
@@ -2019,9 +1444,6 @@ http://streamidvo.multitvsolution.in/live/DiscoveryKidsHindi-a/p4.m3u8
 #EXTINF:-1,Sony YAY
 https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 
-#EXTINF:-1,Cartoon Network
-https://stream.simpaisa.com/pitvlive2/cartoon_360p/playlist.m3u8?checkedby:iptvcat.com
-
 #EXTINF:-1,Shemaroo Kids
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_1280x720_cf.m3u8
 
@@ -2055,59 +1477,10 @@ https://nicls2-lh.akamaihd.net/i/rstv_1@26970/index_1_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,TLC
 http://streamidvo.multitvsolution.in/TLCHDHindi-a/playlist.m3u8
 
-#EXTINF:-1,Discovery
-http://streamidvo.multitvsolution.in/live/DiscoveryHindi-a/p3.m3u8
-
-#EXTINF:-1,Animal Planet HD
-http://streamidvo.multitvsolution.in/live/APHDHindi-a/p3.m3u8
-
-#EXTINF:-1,Discovery ID
-http://streamidvo.multitvsolution.in/Investigation_Discovery-a/playlist.m3u8
-
-#EXTINF:-1,Discovery Science
-http://streamidvo.multitvsolution.in/live/DiscoverScienceHindi-a/p2.m3u8
-
-#EXTINF:-1,Sony BBC Earth
-https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-
-#EXTINF:-1,NatGeo Wild
-https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
-
-#EXTINF:-1,NatGeo People
-https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
-
-#EXTINF:-1,History 2
-http://livecdnh1.tvanywhere.ae:80/hls/h2/03.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,National Geo People
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/03.m3u8
 
 #EXTINF:-1,NASA TV
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 
-#EXTINF:-1,Ten 1
-https://sony247channels.akamaized.net/hls/live/2004802/SONYTEN1HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
-
-#EXTINF:-1,TEN 2
-https://sony247channels.akamaized.net/hls/live/2004803/SONYTEN2HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
-
-#EXTINF:-1,TEN 3
-https://sony247channels.akamaized.net/hls/live/2004804/SONYTEN3HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
-
-#EXTINF:-1,Sony Six
-https://sony247channels.akamaized.net/hls/live/2004801/SonySIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
-
-#EXTINF:-1,Sadhna
-http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/playlist.m3u8
-
-#EXTINF:-1,Shraddha
-http://rtmp.smartstream.video:1935/mhoneshradha/mhoneshradha/playlist.m3u8
-
-#EXTINF:-1,Star Movies
-http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,Star World
-http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8?sd=10&rebase=on
 
 #EXTINF:-1,Artist Aloud
 https://linear10hun-lh.akamaihd.net/i/artistaloud_1@741583/master.m3u8
@@ -2136,23 +1509,8 @@ http://13.232.161.202:1935/goldIn/smil:Live.smil/chunklist_w1976498641_b1396000_
 #EXTINF:-1,Q Tv
 https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
 
-#EXTINF:-1,HUM TV HD
-https://stream.simpaisa.com/pitvlive2/humtvnew3/playlist.m3u8
-
 #EXTINF:-1,92 News
 https://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
-
-#EXTINF:-1,Dawn News
-http://stream.tapmad.com:1935/pitvlive2/dawnnews3/playlist.m3u8
-
-#EXTINF:-1,Play Tv
-http://stream.tapmad.com:1935/pitvlive2/playmax3/playlist.m3u8?
-
-#EXTINF:-1,Express Tv
-http://stream.tapmad.com:1935/pitvlive2/express3/playlist.m3u8?
-
-#EXTINF:-1,Khyber Tv
-http://stream.tapmad.com:1935/pitvlive2/khyber3/playlist.m3u8?
 
 #EXTINF:-1,iFILM Persian 2
 http://mn-nl.mncdn.com/ifilm/smil:ifilmfa2.smil/index.m3u8
@@ -2220,12 +1578,6 @@ http://31.14.40.139:1935/liveTrans/Kurmanci/chunklist.m3u8
 #EXTINF:-1,Kuriakos Kids
 http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8
 
-#EXTINF:-1,SCTV
-http://id1.indostreamingtv.com:80/live/sctv/index.m3u8
-
-#EXTINF:-1,TV ONE
-http://id1.indostreamingtv.com/live/tv444/index.m3u8?regieaerlays
-
 #EXTINF:-1,CNN INDONESIA HD
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1705215623_b384000_sleng.m3u8
 
@@ -2261,9 +1613,6 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p
 
 #EXTINF:-1,Telekanal Prjamij
 http://api.tv.ipnet.ua/api/v1/manifest/1293294600.m3u8?codec=mpeg4
-
-#EXTINF:-1,Maxxi TV
-http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8?codec=mpeg4&app=playlist
 
 #EXTINF:-1,O TV Music
 http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8?codec=mpeg4&app=playlist
@@ -2583,9 +1932,6 @@ http://cloudtv.provideo.es/live/algecirastv-livestream.m3u8?fluxustv.m3u8
 #EXTINF:-1,Alcarria TV (Opt-2)
 http://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8?fluxustv.m3u8
 
-#EXTINF:-1,Central Luzon TV 36
-http://cltv36-lh.akamaihd.net/i/cltv36_1@300961/master.m3u8
-
 #EXTINF:-1,Television del Este
 http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8?fluxustv.m3u8
 
@@ -2609,9 +1955,6 @@ http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8?fluxustv.m
 
 #EXTINF:-1,Canal Parlamento (Opt-1)
 http://congresodirecto-f.akamaihd.net:80/i/congreso6_1@54665/master.m3u8
-
-#EXTINF:-1,13 Max
-http://coninfo.net:1935/13maxhd/live_720p/chunklist_w352743074.m3u8
 
 #EXTINF:-1,Ciudad TV Chaco
 http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
@@ -3057,12 +2400,6 @@ http://keshethlslive-lh.akamaihd.net/i/c2nsec_1@195268/master.m3u8
 #EXTINF:-1,KBVR TV OSU
 http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8
 
-#EXTINF:-1,TeleBarn (Opt-2)
-http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/sd/10000/t/XTGwenpKUhx_fbVnsiu9MQ/master.m3u8
-
-#EXTINF:-1,TeleBarn (Opt-1)
-http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/t/gaudIWTPWrpJe6yJmHI9vA/index-s32.m3u8
-
 #EXTINF:-1,Tele M1
 http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_ljzy3evp/sd/10000/t/nwOKUovT2mwnA8x_KnC4zg/index-s32.m3u8
 
@@ -3098,9 +2435,6 @@ http://linear08hun-lh.akamaihd.net/i/nazrana_1@673935/master.m3u8
 
 #EXTINF:-1,Alsace 20
 http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
-
-#EXTINF:-1,Dersim 62
-http://live.arkumedia.com:1935/dersim62tv/dersim62tv/playlist.m3u8
 
 #EXTINF:-1,Finans Turk TV
 http://live.arkumedia.com:1935/finansturktv/finansturktv/playlist.m3u8
@@ -3261,20 +2595,7 @@ http://livecdnh1.tvanywhere.ae/hls/cin1/index.m3u8
 #EXTINF:-1,DMC Drama
 http://livecdnh1.tvanywhere.ae/hls/dmcdrama/04.m3u8
 
-#EXTINF:-1,National Geographic
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 
-#EXTINF:-1,Nat Geo People
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/02.m3u8
-
-#EXTINF:-1,Nat Geo People
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/04.m3u8
-
-#EXTINF:-1,Nat Geo Wild
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
-
-#EXTINF:-1,Nat Geo Wild HD
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8
 
 #EXTINF:-1,Star Movies (HD)
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8?fluxustv.m3u8
@@ -3876,35 +3197,8 @@ http://a.srvbr.me:8880/138906/138906/4203
 #EXTINF:-1,A&E [PLUS]
 http://a.srvbr.me:8880/138906/138906/4167
 
-#EXTINF:-1,AMC
-http://a.srvbr.me:8880/138906/138906/5077
 
-#EXTINF:-1,AMC HD
-http://a.srvbr.me:8880/138906/138906/5076
 
-#EXTINF:-1,AMC [PLUS]
-http://a.srvbr.me:8880/138906/138906/4644
-
-#EXTINF:-1,AXN
-http://a.srvbr.me:8880/138906/138906/893
-
-#EXTINF:-1,AXN HD
-http://a.srvbr.me:8880/138906/138906/892
-
-#EXTINF:-1,AXN HD [PLUS]
-http://a.srvbr.me:8880/138906/138906/4165
-
-#EXTINF:-1,Animal Planet
-http://a.srvbr.me:8880/138906/138906/897
-
-#EXTINF:-1,Animal Planet HD
-http://a.srvbr.me:8880/138906/138906/896
-
-#EXTINF:-1,Animal Planet Full HD
-http://a.srvbr.me:8880/138906/138906/5436
-
-#EXTINF:-1,Animal Planet [PLUS]
-http://a.srvbr.me:8880/138906/138906/4166
 
 #EXTINF:-1,Arte 1
 http://a.srvbr.me:8880/138906/138906/894
@@ -3987,15 +3281,6 @@ http://a.srvbr.me:8880/138906/138906/877
 #EXTINF:-1,Cartoon Network [PLUS]
 http://a.srvbr.me:8880/138906/138906/4159
 
-#EXTINF:-1,Cinemax
-http://a.srvbr.me:8880/138906/138906/876
-
-#EXTINF:-1,Cinemax HD
-http://a.srvbr.me:8880/138906/138906/1495
-
-#EXTINF:-1,Cinemax HD [PLUS]
-http://a.srvbr.me:8880/138906/138906/5124
-
 #EXTINF:-1,Comedy Central
 http://a.srvbr.me:8880/138906/138906/873
 
@@ -4026,117 +3311,6 @@ http://a.srvbr.me:8880/138906/138906/872
 #EXTINF:-1,Curta! HD
 http://a.srvbr.me:8880/138906/138906/5325
 
-#EXTINF:-1,Discovery Home & Health
-http://a.srvbr.me:8880/138906/138906/868
-
-#EXTINF:-1,Discovery Home & Health HD
-http://a.srvbr.me:8880/138906/138906/867
-
-#EXTINF:-1,Discovery Home & Health Full HD
-http://a.srvbr.me:8880/138906/138906/5433
-
-#EXTINF:-1,Discovery Home & Health [PLUS]
-http://a.srvbr.me:8880/138906/138906/4156
-
-#EXTINF:-1,Discovery Civilization
-http://a.srvbr.me:8880/138906/138906/869
-
-#EXTINF:-1,Discovery Civilization HD
-http://a.srvbr.me:8880/138906/138906/5324
-
-#EXTINF:-1,Discovery Civilization [PLUS]
-http://a.srvbr.me:8880/138906/138906/4157
-
-#EXTINF:-1,Discovery Channel
-http://a.srvbr.me:8880/138906/138906/871
-
-#EXTINF:-1,Discovery Channel HD
-http://a.srvbr.me:8880/138906/138906/870
-
-#EXTINF:-1,Discovery Channel Full HD
-http://a.srvbr.me:8880/138906/138906/5448
-
-#EXTINF:-1,Discovery Channel HD [PLUS]
-http://a.srvbr.me:8880/138906/138906/1834
-
-#EXTINF:-1,Discovery Kids
-http://a.srvbr.me:8880/138906/138906/866
-
-#EXTINF:-1,Discovery Kids HD
-http://a.srvbr.me:8880/138906/138906/1494
-
-#EXTINF:-1,Discovery kids Full HD
-http://a.srvbr.me:8880/138906/138906/5432
-
-#EXTINF:-1,Discovery Kids HD [PLUS]
-http://a.srvbr.me:8880/138906/138906/1835
-
-#EXTINF:-1,Discovery Science
-http://a.srvbr.me:8880/138906/138906/865
-
-#EXTINF:-1,Discovery Science HD
-http://a.srvbr.me:8880/138906/138906/5075
-
-#EXTINF:-1,Discovery Science [PLUS]
-http://a.srvbr.me:8880/138906/138906/4154
-
-#EXTINF:-1,Discovery Theater
-http://a.srvbr.me:8880/138906/138906/5323
-
-#EXTINF:-1,Discovery Theater HD
-http://a.srvbr.me:8880/138906/138906/864
-
-#EXTINF:-1,Discovery Theater HD [PLUS]
-http://a.srvbr.me:8880/138906/138906/4153
-
-#EXTINF:-1,Discovery World
-http://a.srvbr.me:8880/138906/138906/5322
-
-#EXTINF:-1,Discovery World HD
-http://a.srvbr.me:8880/138906/138906/861
-
-#EXTINF:-1,Discovery World Full HD
-http://a.srvbr.me:8880/138906/138906/5430
-
-#EXTINF:-1,Discovery World [PLUS]
-http://a.srvbr.me:8880/138906/138906/4151
-
-#EXTINF:-1,Disney Channel
-http://a.srvbr.me:8880/138906/138906/860
-
-#EXTINF:-1,Disney Channel HD
-http://a.srvbr.me:8880/138906/138906/1493
-
-#EXTINF:-1,Disney Channel Full HD
-http://a.srvbr.me:8880/138906/138906/5446
-
-#EXTINF:-1,Disney Channel HD [PLUS]
-http://a.srvbr.me:8880/138906/138906/4150
-
-#EXTINF:-1,Disney Junior
-http://a.srvbr.me:8880/138906/138906/859
-
-#EXTINF:-1,Disney Junior HD
-http://a.srvbr.me:8880/138906/138906/5562
-
-#EXTINF:-1,Disney XD
-http://a.srvbr.me:8880/138906/138906/858
-
-#EXTINF:-1,Disney XD [PLUS]
-http://a.srvbr.me:8880/138906/138906/4149
-
-#EXTINF:-1,Discovery Turbo
-http://a.srvbr.me:8880/138906/138906/863
-
-#EXTINF:-1,Discovery Turbo HD
-http://a.srvbr.me:8880/138906/138906/862
-
-#EXTINF:-1,Discovery Turbo Full HD
-http://a.srvbr.me:8880/138906/138906/5431
-
-#EXTINF:-1,Discovery Turbo HD [PLUS]
-http://a.srvbr.me:8880/138906/138906/4152
-
 #EXTINF:-1,E!
 http://a.srvbr.me:8880/138906/138906/857
 
@@ -4146,44 +3320,6 @@ http://a.srvbr.me:8880/138906/138906/4204
 #EXTINF:-1,EI PLUS SD
 http://a.srvbr.me:8880/138906/138906/11483
 
-#EXTINF:-1,ESPN
-http://a.srvbr.me:8880/138906/138906/4643
-
-#EXTINF:-1,ESPN HD
-http://a.srvbr.me:8880/138906/138906/848
-
-#EXTINF:-1,ESPN Full HD
-http://a.srvbr.me:8880/138906/138906/5458
-
-#EXTINF:-1,ESPN HD [PLUS]
-http://a.srvbr.me:8880/138906/138906/1839
-
-#EXTINF:-1,ESPN +  HD
-http://a.srvbr.me:8880/138906/138906/851
-
-#EXTINF:-1,ESPN EXTRA HD [PLUS]
-http://a.srvbr.me:8880/138906/138906/1837
-
-#EXTINF:-1,ESPN Brasil
-http://a.srvbr.me:8880/138906/138906/850
-
-#EXTINF:-1,ESPN Brasil HD
-http://a.srvbr.me:8880/138906/138906/849
-
-#EXTINF:-1,ESPN Brasil Full HD
-http://a.srvbr.me:8880/138906/138906/5459
-
-#EXTINF:-1,ESPN Brasil HD [PLUS]
-http://a.srvbr.me:8880/138906/138906/1838
-
-#EXTINF:-1,Espn Extra
-http://a.srvbr.me:8880/138906/138906/5321
-
-#EXTINF:-1,Espn Extra HD
-http://a.srvbr.me:8880/138906/138906/5320
-
-#EXTINF:-1,ESPN Extra Full HD
-http://a.srvbr.me:8880/138906/138906/5457
 
 #EXTINF:-1,Fish TV
 http://a.srvbr.me:8880/138906/138906/846
@@ -4200,68 +3336,6 @@ http://a.srvbr.me:8880/138906/138906/1491
 #EXTINF:-1,Food Network [PLUS]
 http://a.srvbr.me:8880/138906/138906/4145
 
-#EXTINF:-1,FOX
-http://a.srvbr.me:8880/138906/138906/844
-
-#EXTINF:-1,FOX HD
-http://a.srvbr.me:8880/138906/138906/841
-
-#EXTINF:-1,Fox Full HD
-http://a.srvbr.me:8880/138906/138906/5473
-
-#EXTINF:-1,FOX [PLUS]
-http://a.srvbr.me:8880/138906/138906/1842
-
-#EXTINF:-1,Fox Premium
-http://a.srvbr.me:8880/138906/138906/5318
-
-#EXTINF:-1,FOX Premium HD
-http://a.srvbr.me:8880/138906/138906/843
-
-#EXTINF:-1,FOX Premium HD [PLUS]
-http://a.srvbr.me:8880/138906/138906/4144
-
-#EXTINF:-1,Fox Premium 2
-http://a.srvbr.me:8880/138906/138906/5317
-
-#EXTINF:-1,FOX Premium 2 HD
-http://a.srvbr.me:8880/138906/138906/842
-
-#EXTINF:-1,Fox Premium 2 Full HD
-http://a.srvbr.me:8880/138906/138906/5429
-
-#EXTINF:-1,FOX Premium 2 HD [PLUS]
-http://a.srvbr.me:8880/138906/138906/4143
-
-#EXTINF:-1,Fox Life
-http://a.srvbr.me:8880/138906/138906/840
-
-#EXTINF:-1,FOX Life HD
-http://a.srvbr.me:8880/138906/138906/839
-
-#EXTINF:-1,Fox Sports
-http://a.srvbr.me:8880/138906/138906/837
-
-#EXTINF:-1,Fox Sports HD
-http://a.srvbr.me:8880/138906/138906/838
-
-#EXTINF:-1,Fox Sports Full HD
-http://a.srvbr.me:8880/138906/138906/5418
-
-#EXTINF:-1,Fox Sports HD [PLUS]
-http://a.srvbr.me:8880/138906/138906/1844
-
-#EXTINF:-1,Fox Sports 2
-http://a.srvbr.me:8880/138906/138906/836
-
-#EXTINF:-1,FOX Sports 2 HD
-http://a.srvbr.me:8880/138906/138906/835
-
-#EXTINF:-1,Fox Sports 2 Full HD
-http://a.srvbr.me:8880/138906/138906/5456
-
-#EXTINF:-1,FOX Sports 2 HD [PLUS]
-http://a.srvbr.me:8880/138906/138906/1843
 
 #EXTINF:-1,Futura
 http://a.srvbr.me:8880/138906/138906/834
@@ -4361,9 +3435,6 @@ http://a.srvbr.me:8880/138906/138906/5420
 
 #EXTINF:-1,Globo Curitiba
 http://a.srvbr.me:8880/138906/138906/5128
-
-#EXTINF:-1,Globo Curitiba HD
-http://a.srvbr.me:8880/138906/138906/5310
 
 #EXTINF:-1,Globo RPC Curitiba Full HD
 http://a.srvbr.me:8880/138906/138906/5469
@@ -4470,68 +3541,7 @@ http://a.srvbr.me:8880/138906/138906/821
 #EXTINF:-1,H2 [PLUS]
 http://a.srvbr.me:8880/138906/138906/4141
 
-#EXTINF:-1,HBO
-http://a.srvbr.me:8880/138906/138906/820
 
-#EXTINF:-1,HBO HD
-http://a.srvbr.me:8880/138906/138906/816
-
-#EXTINF:-1,HBO Full HD
-http://a.srvbr.me:8880/138906/138906/5467
-
-#EXTINF:-1,HBO HD [PLUS]
-http://a.srvbr.me:8880/138906/138906/1850
-
-#EXTINF:-1,HBO 2
-http://a.srvbr.me:8880/138906/138906/810
-
-#EXTINF:-1,HBO 2 HD
-http://a.srvbr.me:8880/138906/138906/819
-
-#EXTINF:-1,HBO 2 Full HD
-http://a.srvbr.me:8880/138906/138906/5468
-
-#EXTINF:-1,HBO 2 HD [PLUS]
-http://a.srvbr.me:8880/138906/138906/1849
-
-#EXTINF:-1,HBO Family
-http://a.srvbr.me:8880/138906/138906/818
-
-#EXTINF:-1,HBO Family HD
-http://a.srvbr.me:8880/138906/138906/817
-
-#EXTINF:-1,HBO Family HD [PLUS]
-http://a.srvbr.me:8880/138906/138906/4140
-
-#EXTINF:-1,HBO Plus
-http://a.srvbr.me:8880/138906/138906/815
-
-#EXTINF:-1,HBO Plus HD
-http://a.srvbr.me:8880/138906/138906/813
-
-#EXTINF:-1,HBO Plus HD [PLUS]
-http://a.srvbr.me:8880/138906/138906/4139
-
-#EXTINF:-1,HBO Signature
-http://a.srvbr.me:8880/138906/138906/812
-
-#EXTINF:-1,HBO Signature HD
-http://a.srvbr.me:8880/138906/138906/811
-
-#EXTINF:-1,HBO Signature HD [PLUS]
-http://a.srvbr.me:8880/138906/138906/4138
-
-#EXTINF:-1,History
-http://a.srvbr.me:8880/138906/138906/726
-
-#EXTINF:-1,History HD
-http://a.srvbr.me:8880/138906/138906/809
-
-#EXTINF:-1,History Full HD
-http://a.srvbr.me:8880/138906/138906/5424
-
-#EXTINF:-1,History HD [PLUS]
-http://a.srvbr.me:8880/138906/138906/4137
 
 #EXTINF:-1,ID
 http://a.srvbr.me:8880/138906/138906/807
@@ -4608,53 +3618,6 @@ http://a.srvbr.me:8880/138906/138906/794
 #EXTINF:-1,Music Box Brasil HD
 http://a.srvbr.me:8880/138906/138906/5304
 
-#EXTINF:-1,NatGeo Wild
-http://a.srvbr.me:8880/138906/138906/793
-
-#EXTINF:-1,NatGeo Wild HD
-http://a.srvbr.me:8880/138906/138906/702
-
-#EXTINF:-1,Nat Geo Wild Full HD
-http://a.srvbr.me:8880/138906/138906/5428
-
-#EXTINF:-1,Natgeo Kids
-http://a.srvbr.me:8880/138906/138906/5303
-
-#EXTINF:-1,Natgeo Kids HD
-http://a.srvbr.me:8880/138906/138906/5302
-
-#EXTINF:-1,National Geographic
-http://a.srvbr.me:8880/138906/138906/792
-
-#EXTINF:-1,National Geographic HD
-http://a.srvbr.me:8880/138906/138906/791
-
-#EXTINF:-1,National Geographic [PLUS]
-http://a.srvbr.me:8880/138906/138906/4129
-
-#EXTINF:-1,NHK
-http://a.srvbr.me:8880/138906/138906/789
-
-#EXTINF:-1,Nickelodeon
-http://a.srvbr.me:8880/138906/138906/787
-
-#EXTINF:-1,Nickelodeon HD
-http://a.srvbr.me:8880/138906/138906/1484
-
-#EXTINF:-1,Nicklodeon Full HD
-http://a.srvbr.me:8880/138906/138906/5426
-
-#EXTINF:-1,Nickelodeon HD [PLUS]
-http://a.srvbr.me:8880/138906/138906/4128
-
-#EXTINF:-1,Nick Jr.
-http://a.srvbr.me:8880/138906/138906/788
-
-#EXTINF:-1,Nick Jr. HD
-http://a.srvbr.me:8880/138906/138906/5301
-
-#EXTINF:-1,Nick JR Full HD
-http://a.srvbr.me:8880/138906/138906/5427
 
 #EXTINF:-1,OFF
 http://a.srvbr.me:8880/138906/138906/785
@@ -4758,9 +3721,6 @@ http://a.srvbr.me:8880/138906/138906/1857
 #EXTINF:-1,Record BA
 http://a.srvbr.me:8880/138906/138906/11072
 
-#EXTINF:-1,Record BA HD
-http://a.srvbr.me:8880/138906/138906/11071
-
 #EXTINF:-1,Record DF
 http://a.srvbr.me:8880/138906/138906/11069
 
@@ -4839,35 +3799,6 @@ http://a.srvbr.me:8880/138906/138906/752
 #EXTINF:-1,Space HD [PLUS]
 http://a.srvbr.me:8880/138906/138906/4114
 
-#EXTINF:-1,SporTV
-http://a.srvbr.me:8880/138906/138906/748
-
-#EXTINF:-1,Sportv Full HD
-http://a.srvbr.me:8880/138906/138906/5438
-
-#EXTINF:-1,SporTV HD [PLUS]
-http://a.srvbr.me:8880/138906/138906/1859
-
-#EXTINF:-1,SporTV2
-http://a.srvbr.me:8880/138906/138906/747
-
-#EXTINF:-1,SporTV2 HD
-http://a.srvbr.me:8880/138906/138906/751
-
-#EXTINF:-1,Sportv 2 Full HD
-http://a.srvbr.me:8880/138906/138906/5439
-
-#EXTINF:-1,SporTV2 HD [PLUS]
-http://a.srvbr.me:8880/138906/138906/1860
-
-#EXTINF:-1,SporTV3
-http://a.srvbr.me:8880/138906/138906/745
-
-#EXTINF:-1,Sportv 3 Full HD
-http://a.srvbr.me:8880/138906/138906/5440
-
-#EXTINF:-1,SporTV3 HD [PLUS]
-http://a.srvbr.me:8880/138906/138906/1861
 
 #EXTINF:-1,Studio Universal
 http://a.srvbr.me:8880/138906/138906/743
@@ -5040,14 +3971,6 @@ http://a.srvbr.me:8880/138906/138906/989
 #EXTINF:-1,(PT)Discovery Channel
 http://a.srvbr.me:8880/138906/138906/390
 
-#EXTINF:-1,(PT)DISNEY CHANNEL
-http://a.srvbr.me:8880/138906/138906/1002
-
-#EXTINF:-1,(PT)DISNEY JUNIOR
-http://a.srvbr.me:8880/138906/138906/1000
-
-#EXTINF:-1,(PT)Discovery Showcase
-http://a.srvbr.me:8880/138906/138906/1048
 
 #EXTINF:-1,(PT)DOG TV
 http://a.srvbr.me:8880/138906/138906/986
@@ -5057,9 +3980,6 @@ http://a.srvbr.me:8880/138906/138906/988
 
 #EXTINF:-1,(PT) Eleven Sports 1
 http://a.srvbr.me:8880/138906/138906/5676
-
-#EXTINF:-1,(PT) Eleven Sports 2
-http://a.srvbr.me:8880/138906/138906/5674
 
 #EXTINF:-1,(PT) Eleven Sports 2 HD
 http://a.srvbr.me:8880/138906/138906/5673
@@ -5184,18 +4104,6 @@ http://a.srvbr.me:8880/138906/138906/12119
 #EXTINF:-1,Playboy [PLUS]
 http://a.srvbr.me:8880/138906/138906/4121
 
-#EXTINF:-1,XX: Sex Hot
-http://a.srvbr.me:8880/138906/138906/1052
-
-#EXTINF:-1,Sexy Hot HD [PLUS]
-http://a.srvbr.me:8880/138906/138906/4116
-
-#EXTINF:-1,XX: SEXTREME
-http://a.srvbr.me:8880/138906/138906/512
-
-#EXTINF:-1,XX: Venus
-http://a.srvbr.me:8880/138906/138906/900
-
 #EXTINF:-1,RTSH 1 HD
 http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
 
@@ -5235,20 +4143,7 @@ https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_hig
 #EXTINF:-1,3ABN KIDS TV
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 
-#EXTINF:-1,Baby First
-http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 
-#EXTINF:-1,TV ONE backup
-http://id1.indostreamingtv.com/live/tv444/index.m3u8
-
-#EXTINF:-1,CNN INDONESIA
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-
-#EXTINF:-1,CNBC INDONESIA HD
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
-
-#EXTINF:-1,BERITA SATU
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
 
 #EXTINF:-1,Reformed21 HD
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
@@ -5384,9 +4279,6 @@ http://a.srvbr.me:8880/138906/138906/5832
 
 #EXTINF:-1,USA: ESPN 1 HD
 http://a.srvbr.me:8880/138906/138906/5829
-
-#EXTINF:-1,USA: NBC 6 HD
-http://a.srvbr.me:8880/138906/138906/5859
 
 #EXTINF:-1,USA: TELEXISTOS
 http://a.srvbr.me:8880/138906/138906/5849
