@@ -366,7 +366,7 @@ http://live.wmncdn.net/jantatv/live.stream/index.m3u8
 http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8
 
 #EXTINF:-1,group-title="INDIA", Jhanjar Music
-http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
+http://159.203.9.134/hls/jhanjar_#EXTINF:-1,group-title="PREMIUM",/jhanjar_#EXTINF:-1,group-title="PREMIUM",.m3u8
 
 #EXTINF:-1,group-title="INDIA", Khabrain Abhi Tak
 https://vidcdn.vidgyor.com/kat-origin/liveabr/kat-origin/live1/chunks.m3u8
@@ -593,7 +593,7 @@ http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/i
 #EXTINF:-1,group-title="Japan", Wowow
 http://203.162.235.41:16916
 
-#EXTINF:-1, tvg-id=" tvg-name="Music Channel" tvg-language="Romanian" tvg-logo="https://i.imgur.com/PRgvj4c.png" tvg-country="RO" tvg-url=" group-title="Music",1 Music Channel
+#EXTINF:-1, tvg-id=" tvg-name="#EXTINF:-1,group-title="PREMIUM", Channel" tvg-language="Romanian" tvg-logo="https://i.imgur.com/PRgvj4c.png" tvg-country="RO" tvg-url=" group-title="Music",1 Music Channel
 https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="" group-title="CAMPURAN",1-2-3.tv
@@ -780,6 +780,9 @@ https://mn-nl.mncdn.com/blutv_apara/smil:apara_hd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="A Spor TR" tvg-name="A Spor TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/2Fjh189/aspor.png" tvg-country="TR" tvg-url="" group-title="SPORT",A Spor
 https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_hd.smil/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="" group-title="CAMPURAN",a.tv
 https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
 
@@ -846,6 +849,91 @@ https://abp-i.akamaihd.net/hls/live/765531/abpmajha/masterhls_1564.m3u8
 #EXTINF:-1 tvg-id="ABP News-IN" tvg-name="ABP News-IN" tvg-language="English" tvg-logo="https://static.abplive.in/wp-content/themes/abp-hindi/images/logo/hindiLogoD.png" tvg-country="IN" tvg-url="http://epg.streamstv.me/epg/guide-india.xml.gz" group-title="News",ABP News
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
 #EXTINF:-1 tvg-id="Abu Dhabi Drama ARB" tvg-name="Abu Dhabi Drama ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7Bx66K7.jpg" tvg-country="AE" tvg-url="" group-title="CAMPURAN",Abu Dhabi Drama
+
+
+
+
+#EXTINF:-1,|PT|#EXTINF:-1,group-title="SPORT",V1 FHD
+http://51.159.21.231:2052/#EXTINF:-1,group-title="SPORT",PORTpro1/vgadJThhsjdfw33/1567
+
+#EXTINF:-1,|PT|#EXTINF:-1,group-title="SPORT",V 3
+http://51.159.21.231:2052/#EXTINF:-1,group-title="SPORT",PORTpro1/vgadJThhsjdfw33/1568
+
+#EXTINF:-1,|PT| #EXTINF:-1,group-title="SPORT",V1 HD
+http://51.159.21.231:2052/#EXTINF:-1,group-title="SPORT",PORTpro1/vgadJThhsjdfw33/1575
+
+#EXTINF:-1,|PT| #EXTINF:-1,group-title="SPORT",V TV 2
+http://51.159.21.231:2052/#EXTINF:-1,group-title="SPORT",PORTpro1/vgadJThhsjdfw33/1576
+
+#EXTINF:-1,|PT| #EXTINF:-1,group-title="SPORT",V 5 HD
+http://51.159.21.231:2052/#EXTINF:-1,group-title="SPORT",PORTpro1/vgadJThhsjdfw33/1577
+
+#EXTINF:-1,|PT| #EXTINF:-1,group-title="SPORT",V 5
+http://51.159.21.231:2052/#EXTINF:-1,group-title="SPORT",PORTpro1/vgadJThhsjdfw33/1578
+
+#EXTINF:-1,|PT| #EXTINF:-1,group-title="SPORT",V    HD
+http://51.159.21.231:2052/#EXTINF:-1,group-title="SPORT",PORTpro1/vgadJThhsjdfw33/1579
+
+#EXTINF:-1,|PT| #EXTINF:-1,group-title="SPORT", TV4
+http://51.159.21.231:2052/#EXTINF:-1,group-title="SPORT",PORTpro1/vgadJThhsjdfw33/1580
+
+#EXTINF:-1,|PT| #EXTINF:-1,group-title="SPORT", TV2 HD
+http://51.159.21.231:2052/#EXTINF:-1,group-title="SPORT",PORTpro1/vgadJThhsjdfw33/1581
+
+#EXTINF:-1,|PT| #EXTINF:-1,group-title="SPORT", TV1
+http://51.159.21.231:2052/#EXTINF:-1,group-title="SPORT",PORTpro1/vgadJThhsjdfw33/1582
+
+#EXTINF:-1,|PT| #EXTINF:-1,group-title="SPORT", TV NBA
+http://51.159.21.231:2052/#EXTINF:-1,group-title="SPORT",PORTpro1/vgadJThhsjdfw33/1583
+
+#EXTINF:-1,|PT| #EXTINF:-1,group-title="SPORT", TV 4HD
+http://51.159.21.231:2052/#EXTINF:-1,group-title="SPORT",PORTpro1/vgadJThhsjdfw33/1584
+
+#EXTINF:-1,|PT| #EXTINF:-1,group-title="SPORT", TV 3 HD
+http://51.159.21.231:2052/#EXTINF:-1,group-title="SPORT",PORTpro1/vgadJThhsjdfw33/1585
+
+#EXTINF:-1,|PT| #EXTINF:-1,group-title="SPORT", TV
+http://51.159.21.231:2052/#EXTINF:-1,group-title="SPORT",PORTpro1/vgadJThhsjdfw33/1586
+
+#EXTINF:-1,|PT| ELEVEN #EXTINF:-1,group-title="SPORT",S 6
+http://51.159.21.231:2052/#EXTINF:-1,group-title="SPORT",PORTpro1/vgadJThhsjdfw33/1610
+
+#EXTINF:-1,|PT| ELEVEN #EXTINF:-1,group-title="SPORT",S 5
+http://51.159.21.231:2052/#EXTINF:-1,group-title="SPORT",PORTpro1/vgadJThhsjdfw33/1611
+
+#EXTINF:-1,|PT| ELEVEN #EXTINF:-1,group-title="SPORT",S 4
+http://51.159.21.231:2052/#EXTINF:-1,group-title="SPORT",PORTpro1/vgadJThhsjdfw33/1612
+
+#EXTINF:-1,|PT| ELEVEN #EXTINF:-1,group-title="SPORT",S 3 HD
+http://51.159.21.231:2052/#EXTINF:-1,group-title="SPORT",PORTpro1/vgadJThhsjdfw33/1613
+
+#EXTINF:-1,|PT| ELEVEN #EXTINF:-1,group-title="SPORT",S 2 HD
+http://51.159.21.231:2052/#EXTINF:-1,group-title="SPORT",PORTpro1/vgadJThhsjdfw33/1614
+
+#EXTINF:-1,|PT| ELEVEN #EXTINF:-1,group-title="SPORT",S 1 HD
+http://51.159.21.231:2052/#EXTINF:-1,group-title="SPORT",PORTpro1/vgadJThhsjdfw33/1615
+
+#EXTINF:-1,|PT| #EXTINF:-1,group-title="SPORT", TV +
+http://51.159.21.231:2052/#EXTINF:-1,group-title="SPORT",PORTpro1/vgadJThhsjdfw33/3502
+
+#EXTINF:-1,PT: #EXTINF:-1,group-title="SPORT",V + HD
+http://51.159.21.231:2052/#EXTINF:-1,group-title="SPORT",PORTpro1/vgadJThhsjdfw33/3784
+
+#EXTINF:-1,PT: #EXTINF:-1,group-title="SPORT", TV 1
+http://51.159.21.231:2052/#EXTINF:-1,group-title="SPORT",PORTpro1/vgadJThhsjdfw33/3785
+
+#EXTINF:-1,PT: #EXTINF:-1,group-title="SPORT", TV 2 FHD
+http://51.159.21.231:2052/#EXTINF:-1,group-title="SPORT",PORTpro1/vgadJThhsjdfw33/3786
+
+#EXTINF:-1,PT: #EXTINF:-1,group-title="SPORT", TV 3
+http://51.159.21.231:2052/#EXTINF:-1,group-title="SPORT",PORTpro1/vgadJThhsjdfw33/3787
+
+#EXTINF:-1,PT: #EXTINF:-1,group-title="SPORT", TV 5 FHD
+http://51.159.21.231:2052/#EXTINF:-1,group-title="SPORT",PORTpro1/vgadJThhsjdfw33/3788
+
+#EXTINF:-1,PT: #EXTINF:-1,group-title="SPORT",V5 HD
+http://51.159.21.231:2052/#EXTINF:-1,group-title="SPORT",PORTpro1/vgadJThhsjdfw33/3789
+
 https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Abu Dhabi Sports 1 ARB" tvg-name="Abu Dhabi Sports ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lKl2wZH.png" tvg-country="AE" tvg-url="" group-title="SPORT",Abu Dhabi Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
@@ -854,6 +942,36 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m
 #EXTINF:-1 tvg-id="Abu Dhabi Sports 3 ARB" tvg-name="Abu Dhabi Sports 3 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/U6XDpXY.png" tvg-country="AE" tvg-url="" group-title="SPORT",Abu Dhabi Sports 3
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Abu Dhabi Sports 4 ARB" tvg-name="Abu Dhabi Sports 4 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/8VqomZ5.png" tvg-country="AE" tvg-url="" group-title="SPORT",Abu Dhabi Sports 4
+
+#EXTINF:-1,group-title="SPORT",MOTO GP 2
+http://183.182.100.184/live/pptvthai/playlist.m3u8
+
+#EXTINF:-1,group-title="SPORT",MOTO GP 3
+http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
+
+#EXTINF:-1,group-title="SPORT",FOX SPORT 1
+https://vcdnjt.useetv.com:443/joss/15/foxsport1/chunklist_w778289513_b684100_sleng_177560.m3u8?enc=RZp4RrKSIXNxicaYY6fPTA&exp=1585292462&encp=vOXSyGKpZ9gytSWn62XF6A&expp=1585301162
+
+#EXTINF:-1,group-title="SPORT",FOX SPORT 2
+https://vcdnjt.useetv.com:443/joss/15/foxsport2/chunklist_w790481523_b684100_sleng_177560.m3u8?enc=5gkf76mgRhgfATyaSDHCoQ&exp=1585292570&encp=sKlDtjs9_zyjTnlRJ_y2xg&expp=1585301270
+
+#EXTINF:-1,group-title="SPORT",FOX SPORT 3
+https://vcdnjt.useetv.com:443/joss/15/foxsport3/chunklist_w1060961009_b684100_sleng_177560.m3u8?enc=2hIiDmbLnO9ik34eetLTmA&exp=1585292600&encp=iJ65wN8Fe6GtQazh5mtC3A&expp=1585301300
+
+#EXTINF:-1,group-title="SPORT",BEIN SPORT 1
+https://vcdnjt.useetv.com:443/joss/15/bein1/chunklist_w1325761140_b684100_sleng_177560.m3u8?enc=vcP2SW9irdVaDSRPMvSnzA&exp=1587471217
+
+#EXTINF:-1,group-title="SPORT",BEIN SPORT 2
+https://vcdnjt.useetv.com:443/joss/15/bein2/chunklist_w878851015_b684100_sleng_177560.m3u8?enc=G8yv_dvfJqqhAeaNzTgXnw&exp=1587471247
+
+#EXTINF:-1,group-title="SPORT",CHAMPION TV 1
+https://vcdnjt.useetv.com:443/joss/15/champion1/chunklist_w888798869_b684100_sleng_177560.m3u8?enc=SgRpcH6S97eh9aWOJ-vngA&exp=1587471358
+
+#EXTINF:-1,group-title="SPORT",CHAMPION TV 2
+https://vcdnjt.useetv.com:443/joss/15/champion2/chunklist_w698562627_b684100_sleng_177560.m3u8?enc=ilVuzptnrtiN-CRXUtRLfw&exp=1587471401
+
+
+
 https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Abu Dhabi TV ARB" tvg-name="Abu Dhabi 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/oExmYqk.jpg" tvg-country="AE" tvg-url="" group-title="CAMPURAN",Abu Dhabi TV
 https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
@@ -1274,7 +1392,7 @@ http://tv.cdn.xsg.ge/artarea/playlist.m3u8
 http://etomatomobile.hscdn.com/artemobile/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Armenian" tvg-logo="https://i.imgur.com/yGK9VSf.jpg" tvg-country="AM" tvg-url="" group-title="CAMPURAN",ARTN TV
 http://livestream.usatv.com/hls/m3u8/ARTN-NET.m3u8
-#EXTINF:-1 tvg-id="ARTV PT" tvg-name="ARTV PT" tvg-language="Portuguese" tvg-logo="http://www.canal.parlamento.pt/images/ARTV_Logo.png" tvg-country="PT" tvg-url="" group-title="Legislative",ARTV | Canal Parlamento
+#EXTINF:-1 tvg-id="ARTV PT" tvg-name="ARTV PT" tvg-language="Portuguese" tvg-logo="http://www.canal.parlamento.pt/images/ARTV_Logo.png" tvg-country="PT" tvg-url="" group-title="CAMPURAN",ARTV | Canal Parlamento
 https://5e4fc274d9d46.streamlock.net/livenlin4/2liveartvpub/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkmen" tvg-logo="http://webtvonlive.com/wp-content/uploads/Asgabat-webtvonlive-com.jpg" tvg-country="TM" tvg-url="" group-title="CAMPURAN",Asgabat TV
 https://alpha.tv.online.tm/legacyhls/ch006_720/index.m3u8
@@ -2039,154 +2157,7 @@ https://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8?iu=/4
 http://granicusliveus3-a.akamaihd.net/charlotte/G0055_002/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/wHQOLAL.png" tvg-country="HN" tvg-url="" group-title="CAMPURAN",CCI Channel
 http://stream.innovandote.com:1935/cci/cci/playlist.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CCTV", CCTV中国中央电视台-1 综合
-http://111.40.205.87/PLTV/88888888/224/3221225710/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CCTV", CCTV中国中央电视台-1 综合
-http://117.148.187.37/PLTV/88888888/224/3221226154/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CCTV", CCTV中国中央电视台-1 综合
-http://117.169.120.140:8080/live/cctv-1/.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CCTV", CCTV中国中央电视台-1 综合
-http://121.31.30.90:8085/ysten-business/live/cctv-1/1.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CCTV", CCTV中国中央电视台-1 综合
-http://125.210.152.10:8060/live/CCTV1HD_H265.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CCTV", CCTV中国中央电视台-1 综合
-http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/fd/CCTV-10_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CCTV", CCTV中国中央电视台-10 科教
-http://111.40.205.87/PLTV/88888888/224/3221225730/index.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/fd/CCTV-10_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CCTV", CCTV中国中央电视台-10 科教
-http://117.169.120.140:8080/live/cctv-10/.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/fd/CCTV-10_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CCTV", CCTV中国中央电视台-10 科教
-http://121.31.30.90:8085/ysten-business/live/cctv-10/yst.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/fd/CCTV-10_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CCTV", CCTV中国中央电视台-10 科教
-http://39.135.32.24:6610/000000001000/1000000001000023734/index.m3u8?i
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/fd/CCTV-10_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CCTV", CCTV中国中央电视台-10 科教
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225984/index.m3u8
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9c/CCTV-11_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CCTV", CCTV中国中央电视台-11 戏曲
-http://112.50.243.8/PLTV/88888888/224/3221225815/1.m3u8
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9c/CCTV-11_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CCTV", CCTV中国中央电视台-11 戏曲
-http://117.148.187.37/PLTV/88888888/224/3221226219/index.m3u8
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9c/CCTV-11_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CCTV", CCTV中国中央电视台-11 戏曲
-http://117.169.120.140:8080/live/cctv-11/.m3u8
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9c/CCTV-11_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CCTV", CCTV中国中央电视台-11 戏曲
-http://121.31.30.90:8085/ysten-business/live/cctv-11/1.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/71/CCTV-12_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CCTV", CCTV中国中央电视台-12 社会与法
-http://111.40.205.76/PLTV/88888888/224/3221225731/index.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/71/CCTV-12_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CCTV", CCTV中国中央电视台-12 社会与法
-http://111.40.205.87/PLTV/88888888/224/3221225731/index.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/71/CCTV-12_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CCTV", CCTV中国中央电视台-12 社会与法
-http://117.148.187.37/PLTV/88888888/224/3221226167/index.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/71/CCTV-12_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CCTV", CCTV中国中央电视台-12 社会与法
-http://121.31.30.90:8085/ysten-business/live/cctv-12/1.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="News",CCTV中国中央电视台-13 新闻
-http://112.50.243.8/PLTV/88888888/224/3221225817/1.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="News",CCTV中国中央电视台-13 新闻
-http://117.148.187.37/PLTV/88888888/224/3221226193/index.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="News",CCTV中国中央电视台-13 新闻
-http://117.169.120.140:8080/live/cctv-13/.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="News",CCTV中国中央电视台-13 新闻
-http://121.31.30.90:8085/ysten-business/live/cctv-13/1.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="KIDS",CCTV中国中央电视台-14 少儿
-http://111.40.205.76/PLTV/88888888/224/3221225732/index.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="KIDS",CCTV中国中央电视台-14 少儿
-http://111.40.205.87/PLTV/88888888/224/3221225732/index.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="KIDS",CCTV中国中央电视台-14 少儿
-http://117.148.187.37/PLTV/88888888/224/3221226126/index.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="KIDS",CCTV中国中央电视台-14 少儿
-http://117.148.187.37/PLTV/88888888/224/3221226565/index.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="KIDS",CCTV中国中央电视台-14 少儿
-http://121.31.30.90:8085/ysten-business/live/cctv-14/1.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="KIDS",CCTV中国中央电视台-14 少儿
-http://ivi.bupt.edu.cn/hls/cctv14.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f8/CCTV-15_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Music",CCTV中国中央电视台-15 音乐
-http://111.40.205.87/PLTV/88888888/224/3221225601/index.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f8/CCTV-15_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Music",CCTV中国中央电视台-15 音乐
-http://112.50.243.8/PLTV/88888888/224/3221225818/1.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f8/CCTV-15_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Music",CCTV中国中央电视台-15 音乐
-http://117.148.187.37/PLTV/88888888/224/3221226112/index.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f8/CCTV-15_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Music",CCTV中国中央电视台-15 音乐
-http://121.31.30.90:8085/ysten-business/live/cctv-15/1.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-2_Logo.svg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CCTV", CCTV中国中央电视台-2 财经
-http://117.148.187.37/PLTV/88888888/224/3221226138/index.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-2_Logo.svg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CCTV", CCTV中国中央电视台-2 财经
-http://117.169.120.140:8080/live/cctv-2/.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-2_Logo.svg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CCTV", CCTV中国中央电视台-2 财经
-http://121.31.30.90:8085/ysten-business/live/cctv-2/1.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-2_Logo.svg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CCTV", CCTV中国中央电视台-2 财经
-http://121.31.30.90:8085/ysten-business/live/cctv-2/yst.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-2_Logo.svg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CCTV", CCTV中国中央电视台-2 财经
-http://125.210.152.10:8060/live/CCTV2HD_H265.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-2_Logo.svg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CCTV", CCTV中国中央电视台-2 财经
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225974/index.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-2_Logo.svg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CCTV", CCTV中国中央电视台-2 财经
-http://ivi.bupt.edu.cn/hls/cctv2.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-3_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Entertainment",CCTV中国中央电视台-3 综艺
-http://117.169.120.140:8080/live/cctv-3/.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-3_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Entertainment",CCTV中国中央电视台-3 综艺
-http://121.31.30.90:8085/ysten-business/live/cctv-3/1.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-3_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Entertainment",CCTV中国中央电视台-3 综艺
-http://39.135.32.29:6610/000000001000/1000000001000011218/index.m3u8?i
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-3_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Entertainment",CCTV中国中央电视台-3 综艺
-http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/07/CCTV-4_Logo.svg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CCTV", CCTV中国中央电视台-4 中文国际
-http://117.148.187.37/PLTV/88888888/224/3221226171/index.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/07/CCTV-4_Logo.svg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CCTV", CCTV中国中央电视台-4 中文国际
-http://117.169.120.140:8080/live/cctv-4/.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/07/CCTV-4_Logo.svg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CCTV", CCTV中国中央电视台-4 中文国际
-http://121.31.30.90:8085/ysten-business/live/cctv-4/1.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="SPORT",CCTV中国中央电视台-5 体育
-http://111.40.205.107/PLTV/88888888/224/3221225711/index.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="SPORT",CCTV中国中央电视台-5 体育
-http://117.148.187.37/PLTV/88888888/224/3221226400/index.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="SPORT",CCTV中国中央电视台-5 体育
-http://121.31.30.90:8085/ysten-business/live/cctv-5/yst.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="SPORT",CCTV中国中央电视台-5 体育
-http://39.135.32.24:6610/000000001000/1000000001000004794/index.m3u8?i
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="SPORT",CCTV中国中央电视台-5+ 体育赛事
-http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="SPORT",CCTV中国中央电视台-5+ 体育赛事
-http://121.31.30.90:8085/ysten-business/live/hdcctv05plus/yst.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="SPORT",CCTV中国中央电视台-5+ 体育赛事
-http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Movies",CCTV中国中央电视台-6 电影
-http://117.169.120.140:8080/live/cctv-6/.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Movies",CCTV中国中央电视台-6 电影
-http://121.31.30.90:8085/ysten-business/live/cctv-6/1.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Movies",CCTV中国中央电视台-6 电影
-http://39.135.32.27:6610/000000001000/1000000001000001737/index.m3u8?i
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Movies",CCTV中国中央电视台-6 电影
-http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f0/CCTV-7_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CCTV", CCTV中国中央电视台-7 国防军事
-http://112.50.243.8/PLTV/88888888/224/3221225805/1.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f0/CCTV-7_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CCTV", CCTV中国中央电视台-7 国防军事
-http://117.148.187.37/PLTV/88888888/224/3221226122/index.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f0/CCTV-7_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CCTV", CCTV中国中央电视台-7 国防军事
-http://117.148.187.37/PLTV/88888888/224/3221226470/index.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f0/CCTV-7_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CCTV", CCTV中国中央电视台-7 国防军事
-http://117.169.120.140:8080/live/cctv-7/.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f0/CCTV-7_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CCTV", CCTV中国中央电视台-7 国防军事
-http://121.31.30.90:8085/ysten-business/live/cctv-7/1.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/49/CCTV-8_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CCTV", CCTV中国中央电视台-8 电视剧
-http://117.148.187.37/PLTV/88888888/224/3221226493/index.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/49/CCTV-8_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CCTV", CCTV中国中央电视台-8 电视剧
-http://117.169.120.140:8080/live/cctv-8/.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/49/CCTV-8_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CCTV", CCTV中国中央电视台-8 电视剧
-http://121.31.30.90:8085/ysten-business/live/cctv-8/1.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/49/CCTV-8_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CCTV", CCTV中国中央电视台-8 电视剧
-http://39.135.32.29:6610/000000001000/1000000001000003736/index.m3u8?i
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/49/CCTV-8_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CCTV", CCTV中国中央电视台-8 电视剧
-http://ivi.bupt.edu.cn/hls/cctv8.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/49/CCTV-8_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CCTV", CCTV中国中央电视台-8 电视剧
-http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/11/CCTV-9_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CCTV", CCTV中国中央电视台-9 纪录
-http://111.40.205.76/PLTV/88888888/224/3221225734/index.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/11/CCTV", CCTV-9_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CCTV", CCTV中国中央电视台-9 纪录
-http://111.40.205.87/PLTV/88888888/224/3221225734/index.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV", CCTV9" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/11/CCTV", CCTV-9_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CCTV", CCTV中国中央电视台-9 纪录
-http://112.50.243.8/PLTV/88888888/224/3221225820/1.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV", CCTV9" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/11/CCTV-9_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CCTV", CCTV中国中央电视台-9 纪录
-http://117.148.187.37/PLTV/88888888/224/3221226156/index.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/11/CCTV-9_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="CCTV", CCTV中国中央电视台-9 纪录
-http://ivi.bupt.edu.cn/hls/cctv9.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/SC5nyyL.png" tvg-country="US" tvg-url="" group-title="CAMPURAN",CCX1
 http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="CAMPURAN",CCX2
@@ -2226,7 +2197,7 @@ https://live.cgtn.com/cctv-f.m3u8
 https://live.cgtn.com/cctv-r.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/CGTN_arabic.png" tvg-country="CN" tvg-url="" group-title="CAMPURAN",CGTN العربية
 https://live.cgtn.com/cctv-a.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="Legislative",CGTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="CAMPURAN",CGTV
 http://reflect-live-champaign.cablecast.tv/live/CELL-296k-234p/CELL-296k-234p.m3u8
 #EXTINF:-1 tvg-id="Shopping Channel-IS" tvg-name="IL: shopping channel" tvg-language="Hebrew" tvg-logo="https://upload.wikimedia.org/wikipedia/he/b/b9/סמליל_ערוץ_הקניות.jpg" tvg-country="IL" tvg-url="http://epg.streamstv.me/epg/guide-israel.xml.gz" group-title="Shop",ch 21 ערוץ הקניות
 http://82.80.192.30/shoppingil_ShoppingIL21TVRepeat/_definst_/smil:ShoppingIL21TV.smil/chunklist_w2043660694_b2128000.m3u8
@@ -2236,7 +2207,7 @@ https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_2.5k/chunkl
 https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_4k/chunklist.m3u8
 #EXTINF:-1 tvg-id="26" tvg-name="26" tvg-language="Hebrew" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/2/23/LOGO_BigBro.png/2880px-LOGO_BigBro.png" tvg-country="IL" tvg-url="http://epg.streamstv.me/epg/guide-israel.xml.gz" group-title="CAMPURAN",ch 26 האח הגדול
 https://reshet-live-il.ctedgecdn.net/13tv-premium/bb/r13_2400.m3u8
-#EXTINF:-1 tvg-id="Knesset Channel-IS" tvg-name="Knesset Channel-IS" tvg-language="Hebrew" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/4/43/Knessetch10.svg/2560px-Knessetch10.svg.png" tvg-country="IL" tvg-url="http://epg.streamstv.me/epg/guide-israel.xml.gz" group-title="Legislative",ch 99 הכנסת
+#EXTINF:-1 tvg-id="Knesset Channel-IS" tvg-name="Knesset Channel-IS" tvg-language="Hebrew" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/4/43/Knessetch10.svg/2560px-Knessetch10.svg.png" tvg-country="IL" tvg-url="http://epg.streamstv.me/epg/guide-israel.xml.gz" group-title="CAMPURAN",ch 99 הכנסת
 http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/JeG9K1y.png" tvg-country="KW" tvg-url="" group-title="CAMPURAN",Ch4Teen
 https://dcunilive93-lh.akamaihd.net/i/dclive_1@835787/index_150_av-p.m3u8?sd=10&rebase=on
@@ -2510,7 +2481,7 @@ https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="" tvg-country="FR" tvg-url="" group-title="Music",DBM
 https://dbmtv.vedge.infomaniak.com/livecast/smil:dbmtv.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="Legislative",DC Council Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="CAMPURAN",DC Council Channel
 http://video.oct.dc.gov/out/u/15_12.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/dd_malayalam-1.png" tvg-country="IN" tvg-url="" group-title="Entertainment",DD Malayalam
 http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/index.m3u8
@@ -2661,7 +2632,7 @@ http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" tvg-country="ID" tvg-url="" group-title="KIDS",DISNEY JUNIOR Indo SD
 http://103.47.132.164/PLTV/88888888/224/3221226011/02.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="Legislative",District of Columbia Network
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="CAMPURAN",District of Columbia Network
 http://video.oct.dc.gov/out/u/DCN.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/V04dJhe.jpg" tvg-country="ES" tvg-url="" group-title="CAMPURAN",Distrito TV
 https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8
@@ -3245,7 +3216,7 @@ http://onrez.kaztrk.kz/regional/pavlodartv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Georgian" tvg-logo="https://i.imgur.com/cuGSbgu.png" tvg-country="GE" tvg-url="" group-title="CAMPURAN",Ertsulovneba
 http://tv.cdn.xsg.ge/ertsulovneba/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/SKfoci2.png" tvg-country="US" tvg-url="" group-title="Legislative",Escambia County TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/SKfoci2.png" tvg-country="US" tvg-url="" group-title="CAMPURAN",Escambia County TV
 http://stream.swagit.com/live-edge/escambiacountyfl/live-1-a/chunklist_w1496843195.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/fGdHIGy.png" tvg-country="US" tvg-url="" group-title="Religious",ESNE TV
 https://zypelive-lh.akamaihd.net/i/default_1@710948/master.m3u8
@@ -3327,7 +3298,7 @@ https://live-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://assets.tvplayer.com/tvos/images/channels/585.png" tvg-country="US" tvg-url="" group-title="CAMPURAN",Fail Army
 https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.fcac.org/sites/all/themes/fcac_base/images/logo-icon.png" tvg-country="US" tvg-url="" group-title="Legislative",Fairfax Public Access
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.fcac.org/sites/all/themes/fcac_base/images/logo-icon.png" tvg-country="US" tvg-url="" group-title="CAMPURAN",Fairfax Public Access
 http://cs.ebmcdn.net/eastbay-live-hs-1/fairfax-pull/_definst_/mp4:fairfax.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://pbs.twimg.com/profile_images/1131290789/fnlLogo_400x400.png" tvg-country="US" tvg-url="" group-title="Religious",Faith & Life TV
 http://na-all9.secdn.net/logos-channel/live/faithlifetv/playlist.m3u8
@@ -4098,6 +4069,79 @@ http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-country="INT" tvg-url="" group-title="XXX",Jasmin TV
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+
+
+#EXTINF:-1,group-title="XXX",XXX: TUSHY RAW
+http://iptvactivador.online:25461/gonzalo1/gonzalo1/1301
+
+#EXTINF:-1,group-title="XXX",XXX: VIXEN
+http://iptvactivador.online:25461/gonzalo1/gonzalo1/1302
+
+#EXTINF:-1,group-title="XXX",XXX: MOFOS
+http://iptvactivador.online:25461/gonzalo1/gonzalo1/1303
+
+#EXTINF:-1,group-title="XXX",XXXX: MILF 2
+http://iptvactivador.online:25461/gonzalo1/gonzalo1/1304
+
+#EXTINF:-1,group-title="XXX",XXX: MIAKHALIFA
+http://iptvactivador.online:25461/gonzalo1/gonzalo1/1305
+
+#EXTINF:-1,group-title="XXX",XXX: JASMINE JAE
+http://iptvactivador.online:25461/gonzalo1/gonzalo1/1306
+
+#EXTINF:-1,group-title="XXX",XXX:Fetich 2
+http://iptvactivador.online:25461/gonzalo1/gonzalo1/1308
+
+#EXTINF:-1,group-title="XXX",XXX: brazzers
+http://iptvactivador.online:25461/gonzalo1/gonzalo1/1309
+
+#EXTINF:-1,group-title="XXX",XXX: BLACK RAW
+http://iptvactivador.online:25461/gonzalo1/gonzalo1/1310
+
+#EXTINF:-1,group-title="XXX",XXX: bigtits
+http://iptvactivador.online:25461/gonzalo1/gonzalo1/1311
+
+#EXTINF:-1,group-title="XXX",XXX: Bigass 2
+http://iptvactivador.online:25461/gonzalo1/gonzalo1/1312
+
+#EXTINF:-1,group-title="XXX",XXX |Shemale Tube TV 2
+http://iptvactivador.online:25461/gonzalo1/gonzalo1/262
+
+#EXTINF:-1,group-title="XXX",XXX |Big Ass
+http://iptvactivador.online:25461/gonzalo1/gonzalo1/263
+
+#EXTINF:-1,group-title="XXX",XXX |Big Dick
+http://iptvactivador.online:25461/gonzalo1/gonzalo1/264
+
+#EXTINF:-1,group-title="XXX",XXX |Cuckold
+http://iptvactivador.online:25461/gonzalo1/gonzalo1/267
+
+#EXTINF:-1,group-title="XXX",XXX |Fetish
+http://iptvactivador.online:25461/gonzalo1/gonzalo1/268
+
+#EXTINF:-1,group-title="XXX",XXX |Interracial
+http://iptvactivador.online:25461/gonzalo1/gonzalo1/270
+
+#EXTINF:-1,group-title="XXX",XXX |Latina
+http://iptvactivador.online:25461/gonzalo1/gonzalo1/271
+
+#EXTINF:-1,group-title="XXX",XXX |Lesbian
+http://iptvactivador.online:25461/gonzalo1/gonzalo1/272
+
+#EXTINF:-1,group-title="XXX",XXX |MILF
+http://iptvactivador.online:25461/gonzalo1/gonzalo1/273
+
+#EXTINF:-1,group-title="XXX",XXX |POV
+http://iptvactivador.online:25461/gonzalo1/gonzalo1/274
+
+#EXTINF:-1,group-title="XXX",XXX |Pornstar
+http://iptvactivador.online:25461/gonzalo1/gonzalo1/275
+
+#EXTINF:-1,group-title="XXX",XXX |Russian
+http://iptvactivador.online:25461/gonzalo1/gonzalo1/276
+
+#EXTINF:-1,group-title="XXX",XXX |Teen
+http://iptvactivador.online:25461/gonzalo1/gonzalo1/277
 
 #EXTINF:-1,group-title="XXX",XX: Sex Hot
 http://a.srvbr.me:8880/138906/138906/1052
@@ -5641,11 +5685,11 @@ https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/parlamentsfernsehen.png" tvg-country="DE" tvg-url="" group-title="CAMPURAN",Parlamentsfernsehen 2
 https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk2.m3u8
 
-#EXTINF:-1 tvg-id="tv.18" tvg-name="Parliament TV" tvg-language="English" tvg-logo="http://i.mjh.nz/nz/images/tv.18.png" tvg-country="NZ" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="Legislative",Parliament TV
+#EXTINF:-1 tvg-id="tv.18" tvg-name="Parliament TV" tvg-language="English" tvg-logo="http://i.mjh.nz/nz/images/tv.18.png" tvg-country="NZ" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="CAMPURAN",Parliament TV
 http://i.mjh.nz/nz/tv.18.m3u8
-#EXTINF:-1 tvg-id="tv.18" tvg-name="Parliament TV" tvg-language="English" tvg-logo="https://i.imgur.com/VKc7BLC.png" tvg-country="NZ" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="Legislative",Parliament TV
+#EXTINF:-1 tvg-id="tv.18" tvg-name="Parliament TV" tvg-language="English" tvg-logo="https://i.imgur.com/VKc7BLC.png" tvg-country="NZ" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="CAMPURAN",Parliament TV
 http://streaming.kordia.net.nz/out/u/house_captionsVideo3.m3u8
-#EXTINF:-1 tvg-id="tv.18" tvg-name="Parliament TV" tvg-language="English" tvg-logo="https://s10.postimg.org/pfqoq4kkp/noi0mj.png" tvg-country="NZ" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="Legislative",Parliament TV
+#EXTINF:-1 tvg-id="tv.18" tvg-name="Parliament TV" tvg-language="English" tvg-logo="https://s10.postimg.org/pfqoq4kkp/noi0mj.png" tvg-country="NZ" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="CAMPURAN",Parliament TV
 http://streaming.kordia.net.nz/out/u/ptv_houseaudio.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ca-parnian-tv-9509.jpg" tvg-country="IR" tvg-url="" group-title="CAMPURAN",Parnian TV
 https://live2.parnian.tv/hls/live/play.m3u8
@@ -6710,46 +6754,143 @@ https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:-1,group-title="China", Aniu TV
 http://cclive.aniu.tv/live/anzb.m3u8
 
-#EXTINF:-1,group-title=" CCTV", CCTV 2
-http://ivi.bupt.edu.cn/hls/cctv2.m3u8
-
-#EXTINF:-1,group-title="CCTV", CCTV 3
-http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
-
-#EXTINF:-1,group-title="CCTV", CCTV 4
-http://ivi.bupt.edu.cn/hls/cctv4.m3u8
-
-#EXTINF:-1,group-title="CCTV", CCTV 6
-http://ivi.bupt.edu.cn/hls/cctv6.m3u8
-
-#EXTINF:-1,group-title="CCTV", CCTV 8
-http://ivi.bupt.edu.cn/hls/cctv8.m3u8
-
-#EXTINF:-1,group-title="CCTV", CCTV 9
-http://ivi.bupt.edu.cn/hls/cctv9.m3u8
-
-#EXTINF:-1,group-title="CCTV", CCTV 10
-http://ivi.bupt.edu.cn/hls/cctv10.m3u8
-
-#EXTINF:-1,group-title="CCTV", CCTV 11
-http://ivi.bupt.edu.cn/hls/cctv11.m3u8
-
-#EXTINF:-1,group-title="CCTV", CCTV 12
-http://ivi.bupt.edu.cn/hls/cctv12.m3u8
-
-#EXTINF:-1,group-title="CCTV", CCTV 13
-http://ivi.bupt.edu.cn/hls/cctv13.m3u8
-
-#EXTINF:-1,group-title="CCTV", CCTV 14
-http://ivi.bupt.edu.cn/hls/cctv14.m3u8
-
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/exdDHml.png" tvg-country="RO" tvg-url="" group-title="CAMPURAN",Speranta TV
 http://telekomtv-ro.akamaized.net/shls/LIVE$SperantaTV/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/1Tfidgz.png" tvg-country="FR" tvg-url="" group-title="SPORT",Sport en France
 https://streamserv.mytvchain.com/sportenfrance/SP1564435593_720p/playlist.m3u8
 
+#EXTM3U
+#EXTINF:-1,group-title="PREMIUM",|USA| IFC HD
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1754
 
+#EXTINF:-1,group-title="PREMIUM",|USA| HBO HD
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1755
+
+#EXTINF:-1,group-title="PREMIUM",|USA| HBO PACIFIC HD
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1756
+
+#EXTINF:-1,group-title="PREMIUM",|USA| HBO COMEDY HD
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1757
+
+#EXTINF:-1,group-title="PREMIUM",|USA| FOX SPORTS RACING HD
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1766
+
+#EXTINF:-1,group-title="PREMIUM",|USA| FOX SPORTS PRIME TICKET HD
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1767
+
+#EXTINF:-1,group-title="PREMIUM",|USA| FOX SPORTS Sun HD
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1768
+
+#EXTINF:-1,group-title="PREMIUM",|USA| FOX SPORTS FLORIDA HD
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1770
+
+#EXTINF:-1,group-title="PREMIUM",|USA| FOX NEWS
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1774
+
+#EXTINF:-1,group-title="PREMIUM",|USA| FOX HD
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1775
+
+#EXTINF:-1,group-title="PREMIUM",|USA| FOX SOCCER PLUS
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1777
+
+#EXTINF:-1,group-title="PREMIUM",|USA| ESPN NEWS HD
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1779
+
+#EXTINF:-1,group-title="PREMIUM",|USA| ESPN U HD
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1780
+
+#EXTINF:-1,group-title="PREMIUM",|USA| ESPN DEPORTES HD
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1781
+
+#EXTINF:-1,group-title="PREMIUM",|USA| ESPN COLLAGE EXTRA
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1782
+
+#EXTINF:-1,group-title="PREMIUM",|USA| ESPN 2 HD
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1783
+
+#EXTINF:-1,group-title="PREMIUM",|USA| ESPN
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1784
+
+#EXTINF:-1,group-title="PREMIUM",|USA| CINEMAX 5
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1800
+
+#EXTINF:-1,group-title="PREMIUM",|USA| HBO Family HD
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1818
+
+#EXTINF:-1,group-title="PREMIUM",|USA| CNN HD
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1819
+
+#EXTINF:-1,group-title="PREMIUM",|USA| YES ACTION HD
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1832
+
+#EXTINF:-1,group-title="PREMIUM",|USA| UFC
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/3814
+
+#EXTINF:-1,group-title="PREMIUM",|USA| NICKELODEON HD
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1744
+
+#EXTINF:-1,group-title="PREMIUM",|USA| NAT GEO WILD HD
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1748
+
+#EXTINF:-1,group-title="PREMIUM",|USA| NAT GEO HD
+http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1749
+
+#EXTINF:-1,group-title="PREMIUM",FOX SERIES PREMIUM
+http://iptvactivador.online:25461/gonzalo1/gonzalo1/81
+
+#EXTINF:-1,group-title="PREMIUM",FOX MOVIES
+http://iptvactivador.online:25461/gonzalo1/gonzalo1/82
+
+#EXTINF:-1,group-title="PREMIUM",FOX COMEDY
+http://iptvactivador.online:25461/gonzalo1/gonzalo1/84
+
+#EXTINF:-1,group-title="PREMIUM",FOX CLASSIC
+http://iptvactivador.online:25461/gonzalo1/gonzalo1/85
+
+#EXTINF:-1,group-title="PREMIUM",FOX CINEMA
+http://iptvactivador.online:25461/gonzalo1/gonzalo1/86
+
+#EXTINF:-1,group-title="PREMIUM",FOX ACTION
+http://iptvactivador.online:25461/gonzalo1/gonzalo1/87
+
+#EXTINF:-1,group-title="PREMIUM",HBO2 ESP
+http://iptvactivador.online:25461/gonzalo1/gonzalo1/88
+
+#EXTINF:-1,group-title="PREMIUM",DISCOVERY CHANNEL
+http://iptvactivador.online:25461/gonzalo1/gonzalo1/488
+
+#EXTINF:-1,group-title="PREMIUM",DISCOVERY H&H
+http://iptvactivador.online:25461/gonzalo1/gonzalo1/489
+
+#EXTINF:-1,group-title="PREMIUM",DISCOVERY TURBO
+http://iptvactivador.online:25461/gonzalo1/gonzalo1/491
+
+#EXTINF:-1,group-title="PREMIUM",DISCOVERY WORLD
+http://iptvactivador.online:25461/gonzalo1/gonzalo1/492
+
+#EXTINF:-1,group-title="PREMIUM",DISCOVERY THEATER
+http://iptvactivador.online:25461/gonzalo1/gonzalo1/493
+
+#EXTINF:-1,group-title="PREMIUM",HISTORY CHANNEL
+http://iptvactivador.online:25461/gonzalo1/gonzalo1/494
+
+#EXTINF:-1,group-title="PREMIUM",NATGEO WILD
+http://iptvactivador.online:25461/gonzalo1/gonzalo1/495
+
+#EXTINF:-1,group-title="PREMIUM",NATGEO
+http://iptvactivador.online:25461/gonzalo1/gonzalo1/496
+
+#EXTINF:-1,group-title="PREMIUM",INVESTIGATION DISCOVERY
+http://iptvactivador.online:25461/gonzalo1/gonzalo1/498
+
+#EXTINF:-1,group-title="PREMIUM",ANIMAL PLANET
+http://iptvactivador.online:25461/gonzalo1/gonzalo1/499
+
+#EXTINF:-1,group-title="PREMIUM",AR | FOX SPORTS PREMIUM HD
+http://iptvactivador.online:25461/gonzalo1/gonzalo1/500
+
+#EXTINF:-1,group-title="PREMIUM",AR | TNT SPORTS HD
+http://iptvactivador.online:25461/gonzalo1/gonzalo1/501
 
 #EXTINF:-1,group-title="PREMIUM",National Geographic
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
