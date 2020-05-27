@@ -96,9 +96,6 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Str
 #EXTINF:-1,group-title="INDONESIA",TVRI SPORT HD
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
-#EXTINF:-1,group-title="INDONESIA",RADAR TV TASIKMALAYA
-http://radartasikmalaya.onlivestreaming.net/radartasikmalaya/livestream/playlist.m3u8
-
 #EXTINF:-1,group-title="INDONESIA",RIAU TV
 http://122.248.43.138:1935/ch11/myStream/playlist.m3u8
 
@@ -144,9 +141,6 @@ https://linier.akamaized.net/live/eds/RCTI_Logo/sa_hls/RCTI_Logo-avc1_2000000=6-
 
 #EXTINF:-1,group-title="INDONESIA", TVRI HD
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
-
-#EXTINF:-1,group-title="Philipines", TV5/ESPN 5
-http://stream3.news5.ph/n5e/tv5/chunklist_w1085149194.m3u8
 
 #EXTINF:-1,group-title="Philipines", CNN PHILIPPINES
 http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
@@ -365,9 +359,6 @@ http://live.wmncdn.net/jantatv/live.stream/index.m3u8
 #EXTINF:-1,group-title="INDIA", Jhanjar
 http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8
 
-#EXTINF:-1,group-title="INDIA", Jhanjar Music
-http://159.203.9.134/hls/jhanjar_#EXTINF:-1,group-title="PREMIUM",/jhanjar_#EXTINF:-1,group-title="PREMIUM",.m3u8
-
 #EXTINF:-1,group-title="INDIA", Khabrain Abhi Tak
 https://vidcdn.vidgyor.com/kat-origin/liveabr/kat-origin/live1/chunks.m3u8
 
@@ -395,9 +386,6 @@ http://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8
 #EXTINF:-1,group-title="INDIA", Sardari TV
 http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
 
-#EXTINF:-1,group-title="INDIA", Sur Sagar TV
-http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
-
 #EXTINF:-1,group-title="INDIA", Surya Samachar
 http://barcosys.livebox.co.in/suryasamacharhls/suryasamachar.m3u8
 
@@ -419,25 +407,8 @@ http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
 #EXTINF:-1,group-title="INDIA", Venus TV
 https://a.jsrdn.com/broadcast/22690/-0800/c.m3u8
 
-
-
-#EXTINF:-1,group-title="INDIA",Star Gold
-http://216.144.250.174/Star_G0ld_HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,group-title="INDIA",Sony Max
-http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8
-
 #EXTINF:-1,group-title="INDIA",The Film Detective
 https://distro.akamaized.net/indexfd_1280x720.m3u8
-
-#EXTINF:-1,group-title="INDIA",Zee Aflam
-http://livecdnh3.tvanywhere.ae/hls/zeeaflam/03.m3u8
-
-#EXTINF:-1,group-title="INDIA",Zee Action HD
-http://103.214.202.218:8081/live/zeeaction-35/chunks.m3u8
-
-#EXTINF:-1,group-title="INDIA",Zee Cafe
-http://103.214.202.218:8081/live/zeecafe-30/playlist.m3u8
 
 #EXTINF:-1,group-title="INDIA",Boogle Bollywood
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
@@ -487,13 +458,6 @@ http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/playlist.m3u8
 #EXTINF:-1,group-title="INDIA",Shraddha
 http://rtmp.smartstream.video:1935/mhoneshradha/mhoneshradha/playlist.m3u8
 
-#EXTINF:-1,group-title="INDIA",Star Movies
-http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,group-title="INDIA",Star World
-http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8?sd=10&rebase=on
-
-
 #EXTINF:-1,CNN Indo
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
@@ -512,17 +476,11 @@ http://203.162.235.41:16910
 #EXTINF:-1,group-title="Korea", NHK World Premium
 http://1.248.219.167/on_preview_500k/_definst_/on_preview_500k.stream/playlist.m3u8?id=2101&si=0&secure=YzBkMzZiMTMxMmI5OTE0OTg4ZjM0MzE4NTI0MzYwOGVhM2MxODg2NzIzOWQ2NDEzMjk2NTA4OGYwZDNkMjEyZjI1MDcwNjExZTkzZTI2NTVkNzk0NGFjMzA1ZWM2NmIzMzJhYjQ2MjZkOGIzYjc3YTc5N2UyOGY4ZmRlNDc3ZTAxMDQ3YWFhMWYyZTA0ODRjM2RhMWYzMWU0YWYwNTQ3OGMzODRmNjgxY2JhZGUwYmRiZjU3YmI0YjAzZTczNzE4ZjI0NTYzMzVjMGFiOGFkM2MxZmViMmI5MGU3YTRlYzhiZDY3OGNhOTExZmZjZDVlZDU3ZGEzNTM3MjBkN2VhZjc4YzY3N2VhY2FiMmU3MWE2YmNhOWRjMjVlNWE0YjQxN2Q3YjI2M2Y2YmNlYWVjMzljMzhlMThjM2QzODI5ZGIwNjZhYWU2NGFmNDg5NWNjMDUwMjBiODAzM2EwOGVmMQ==&csu=false
 
-#EXTINF:-1,group-title="Korea", SBS Sports
-http://122.129.115.21:1935/liveedge2/_definst_/espn/chunklist.m3u8
-
 #EXTINF:-1,group-title="Korea", UBC
 http://59.25.202.81:1935/live/UBCstream/playlist.m3u8
 
 #EXTINF:-1,group-title="Korea", TJB
 http://1.245.74.5:1935/live/tv/.m3u8
-
-#EXTINF:-1,group-title="Korea", JTBC
-http://122.129.115.21:1935/liveedge2/_definst_/jtbc/playlist.m3u8
 
 #EXTINF:-1,group-title="Korea", JTBC 3
 http://211.110.63.104/jtbc3sports1/_definst_/D93A0F40B483D4887BF6CD4E1910ED7A17C34634DC35C714860FFC5944655BC6/chunklist.m3u8
@@ -673,8 +631,7 @@ http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
 http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/sADbx7S.png" tvg-country="ES" tvg-url="" group-title="CAMPURAN",25 TV
 http://cdnlive.shooowit.net/25televisiolive/25tv.smil/.m3u8
-#EXTINF:-1 tvg-id="2M Monde ARB" tvg-name="2M Monde ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eE1SdyA.png" tvg-country="MA" tvg-url="" group-title="CAMPURAN",2M Monde
-http://livecdnh2.tvanywhere.ae/hls/2m_maroc/index.m3u8
+
 #EXTINF:-1 tvg-id="2M Monde ARB" tvg-name="2M Monde ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eE1SdyA.png" tvg-country="MA" tvg-url="" group-title="CAMPURAN",2M Monde
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Georgian" tvg-logo="https://i.imgur.com/VBmQCH7.png" tvg-country="GE" tvg-url="" group-title="CAMPURAN",2TV
@@ -732,8 +689,6 @@ http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/PUNJAB5AAB.jpg" tvg-country="IN" tvg-url="" group-title="CAMPURAN",5aab TV
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="6 TV" tvg-language="Romanian" tvg-logo="https://i.imgur.com/f5Ddkx2.png" tvg-country="RO" tvg-url="" group-title="CAMPURAN",6 TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$6TV/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/7KVr5UN.png" tvg-country="TH" tvg-url="" group-title="CAMPURAN",69 TV
 https://edge1a.v2h-cdn.com/appt7/MediaOnline.stream_360p/chunklist_w559182369.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/7KVr5UN.png" tvg-country="TH" tvg-url="" group-title="CAMPURAN",69 TV
@@ -852,88 +807,6 @@ https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
 
 
 
-
-#EXTINF:-1,|PT|#EXTINF:-1,group-title="SPORT",V1 FHD
-http://51.159.21.231:2052/#EXTINF:-1,group-title="SPORT",PORTpro1/vgadJThhsjdfw33/1567
-
-#EXTINF:-1,|PT|#EXTINF:-1,group-title="SPORT",V 3
-http://51.159.21.231:2052/#EXTINF:-1,group-title="SPORT",PORTpro1/vgadJThhsjdfw33/1568
-
-#EXTINF:-1,|PT| #EXTINF:-1,group-title="SPORT",V1 HD
-http://51.159.21.231:2052/#EXTINF:-1,group-title="SPORT",PORTpro1/vgadJThhsjdfw33/1575
-
-#EXTINF:-1,|PT| #EXTINF:-1,group-title="SPORT",V TV 2
-http://51.159.21.231:2052/#EXTINF:-1,group-title="SPORT",PORTpro1/vgadJThhsjdfw33/1576
-
-#EXTINF:-1,|PT| #EXTINF:-1,group-title="SPORT",V 5 HD
-http://51.159.21.231:2052/#EXTINF:-1,group-title="SPORT",PORTpro1/vgadJThhsjdfw33/1577
-
-#EXTINF:-1,|PT| #EXTINF:-1,group-title="SPORT",V 5
-http://51.159.21.231:2052/#EXTINF:-1,group-title="SPORT",PORTpro1/vgadJThhsjdfw33/1578
-
-#EXTINF:-1,|PT| #EXTINF:-1,group-title="SPORT",V    HD
-http://51.159.21.231:2052/#EXTINF:-1,group-title="SPORT",PORTpro1/vgadJThhsjdfw33/1579
-
-#EXTINF:-1,|PT| #EXTINF:-1,group-title="SPORT", TV4
-http://51.159.21.231:2052/#EXTINF:-1,group-title="SPORT",PORTpro1/vgadJThhsjdfw33/1580
-
-#EXTINF:-1,|PT| #EXTINF:-1,group-title="SPORT", TV2 HD
-http://51.159.21.231:2052/#EXTINF:-1,group-title="SPORT",PORTpro1/vgadJThhsjdfw33/1581
-
-#EXTINF:-1,|PT| #EXTINF:-1,group-title="SPORT", TV1
-http://51.159.21.231:2052/#EXTINF:-1,group-title="SPORT",PORTpro1/vgadJThhsjdfw33/1582
-
-#EXTINF:-1,|PT| #EXTINF:-1,group-title="SPORT", TV NBA
-http://51.159.21.231:2052/#EXTINF:-1,group-title="SPORT",PORTpro1/vgadJThhsjdfw33/1583
-
-#EXTINF:-1,|PT| #EXTINF:-1,group-title="SPORT", TV 4HD
-http://51.159.21.231:2052/#EXTINF:-1,group-title="SPORT",PORTpro1/vgadJThhsjdfw33/1584
-
-#EXTINF:-1,|PT| #EXTINF:-1,group-title="SPORT", TV 3 HD
-http://51.159.21.231:2052/#EXTINF:-1,group-title="SPORT",PORTpro1/vgadJThhsjdfw33/1585
-
-#EXTINF:-1,|PT| #EXTINF:-1,group-title="SPORT", TV
-http://51.159.21.231:2052/#EXTINF:-1,group-title="SPORT",PORTpro1/vgadJThhsjdfw33/1586
-
-#EXTINF:-1,|PT| ELEVEN #EXTINF:-1,group-title="SPORT",S 6
-http://51.159.21.231:2052/#EXTINF:-1,group-title="SPORT",PORTpro1/vgadJThhsjdfw33/1610
-
-#EXTINF:-1,|PT| ELEVEN #EXTINF:-1,group-title="SPORT",S 5
-http://51.159.21.231:2052/#EXTINF:-1,group-title="SPORT",PORTpro1/vgadJThhsjdfw33/1611
-
-#EXTINF:-1,|PT| ELEVEN #EXTINF:-1,group-title="SPORT",S 4
-http://51.159.21.231:2052/#EXTINF:-1,group-title="SPORT",PORTpro1/vgadJThhsjdfw33/1612
-
-#EXTINF:-1,|PT| ELEVEN #EXTINF:-1,group-title="SPORT",S 3 HD
-http://51.159.21.231:2052/#EXTINF:-1,group-title="SPORT",PORTpro1/vgadJThhsjdfw33/1613
-
-#EXTINF:-1,|PT| ELEVEN #EXTINF:-1,group-title="SPORT",S 2 HD
-http://51.159.21.231:2052/#EXTINF:-1,group-title="SPORT",PORTpro1/vgadJThhsjdfw33/1614
-
-#EXTINF:-1,|PT| ELEVEN #EXTINF:-1,group-title="SPORT",S 1 HD
-http://51.159.21.231:2052/#EXTINF:-1,group-title="SPORT",PORTpro1/vgadJThhsjdfw33/1615
-
-#EXTINF:-1,|PT| #EXTINF:-1,group-title="SPORT", TV +
-http://51.159.21.231:2052/#EXTINF:-1,group-title="SPORT",PORTpro1/vgadJThhsjdfw33/3502
-
-#EXTINF:-1,PT: #EXTINF:-1,group-title="SPORT",V + HD
-http://51.159.21.231:2052/#EXTINF:-1,group-title="SPORT",PORTpro1/vgadJThhsjdfw33/3784
-
-#EXTINF:-1,PT: #EXTINF:-1,group-title="SPORT", TV 1
-http://51.159.21.231:2052/#EXTINF:-1,group-title="SPORT",PORTpro1/vgadJThhsjdfw33/3785
-
-#EXTINF:-1,PT: #EXTINF:-1,group-title="SPORT", TV 2 FHD
-http://51.159.21.231:2052/#EXTINF:-1,group-title="SPORT",PORTpro1/vgadJThhsjdfw33/3786
-
-#EXTINF:-1,PT: #EXTINF:-1,group-title="SPORT", TV 3
-http://51.159.21.231:2052/#EXTINF:-1,group-title="SPORT",PORTpro1/vgadJThhsjdfw33/3787
-
-#EXTINF:-1,PT: #EXTINF:-1,group-title="SPORT", TV 5 FHD
-http://51.159.21.231:2052/#EXTINF:-1,group-title="SPORT",PORTpro1/vgadJThhsjdfw33/3788
-
-#EXTINF:-1,PT: #EXTINF:-1,group-title="SPORT",V5 HD
-http://51.159.21.231:2052/#EXTINF:-1,group-title="SPORT",PORTpro1/vgadJThhsjdfw33/3789
-
 https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Abu Dhabi Sports 1 ARB" tvg-name="Abu Dhabi Sports ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lKl2wZH.png" tvg-country="AE" tvg-url="" group-title="SPORT",Abu Dhabi Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
@@ -1017,8 +890,7 @@ https://rrsatrtmp.tulix.tv/addis1/addis1multi.smil/chunklist_w418104290_b2130000
 https://rrsatrtmp.tulix.tv/addis1/addis1multi.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="YE" tvg-url="" group-title="CAMPURAN",Aden TV
 https://master.starmena-cloud.com/hls/aden.m3u8?v=2957056943
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/59/ADiTV_Jogja.png" tvg-country="ID" tvg-url="" group-title="Religious",ADiTV (Yogyakarta)
-http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/x8lwsjM.png" tvg-country="MX" tvg-url="" group-title="CAMPURAN",ADN 40
 http://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master01.m3u8
 
@@ -1036,11 +908,7 @@ https://stream.ecable.tv/afc/BANDAKANY.mp4/tracks-v1a1/mono.m3u8
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/tXbD8Sz/8A1HOMZ.png" tvg-country="TR" tvg-url="" group-title="CAMPURAN",Afyon Turk TV
 https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/PmX9Ca3.png" tvg-country="LB" tvg-url="" group-title="CAMPURAN",Aghani Aghani
-http://livecdnh1.tvanywhere.ae/hls/aghani/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ciMllay.jpg" tvg-country="EG" tvg-url="" group-title="Religious",Aghapy TV
-http://media4.smc-host.com:1935/aghapy.tv/aghapy.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://www.costadosol.tv.br/site/wp-content/uploads/2017/12/agro-brasil.png" tvg-country="BR" tvg-url="" group-title="CAMPURAN",Agro Brasil TV
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 
@@ -1058,8 +926,7 @@ http://109.123.126.14:1935/live/livestream1.sdp/chunklist.m3u8
 http://119.82.224.75:1935/live/ahsantv/chunk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" tvg-country="ID" tvg-url="" group-title="Religious",Ahsan TV
 http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
-#EXTINF:-1 tvg-id="Ajman TV ARB" tvg-name="Ajman TV ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/l6FT7yx.jpg" tvg-country="AE" tvg-url="" group-title="CAMPURAN",Ajman TV
-http://livecdnh2.tvanywhere.ae/hls/ajman/index.m3u8
+
 #EXTINF:-1 tvg-id="Ajyal TV ARB" tvg-name="Ajyal TV ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/j1Xmygq.jpg" tvg-country="PS" tvg-url="" group-title="CAMPURAN",Ajyal TV
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" tvg-country="IN" tvg-url="" group-title="CAMPURAN",Akaal TV
@@ -1082,10 +949,6 @@ https://video.blivenyc.com/broadcast/prod/2061/22/desktop-playlist.m3u8
 https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/zG7NM55/Jagn7PG.png" tvg-country="TR" tvg-url="" group-title="CAMPURAN",Akit TV
 http://akittv-live.ercdn.net/akittv/akittv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russian" tvg-logo="" tvg-country="RU" tvg-url="" group-title="Movies",Akudji
-http://stream1.cybergame.tv:8080/live/akudjio.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/6WiXPd9.png" tvg-country="AE" tvg-url="" group-title="CAMPURAN",Al Aan TV
-http://livecdnh3.tvanywhere.ae/hls/alaantv/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://jascotvstreaming.com/uploads/topics/15189497461737.png" tvg-country="SD" tvg-url="" group-title="CAMPURAN",Al Alamiya
 http://82.212.74.100:8000/live/hls/8950.m3u8
@@ -1099,13 +962,9 @@ http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://aqsatv.ps/style/atyaf/assets/images/logo-footer.png" tvg-country="PS" tvg-url="" group-title="CAMPURAN",Al Aqsa Channel
 https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Al Arabiya ARB" tvg-name="Al Arabiya ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7OrfyOx.jpg" tvg-country="AE" tvg-url="" group-title="News",Al Arabiya
-http://livecdnh3.tvanywhere.ae/hls/alarabiya/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/LNI1HNi.png" tvg-country="UK" tvg-url="" group-title="News",Al Araby
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/wyy5unY.jpg" tvg-country="IQ" tvg-url="" group-title="CAMPURAN",Al Fady
-http://media.smc-host.com:1935/redirect/alfadytv.tv/alfadytv.smil?type=m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/L8abziX.png" tvg-country="LY" tvg-url="" group-title="CAMPURAN",Al Hadath
 https://starmena.ercdn.net/libya-alhadath/libya-alhadath.m3u8
@@ -1126,11 +985,6 @@ http://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Al Iraqiya TV ARB" tvg-language="Arabic" tvg-logo="http://imn.iq/wp-content/uploads/2018/03/Logo.jpg" tvg-country="IQ" tvg-url="" group-title="News",Al Iraqiya News
 http://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://d1k5w7mbrh6vq5.cloudfront.net/images/cache/38/d3/ff/38d3ff8bbb366efe85df293affd5e8f3.PNG" tvg-country="LB" tvg-url="" group-title="CAMPURAN",Al Jadeed
-http://livecdnh3.tvanywhere.ae/hls/jadeed/index.m3u8
-
-#EXTINF:-1 tvg-id="Al Kahera Wal Nass 1 ARB" tvg-name="Al Kahera Wal Nass 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/8vSNskY.png" tvg-country="EG" tvg-url="" group-title="CAMPURAN",Al Kahera Wal Nas
-http://livecdnh2.tvanywhere.ae/hls/kahera_nas/index.m3u8
 #EXTINF:-1 tvg-id="Al Kass One ARB" tvg-name="Al Kass One ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/o90fKsH.png" tvg-country="QA" tvg-url="" group-title="SPORT",Al Kass Sports 1
 https://alkasmsl4.akamaized.net/hls/live/2003123/alkass1laoGlw/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="QA" tvg-url="" group-title="SPORT",Al Kass Sports 2
@@ -1159,14 +1013,6 @@ https://manar.live/x.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://media.almayadeen.tv/uploads/archive/web-logo.png" tvg-country="LB" tvg-url="" group-title="CAMPURAN",Al Mayadeen
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Al Nahar Drama ARB" tvg-name="Al Nahar Drama ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/rrPDwV0.png" tvg-country="EG" tvg-url="" group-title="CAMPURAN",Al Nahar Drama
-http://livecdnh2.tvanywhere.ae/hls/nahar_sd_drama/index.m3u8
-#EXTINF:-1 tvg-id="Al Nahar TV ARB" tvg-name="Al Nahar TV ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/B0ah9kI.png" tvg-country="EG" tvg-url="" group-title="CAMPURAN",Al Nahar TV
-http://livecdnh2.tvanywhere.ae/hls/nahar_sd/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/zmVCXIK.png" tvg-country="SA" tvg-url="" group-title="CAMPURAN",Al Quran Al Kareem (Mecca)
-http://103.205.133.42:1935/local/quran_tv_720/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/zmVCXIK.png" tvg-country="SA" tvg-url="" group-title="CAMPURAN",Al Quran Al Kareem (Mecca)
-http://livecdnh2.tvanywhere.ae/hls/quran/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/zmVCXIK.png" tvg-country="SA" tvg-url="" group-title="CAMPURAN",Al Quran Al Kareem (Mecca)
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/zmVCXIK.png" tvg-country="SA" tvg-url="" group-title="CAMPURAN",Al Quran Al Kareem (Mecca)
@@ -1178,19 +1024,12 @@ http://149.202.79.190:8081/arrafidaintv/publish/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://www.alrasheedmedia.com/wp-content/themes/alrasheedv2/images/logos/logo-small.png" tvg-country="IQ" tvg-url="" group-title="CAMPURAN",Al Rasheed
 http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
 
-#EXTINF:-1 tvg-id="Al Resalah TV ARB" tvg-name="Al Resalah TV ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/maJ9RAL.png" tvg-country="SA" tvg-url="" group-title="CAMPURAN",Al Resalah
-http://livecdnh3.tvanywhere.ae/hls/resalah/index.m3u8
 #EXTINF:-1 tvg-id="Al Resalah TV ARB" tvg-name="Al Resalah TV ARB" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/resala.png" tvg-country="SA" tvg-url="" group-title="CAMPURAN",Al Resalah HD
 https://rotana.hibridmedia.com/rotana/risala_dabr/playlist.m3u8
 #EXTINF:-1 tvg-id="Al Sharqiya ARB" tvg-name="Al Sharqiya ARB" tvg-language="Arabic" tvg-logo="http://alsharqiyatv.info/tv.jpg" tvg-country="IQ" tvg-url="" group-title="CAMPURAN",Al Sharqiya
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qNi4rwG.jpg" tvg-country="IQ" tvg-url="" group-title="News",Al Sharqiya News
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Saudi Sunnah ARB" tvg-name="Saudi Sunnah ARB" tvg-language="Arabic" tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Mask-Group-55@2x.png" tvg-country="SA" tvg-url="" group-title="CAMPURAN",Al Sunnah (Medina)
-http://103.205.133.42:1935/local/sunnah_tv_720/index.m3u8
-#EXTINF:-1 tvg-id="Saudi Sunnah ARB" tvg-name="Saudi Sunnah ARB" tvg-language="Arabic" tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Mask-Group-55@2x.png" tvg-country="SA" tvg-url="" group-title="CAMPURAN",Al Sunnah (Medina)
-http://livecdnh2.tvanywhere.ae/hls/sunnah/index.m3u8
 
 #EXTINF:-1 tvg-id="Saudi Sunnah ARB" tvg-name="Saudi Sunnah ARB" tvg-language="Arabic" tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Mask-Group-55@2x.png" tvg-country="SA" tvg-url="" group-title="CAMPURAN",Al Sunnah (Medina)
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8
@@ -1216,8 +1055,6 @@ https://live.al-zahratv.com/live/playlist2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/InD2uAT.png" tvg-country="ES" tvg-url="" group-title="CAMPURAN",Alacanti TV
 http://5.39.65.105/hls/alacantixa.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/VaGEoBo.png" tvg-country="AL" tvg-url="" group-title="Music",AlbMUSIC
-http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/gRvEH4v.png" tvg-country="AL" tvg-url="" group-title="CAMPURAN",AlbUK TV
 http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/9Xn7ZEZ.jpg" tvg-country="MX" tvg-url="" group-title="CAMPURAN",Alcarria TV
@@ -1235,8 +1072,7 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$AlfaOmegaTV/6.m3u8/Level(1677721)?st
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.alghadye.com/wp-content/uploads/2018/07/image1.png" tvg-country="YE" tvg-url="" group-title="CAMPURAN",Alghad Almushreq
 http://82.212.74.3:8000/live/7512.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/P733fzV.jpg" tvg-country="EG" tvg-url="" group-title="CAMPURAN",Alhayah TV
-http://livecdnh2.tvanywhere.ae/hls/hayat/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/0qwmBEm.png" tvg-country="US" tvg-url="" group-title="Religious",Aliento Vision
 http://livestreamcdn.net:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8
 
@@ -1250,8 +1086,7 @@ https://cdn.jmvstream.com/w/infiniti/_definst_/infiniti/playlist.m3u8
 http://tvallgaeu.iptv-playoutcenter.de:1935/tvallgaeu/tvallgaeu.stream_2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="SY" tvg-url="" group-title="CAMPURAN",alltv
 http://185.96.70.242:1935/live/alltv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/B725yZA.png" tvg-country="SA" tvg-url="" group-title="CAMPURAN",Almajd TV
-http://livecdnh3.tvanywhere.ae/hls/majd/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Kazakh" tvg-logo="https://i.imgur.com/GXlYCXz.jpg" tvg-country="KZ" tvg-url="" group-title="CAMPURAN",Almaty TV
 http://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Kazakh" tvg-logo="https://i.imgur.com/GXlYCXz.jpg" tvg-country="KZ" tvg-url="" group-title="CAMPURAN",Almaty TV
@@ -1278,8 +1113,7 @@ https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/XgejLKw.png" tvg-country="CA" tvg-url="" group-title="CAMPURAN",Amazing Discoveries TV
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist_w133198316.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/zXWgbVk.png" tvg-country="CA" tvg-url="" group-title="Religious",Amazing Discoveries TV
-https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist_w906756729.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/UjvjySO.png" tvg-country="US" tvg-url="" group-title="CAMPURAN",America's Funniest Videos
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/1280x720_5000000/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/UjvjySO.png" tvg-country="US" tvg-url="" group-title="CAMPURAN",America's Funniest Videos
@@ -1355,8 +1189,6 @@ https://nimble.dashstreams.net/onestudio/applesaucetv/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Kazakh" tvg-logo="https://i.imgur.com/MMJR6gg.png" tvg-country="KZ" tvg-url="" group-title="CAMPURAN",Aqtóbe
 http://onrez.kaztrk.kz/regional/aktobetv/index.m3u8
-#EXTINF:-1 tvg-id="Arabica Music ARB" tvg-name="Arabica Music ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/8He6Lca.png" tvg-country="LB" tvg-url="" group-title="Music",Arabica Music
-http://livecdnh2.tvanywhere.ae/hls/arabica_music/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/0MFkKAr.jpg" tvg-country="AZ" tvg-url="" group-title="CAMPURAN",ARB
 http://85.132.81.184:8080/arb/live/index.m3u8
@@ -1488,8 +1320,7 @@ https://sb.top-ix.org/avtvlive/streaming/playlist.m3u8
 http://stream.adunity.com/b1/b1.m3u8
 #EXTINF:-1 tvg-id="B1 RO" tvg-name="B1 RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/VQqgkzw.jpg" tvg-country="RO" tvg-url="" group-title="CAMPURAN",B1
 http://stream.adunity.com/b1/b1_640-.m3u8
-#EXTINF:-1 tvg-id="B4U Aflam ARB" tvg-name="B4U Aflam ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/IvIdaGB.png" tvg-country="AE" tvg-url="" group-title="CAMPURAN",B4U Aflam
-http://livecdnh3.tvanywhere.ae/hls/b4uaflam/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/b4u-kadak-in.png" tvg-country="IN" tvg-url="" group-title="Music",B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/B4U_MOVIES.png" tvg-country="IN" tvg-url="" group-title="Movies",B4U Movies
@@ -1500,10 +1331,7 @@ http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/inde
 http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/b4u_music_in.png" tvg-country="IN" tvg-url="" group-title="Music",B4U Music
 http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/01/b4u_plus_ae.png" tvg-country="IN" tvg-url="" group-title="Movies",B4U Plus
-http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
-#EXTINF:-1 tvg-id="B4U Plus ARB" tvg-name="B4U Plus ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/KnpCnyh.png" tvg-country="AE" tvg-url="" group-title="CAMPURAN",B4U Plus
-http://livecdnh3.tvanywhere.ae/hls/b4uplus/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="" tvg-country="AR" tvg-url="" group-title="CAMPURAN",BA Buenos Aires
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0089
 
@@ -1552,10 +1380,7 @@ https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8
 https://eco.streams.ovh:443/BarazaClassic/BarazaClassic/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/mW6c2QR.png" tvg-country="GR" tvg-url="" group-title="Music",Baraza TV Greek Music Hits
 https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/mW6c2QR.png" tvg-country="GR" tvg-url="" group-title="Music",Baraza TV Music Dance
-https://5cc309e93b721.streamlock.net:443/8452/8452/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Georgian" tvg-logo="https://i.imgur.com/2gH4apJ.png" tvg-country="GE" tvg-url="" group-title="CAMPURAN",Batumi TV
-http://tv.cdn.xsg.ge/batumitv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Khmer" tvg-logo="https://i.imgur.com/2jbulL2.jpg" tvg-country="KH" tvg-url="" group-title="News",Bayon TV
 http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Khmer" tvg-logo="https://i.imgur.com/1TgC7mx.jpg" tvg-country="KH" tvg-url="" group-title="News",Bayon TV
@@ -1564,8 +1389,6 @@ http://203.176.130.123:8989/live/bayontv_480k.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="BBC Arabic ARB" tvg-name="BBC Arabic ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/oFGPG9Y.png" tvg-country="UK" tvg-url="" group-title="News",BBC Arabic
 https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="BBC Arabic ARB" tvg-name="BBC Arabic ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/oFGPG9Y.png" tvg-country="UK" tvg-url="" group-title="News",BBC Arabic (Backup)
-http://livecdnh2.tvanywhere.ae/hls/bbc_ar/index.m3u8
 #EXTINF:-1 tvg-id="BBC News UK" tvg-name="BBC News UK" tvg-language="English" tvg-logo="https://i.imgur.com/eNPIQ9f.png" tvg-country="UK" tvg-url="" group-title="News",BBC News
 http://51.52.156.22:8888/http/004
 
@@ -1716,8 +1539,7 @@ https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
 https://liveproduseast.akamaized.net/btv/desktop/us_event.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="CAMPURAN",Bloomberg TV Politics Live Event
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_politics.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://mahgoubsons.com/wp/wp-content/uploads/2017/10/BNTV_logo.png" tvg-country="SD" tvg-url="" group-title="CAMPURAN",Blue Nile
-http://livecdnh2.tvanywhere.ae/hls/blue_nile/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/uGL7M09.jpg" tvg-country="US" tvg-url="" group-title="CAMPURAN",Blush Romance TV
 https://nimble.dashstreams.net/onestudio/blushtv/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/wYbO6ch.jpg" tvg-country="NL" tvg-url="" group-title="CAMPURAN",BNR Nieuwsradio
@@ -1753,12 +1575,6 @@ http://a.srvbr.me:8880/138906/138906/858
 #EXTINF:-1,Disney XD [PLUS]
 http://a.srvbr.me:8880/138906/138906/4149
 
-#EXTINF:-1,Cartoon Network HD
-http://maxptv.net:8080/jose/jose/524
-
-#EXTINF:-1,Cartoon Network SD
-http://maxptv.net:8080/jose/jose/204
-
 #EXTINF:-1 tvg-id="Boing" tvg-name="" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boing.svg/240px-Boing.svg.png" tvg-country="ES" tvg-url="" group-title="CAMPURAN",Boing
 https://pastebin.com/raw/afgk7wAC
 
@@ -1778,8 +1594,7 @@ https://cdn.y5.hu:443/stream/bonum/hls/stream.m3u8?
 https://stream.y5.hu/stream/stream_bonum/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://booglebollywood.com/wp-content/uploads/2018/02/boogle-bollywood-final_2-300x96.png" tvg-country="IN" tvg-url="" group-title="CAMPURAN",Boogle Bollywood
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://parco-zh.github.io/demo/boome.png" tvg-country="UK" tvg-url="" group-title="KIDS",Boomerang (MENA)
-http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-logo="" tvg-country="VN" tvg-url="" group-title="KIDS",Boruto TV
 http://ws.flv.nimo.tv/live/su1599512427615r0c4ed6161b23b4d2892824141e30f13b_high.flv
 
@@ -1795,14 +1610,7 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=htt
 http://118.69.197.145/hls/bptv1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-logo="https://goo.gl/q4pNNB" tvg-country="VN" tvg-url="" group-title="CAMPURAN",BPTV2 - Binh Phước 2
 http://118.69.197.145/hls/bptv2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="" group-title="CAMPURAN",BR Event 1
-http://brevent1hds-lh.akamaihd.net/i/br_event01isma@86390/index_1_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/br.png" tvg-country="DE" tvg-url="" group-title="CAMPURAN",BR Event 2
-http://brevent1hds-lh.akamaihd.net/i/br_event02isma@111248/index_1_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/br.png" tvg-country="DE" tvg-url="" group-title="CAMPURAN",BR Event 3
-http://brevent1hds-lh.akamaihd.net/i/br_event03isma@111249/index_1_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="" group-title="CAMPURAN",BR Event 4
-http://brevent1hds-lh.akamaihd.net/i/br_event04isma@111250/index_1_av-b.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="CAMPURAN",BR FERNSEHEN
 https://brlive-lh.akamaihd.net/i/bfssued_germany@119890/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="http://images.live-stream.tv/picons/br.png" tvg-country="DE" tvg-url="" group-title="CAMPURAN",BR Fernsehen Germany
@@ -1853,8 +1661,6 @@ http://hls.cdn.bg:2006/fls/bonair.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="Bulgaria On Air BG" tvg-name="Bulgaria On Air BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/fawQSJN.jpg" tvg-country="BG" tvg-url="" group-title="News",Bulgaria On Air
 http://ios.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Somali" tvg-logo="https://batalaalenews.net/uploads/article/photo/IMG_CB9499-460371-7315F8-84FB45-969063-049959.jpg" tvg-country="SO" tvg-url="" group-title="CAMPURAN",Bulsho TV
-https://ap01.iqplay.tv:81/iqb8002/bu1sho41.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/N2Yc8Yf/k6DUajb.png" tvg-country="TR" tvg-url="" group-title="CAMPURAN",Bursa TV
 https://win1.yayin.com.tr/bursatv/bursatv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://www.butv10.com/wp-content/themes/butv10/_images/favicon.png" tvg-country="US" tvg-url="" group-title="CAMPURAN",BUTV10 (Boston University)
@@ -2046,10 +1852,7 @@ http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
 http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="" tvg-country="IT" tvg-url="" group-title="CAMPURAN",Canale 8
 http://wms.shared.streamshow.it:80/canale8/canale8/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="" tvg-country="IT" tvg-url="" group-title="CAMPURAN",Canale 85 Puglia
-http://wms.shared.streamshow.it/canale85/mp4:canale85/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="http://www.canale85.it/wp-content/uploads/2018/10/canale85.png" tvg-country="IT" tvg-url="" group-title="CAMPURAN",Canale 85 Puglia
-https://59d7d6f47d7fc.streamlock.net/redirect/canale85/canale85?type=m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/8D1LrKO.png" tvg-country="EC" tvg-url="" group-title="CAMPURAN",Canela TV
 http://inliveserver.com:1935/8074/8074/playlist.m3u8
 #EXTINF:-1 tvg-id="Canvas BE" tvg-name="Canvas BE" tvg-language="Dutch" tvg-logo="https://i.imgur.com/xVgqbbT.jpg" tvg-country="BE" tvg-url="" group-title="CAMPURAN",Canvas
@@ -2088,15 +1891,10 @@ https://cdn039.fractalmedia.es/hls/caz_pt_med.m3u8
 
 #EXTINF:-1 tvg-id="cbc-az" tvg-name="CBC" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/4VAiAnb.jpg" tvg-country="AZ" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="CAMPURAN",CBC
 http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/chunklist_w1352949174.m3u8
-#EXTINF:-1 tvg-id="CBC ARB" tvg-name="CBC ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/VZmLIY2.png" tvg-country="EG" tvg-url="" group-title="CAMPURAN",CBC
-http://livecdnh2.tvanywhere.ae/hls/cap_brd_cen/index.m3u8
-#EXTINF:-1 tvg-id="CBC Drama ARB" tvg-name="CBC Drama ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/VW5Qk23.png" tvg-country="EG" tvg-url="" group-title="Movies",CBC Drama
-http://livecdnh2.tvanywhere.ae/hls/cbc_drama/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="CA" tvg-url="" group-title="News",CBC News Network
 https://cbcnewshd-f.akamaihd.net/i/cbcnews_30@304030/index_2500_av-p.m3u8
 
-#EXTINF:-1 tvg-id="CBC Sofra ARB" tvg-name="CBC Sofra ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/8voC3Ns.png" tvg-country="EG" tvg-url="" group-title="CAMPURAN",CBC Sofra
-http://livecdnh2.tvanywhere.ae/hls/cbc_sof/index.m3u8
 #EXTINF:-1 tvg-id="CBeebies UK" tvg-name="CBeebies UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/640px-CBeebies.svg.png" tvg-country="UK" tvg-url="" group-title="KIDS",Cbeebies
 http://51.52.156.22:8888/http/003
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="CAMPURAN",CBN Español
@@ -2175,8 +1973,6 @@ http://205.164.56.130:1935/marcos536/marcos536/chunklist_w191773249.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="" tvg-country="PR" tvg-url="" group-title="CAMPURAN",CDM TV
 http://205.164.56.130:1935/marcos536/marcos536/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/BP322Ly.png" tvg-country="NL" tvg-url="" group-title="CAMPURAN",Centraal TV Weststellingwerf Webcam
-http://streams.uitzending.tv/centraal/centraal/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-cerritos-tv3.jpg" tvg-country="US" tvg-url="" group-title="CAMPURAN",Cerritos TV3
 http://granicusliveus4-a.akamaihd.net/cerritos/G0010_002/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/SQI9PAz.png" tvg-country="KR" tvg-url="" group-title="Religious",CGNTV
@@ -2230,10 +2026,7 @@ http://edge-stream-07.otv.co.th./livestream/Channel7.stream/playlist.m3u8
 http://live.pjmcdn.info/live/CH8.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel 8" tvg-name="Channel 8" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://images.mypadtv.com/hd8.jpg" tvg-country="SG" tvg-url="https://freeview.github.io/iptv/epg/tv.xml" group-title="CAMPURAN",Channel 8
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/hzdMjA1.jpg" tvg-country="TH" tvg-url="" group-title="CAMPURAN",Channel 8 Thailand
-http://usa.login.in.th:1935/ch8/ch8/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/hzdMjA1.jpg" tvg-country="TH" tvg-url="" group-title="CAMPURAN",Channel 8 Thailand
-http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://i.imgur.com/24uaLwh.png" tvg-country="GR" tvg-url="" group-title="CAMPURAN",Channel 9
 http://176.9.123.140:1935/channel9/channel9/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Burmese" tvg-logo="http://www.myanmartvchannel.com/assets/images/channel/channel9.jpg" tvg-country="MM" tvg-url="" group-title="CAMPURAN",Channel 9
@@ -2284,8 +2077,6 @@ https://bozztv.com/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/tracks-v1a1/mo
 http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/VCUhufk.jpg" tvg-country="IN" tvg-url="" group-title="CAMPURAN",Cine Voice
 http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
-#EXTINF:-1 tvg-id="Cinema 1 ARB" tvg-name="Cinema 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lNhSZ9N.png" tvg-country="AE" tvg-url="" group-title="Movies",Cinema 1
-http://livecdnh1.tvanywhere.ae/hls/cin1/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/Iz8re8Z.png" tvg-country="IR" tvg-url="" group-title="Entertainment",Cineseries
 https://bozztv.com/36bay2/gin/giniko_tvbox-cine-series_800kb_36bay2/tracks-v1a1/mono.m3u8
@@ -2320,8 +2111,6 @@ http://210.210.155.35/uq2663/h/h29/index.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" tvg-country="ID" tvg-url="" group-title="Business",CNBC
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/a6QmjRT.png" tvg-country="US" tvg-url="" group-title="Business",CNBC Arabiya
-http://livecdnh2.tvanywhere.ae/hls/cnbc_ar/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/a6QmjRT.png" tvg-country="US" tvg-url="" group-title="Business",CNBC Arabiya
 https://vod.hibridcdn.net/cnbc/liveabr/playlist.m3u8
@@ -2344,8 +2133,6 @@ https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?sd=10
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/3yumcV3.jpg" tvg-country="US" tvg-url="" group-title="Business",CNBC TV18
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?sd=10
 
-#EXTINF:-1 tvg-id="" tvg-name="cnex" tvg-language="Chinese" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?deviceType=3&imageId=OTTLIVE_0000001752.png" tvg-country="TW" tvg-url="" group-title="Documentary",CNEX Taiwan (Backup)
-http://61.58.60.230:9319/live/257.m3u8
 #EXTINF:-1 tvg-id="cnl-eu" tvg-name="CNL Европа" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/lozzdS7.png" tvg-country="UA" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Religious",CNL (Европа)
 http://live-mobile.cdn01.net/hls-live/202E1F/default/mobile/stream_10429_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/ilZJT5s.png" tvg-country="US" tvg-url="" group-title="News",CNN
@@ -2444,8 +2231,6 @@ http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b5
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ki7ZvDD.png" tvg-country="PE" tvg-url="" group-title="CAMPURAN",Cultura 24 TV
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://www.nettv.live/uploads/allimg/18/1-1PQH20T80-L.jpg" tvg-country="TW" tvg-url="" group-title="CAMPURAN",CYC世新綜合
-http://61.58.60.230:9319/live/49.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/gWc8xVD.jpg" tvg-country="VN" tvg-url="" group-title="CAMPURAN",Cà Mau TV
 http://tv.ctvcamau.vn/live/tv/tv.m3u8
 
@@ -2468,8 +2253,7 @@ https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a
 https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest_22.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/vMMR55y.png" tvg-country="US" tvg-url="" group-title="CAMPURAN",DABL
 https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest_24.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Somali" tvg-logo="https://i.imgur.com/AeCpDw4.png" tvg-country="SO" tvg-url="" group-title="CAMPURAN",Dacwa TV
-https://ap01.iqplay.tv:81/iqb8002/d13w1.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-logo="" tvg-country="VN" tvg-url="" group-title="CAMPURAN",DakLakTV
 http://vietcago.net/vstv/daklaktv.m3u8
 
@@ -2558,71 +2342,11 @@ http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
 #EXTINF:-1 tvg-id="Discovery-CZ" tvg-name="Discovery Channel-CZ" tvg-language="Czech" tvg-logo="https://static.iptv-epg.com/gb/DiscoveryChannel.uk.png" tvg-country="CZ" tvg-url="http://epg.streamstv.me/epg/guide-cz.xml.gz" group-title="DISCOVERY",Discovery
 http://83.167.253.110:5000/live/discovery/playlist.m3u8
 
-#EXTINF:-1,group-title="DISCOVERY",Discovery Channel HD
-http://maxptv.net:8080/jose/jose/195
-
-#EXTINF:-1,group-title="DISCOVERY",Discovery Channel SD
-http://maxptv.net:8080/jose/jose/194
-
-#EXTINF:-1,group-title="DISCOVERY",Discovery Home & Health HD
-http://maxptv.net:8080/jose/jose/191
-
-#EXTINF:-1,group-title="DISCOVERY",Discovery Home & Health SD
-http://maxptv.net:8080/jose/jose/190
-
-#EXTINF:-1,group-title="DISCOVERY",Discovery Kids HD
-http://maxptv.net:8080/jose/jose/189
-
-#EXTINF:-1,group-title="DISCOVERY",Discovery Kids SD
-http://maxptv.net:8080/jose/jose/188
-
-#EXTINF:-1,group-title="DISCOVERY",Discovery Science HD
-http://maxptv.net:8080/jose/jose/187
-
-#EXTINF:-1,group-title="DISCOVERY",Discovery Science SD
-http://maxptv.net:8080/jose/jose/186
-
-#EXTINF:-1,group-title="DISCOVERY",Discovery Theater HD
-http://maxptv.net:8080/jose/jose/185
-
-#EXTINF:-1,group-title="DISCOVERY",Discovery Theater SD
-http://maxptv.net:8080/jose/jose/184
-
-#EXTINF:-1,group-title="DISCOVERY",Discovery Turbo HD
-http://maxptv.net:8080/jose/jose/183
-
-#EXTINF:-1,group-title="DISCOVERY",Discovery Turbo SD
-http://maxptv.net:8080/jose/jose/182
-
-#EXTINF:-1,group-title="DISCOVERY",Discovery World SD
-http://maxptv.net:8080/jose/jose/180
-
-#EXTINF:-1,group-title="DISCOVERY",Discovery World HD
-http://maxptv.net:8080/jose/jose/181
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/lVXlnL6.png" tvg-country="BR" tvg-url="" group-title="DISCOVERY",Discovery
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverychannel.smil/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/6uoNAAj.png" tvg-country="BR" tvg-url="" group-title="DISCOVERY",Discovery Kids
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverykids.smil/master.m3u8
-
-#EXTINF:-1,group-title="KIDS",Disney Channel  HD
-http://maxptv.net:8080/jose/jose/179
-
-#EXTINF:-1,group-title="KIDS",Disney Channel SD
-http://maxptv.net:8080/jose/jose/178
-
-#EXTINF:-1,group-title="KIDS",Disney Junior HD
-http://maxptv.net:8080/jose/jose/177
-
-#EXTINF:-1,group-title="KIDS",Disney Junior SD
-http://maxptv.net:8080/jose/jose/176
-
-#EXTINF:-1,group-title="KIDS",Disney XD HD
-http://maxptv.net:8080/jose/jose/175
-
-#EXTINF:-1,group-title="KIDS",Disney XD SD
-http://maxptv.net:8080/jose/jose/174
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="" tvg-country="IN" tvg-url="" group-title="KIDS",Disney Junior
 http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
@@ -2701,10 +2425,7 @@ http://www.djing.com/tv/session_wild-edm.m3u8
 https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="DMAX IT" tvg-name="DMAX IT" tvg-language="Italian" tvg-logo="http://tv-online.in/wp-content/uploads/2015/02/DMax-live.gif" tvg-country="IT" tvg-url="" group-title="CAMPURAN",DMAX
 https://sbshdlu3-lh.akamaihd.net/i/sbshdlive_4@99403/master.m3u8
-#EXTINF:-1 tvg-id="dmc Drama ARB" tvg-name="dmc Drama ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/iRKkgto.jpg" tvg-country="EG" tvg-url="" group-title="Movies",DMC Drama
-http://livecdnh1.tvanywhere.ae/hls/dmcdrama/index.m3u8
-#EXTINF:-1 tvg-id="dmc HD ARB" tvg-name="dmc HD ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/es7v1kI.png" tvg-country="EG" tvg-url="" group-title="Movies",DMC HD
-http://livecdnh3.tvanywhere.ae/hls/dmchd/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/epKiEaX.png" tvg-country="NL" tvg-url="" group-title="CAMPURAN",DNO Streek TV
 http://58e4d59f4ba2c.streamlock.net/streektv/streektv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/epKiEaX.png" tvg-country="NL" tvg-url="" group-title="CAMPURAN",DNO Streek TV
@@ -2713,8 +2434,6 @@ http://cdn22.streampartner.nl/streektv/streektv/playlist.m3u8
 https://edge1a.v2h-cdn.com/appt3/DoChannel.stream_360p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/ANDh44D.png" tvg-country="TH" tvg-url="" group-title="CAMPURAN",Do Channel
 https://edge1a.v2h-cdn.com/appt3/DoChannel.stream_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/rnQMXRm.jpg" tvg-country="US" tvg-url="" group-title="Documentary",DocuBox HD
-http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/eJgCFh6.png" tvg-country="DE" tvg-url="" group-title="CAMPURAN",Donau TV
 http://donautv.iptv-playoutcenter.de:1935/donautv/donautv.stream_1/playlist.m3u8
@@ -2743,8 +2462,7 @@ https://ws.flv.nimo.tv/live/su1599512427558r464ce7577525c715f04419095ae6abeb_hig
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2020/01/TVB_TEST.png" tvg-country="TH" tvg-url="" group-title="CAMPURAN",Drama Thai
 https://edge2a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/zrP1AUO.png" tvg-country="EG" tvg-url="" group-title="CAMPURAN",Dream 2
-http://livecdnh2.tvanywhere.ae/hls/dream2/index.m3u8
+
 #EXTINF:-1 tvg-id="Dream TV TR" tvg-name="Dream TV TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/tpQCzb9/0MXy3W0.png" tvg-country="TR" tvg-url="" group-title="CAMPURAN",Dream TV
 https://mn-nl.mncdn.com/blutv_dream/smil:dream_sd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/0NVfgrt.jpg" tvg-country="US" tvg-url="" group-title="CAMPURAN",Dream TV
@@ -2775,31 +2493,6 @@ https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u
 #EXTINF:-1 tvg-id="Dubai Sports 2 ARB" tvg-name="Dubai Sports 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qBdOZ1x.png" tvg-country="AE" tvg-url="" group-title="SPORT",Dubai Sports 2
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
 #EXTINF:-1 tvg-id="Dubai Sports 3 ARB" tvg-name="Dubai Sports 3 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/hxxjMPJ.jpg" tvg-country="AE" tvg-url="" group-title="SPORT",Dubai Sports 3
-
-#EXTINF:-1,group-title="SPORT",Espn  2 HD
-http://maxptv.net:8080/jose/jose/171
-
-#EXTINF:-1,group-title="SPORT",Espn  2 SD
-http://maxptv.net:8080/jose/jose/170
-
-#EXTINF:-1,group-title="SPORT",Espn Brasil HD
-http://maxptv.net:8080/jose/jose/169
-
-#EXTINF:-1,group-title="SPORT",Espn Brasil SD
-http://maxptv.net:8080/jose/jose/168
-
-#EXTINF:-1,group-title="SPORT",Espn Extra  SD
-http://maxptv.net:8080/jose/jose/164
-
-#EXTINF:-1,group-title="SPORT",Espn Extra HD
-http://maxptv.net:8080/jose/jose/165
-
-#EXTINF:-1,group-title="SPORT",Espn HD
-http://maxptv.net:8080/jose/jose/167
-
-#EXTINF:-1,group-title="SPORT",Espn SD
-http://maxptv.net:8080/jose/jose/166
-
 
 #EXTINF:-1,group-title="SPORT",ESPN
 http://a.srvbr.me:8880/138906/138906/4643
@@ -2919,92 +2612,11 @@ http://163.172.179.78:8081/tv/eurosport-1/playlist.m3u8
 #EXTINF:-1,group-title="SPORT",EUROSPORT 2
 http://163.172.179.78:8081/tv/eurosport-2/playlist.m3u8
 
-#EXTINF:-1,group-title="SPORT",Premiere 1 HD
-http://maxptv.net:8080/jose/jose/86
-
-#EXTINF:-1,group-title="SPORT",Premiere 1 HD Alternativo
-http://maxptv.net:8080/jose/jose/1461
-
-#EXTINF:-1,group-title="SPORT",Premiere 1 HD2
-http://maxptv.net:8080/jose/jose/247
-
-#EXTINF:-1,group-title="SPORT",Premiere 1 SD
-http://maxptv.net:8080/jose/jose/85
-
-#EXTINF:-1,group-title="SPORT",Premiere 2 HD
-http://maxptv.net:8080/jose/jose/84
-
-#EXTINF:-1,group-title="SPORT",Premiere 2 HD Alternativo
-http://maxptv.net:8080/jose/jose/1462
-
-#EXTINF:-1,group-title="SPORT",Premiere 2 SD
-http://maxptv.net:8080/jose/jose/83
-
-#EXTINF:-1,group-title="SPORT",Premiere 3 HD
-http://maxptv.net:8080/jose/jose/82
-
-#EXTINF:-1,group-title="SPORT",Premiere 3 HD Alternativo
-http://maxptv.net:8080/jose/jose/1463
-
-#EXTINF:-1,group-title="SPORT",Premiere 3 SD
-http://maxptv.net:8080/jose/jose/81
-
-#EXTINF:-1,group-title="SPORT",Premiere 4 HD
-http://maxptv.net:8080/jose/jose/80
-
-#EXTINF:-1,group-title="SPORT",Premiere 4 HD Alternativo
-http://maxptv.net:8080/jose/jose/1464
-
-#EXTINF:-1,group-title="SPORT",Premiere 4 SD
-http://maxptv.net:8080/jose/jose/79
-
-#EXTINF:-1,group-title="SPORT",Premiere 5 HD
-http://maxptv.net:8080/jose/jose/78
-
-#EXTINF:-1,group-title="SPORT",Premiere 5 HD Alternativo
-http://maxptv.net:8080/jose/jose/1465
-
-#EXTINF:-1,group-title="SPORT",Premiere 5 SD
-http://maxptv.net:8080/jose/jose/77
-
-#EXTINF:-1,group-title="SPORT",Premiere 7 HD
-http://maxptv.net:8080/jose/jose/74
-
-#EXTINF:-1,group-title="SPORT",Premiere 7 HD Alternativo
-http://maxptv.net:8080/jose/jose/1467
-
-#EXTINF:-1,group-title="SPORT",Premiere 7 SD
-http://maxptv.net:8080/jose/jose/73
-
-#EXTINF:-1,group-title="SPORT",SporTV HD
-http://maxptv.net:8080/jose/jose/49
-
-#EXTINF:-1,group-title="SPORT",SporTV SD
-http://maxptv.net:8080/jose/jose/48
-
-#EXTINF:-1,group-title="SPORT",SporTV2 HD
-http://maxptv.net:8080/jose/jose/47
-
-#EXTINF:-1,group-title="SPORT",SporTV2 SD
-http://maxptv.net:8080/jose/jose/46
-
-#EXTINF:-1,group-title="SPORT",SporTV3 HD
-http://maxptv.net:8080/jose/jose/45
-
-#EXTINF:-1,group-title="SPORT",SporTV3 SD
-http://maxptv.net:8080/jose/jose/44
-
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 #EXTINF:-1 tvg-id="Dubai TV ARB" tvg-name="Dubai TV ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/dWueFIE.png" tvg-country="AE" tvg-url="" group-title="CAMPURAN",Dubai TV
 https://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Etisalat Dubai Zaman TV ARB" tvg-name="Etisalat Dubai Zaman TV ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/F5U9qpf.png" tvg-country="AE" tvg-url="" group-title="CAMPURAN",Dubai Zaman
 https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="SK" tvg-url="" group-title="KIDS",Duck TV
-http://livecdnh3.tvanywhere.ae/hls/duck/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/Puql6oC.png" tvg-country="US" tvg-url="" group-title="CAMPURAN",Duck TV
-http://livecdnh3.tvanywhere.ae/hls/duck/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Ducktv-logo.jpg/125px-Ducktv-logo.jpg" tvg-country="SK" tvg-url="" group-title="KIDS",Duck TV
-http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/bBqJrfl.jpg" tvg-country="PK" tvg-url="" group-title="CAMPURAN",Dunya News
 http://imob.dunyanews.tv/live/_definst_/dunyalive_1/chunklist_w1239250459.m3u8
@@ -3171,8 +2783,7 @@ http://46.55.111.242:8080/Rezina.m3u8
 http://46.55.111.242:8080/Rezina.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="https://www.elivebrescia.tv/wp-content/uploads/2018/09/Logo_nuovo_CLAIM.png" tvg-country="IT" tvg-url="" group-title="CAMPURAN",Elive TV Brescia
 https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/NWljgKa.png" tvg-country="UK" tvg-url="" group-title="Religious",Eman Channel
-https://ap01.iqplay.tv:81/iqb8002/3m9n.m3u8
+
 #EXTINF:-1 tvg-id="Al Emarat TV ARB" tvg-name="Al Emarat TV ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/5S2ci8p.png" tvg-country="AE" tvg-url="" group-title="CAMPURAN",Emarat TV
 https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8
 
@@ -3188,8 +2799,7 @@ https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_1.m3u8
 https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
 #EXTINF:-1 tvg-id="Energy" tvg-name="" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/310px-Energy.svg.png" tvg-country="ES" tvg-url="" group-title="CAMPURAN",Energy
 https://pastebin.com/raw/AXvzQiid
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Logo_ECTV_DSh.png/460px-Logo_ECTV_DSh.png" tvg-country="UK" tvg-url="" group-title="CAMPURAN",English Club TV
-http://livecdnh2.tvanywhere.ae/hls/english_club/04.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Georgian" tvg-logo="https://i.imgur.com/RJAT25i.jpg" tvg-country="GE" tvg-url="" group-title="CAMPURAN",Enki-Benki
 http://94.43.239.178:8080/CHANNEL678/BITRATE0/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="DZ" tvg-url="" group-title="CAMPURAN",Ennahar TV
@@ -3438,8 +3048,7 @@ http://58e5fdd27293a.streamlock.net:1935/friesischerRundfunk-live/_definst_/mp4:
 http://stream.fs1.tv:8080/hls/webstream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/sGzR0HV.png" tvg-country="DO" tvg-url="" group-title="CAMPURAN",Fuego TV
 http://184.173.181.2:1935/8020/8020/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="KW" tvg-url="" group-title="CAMPURAN",Funoon TV
-http://livecdnh3.tvanywhere.ae/hls/funoon/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/QbdReYf.png" tvg-country="BR" tvg-url="" group-title="CAMPURAN",FURG TV
 http://stream.furg.br:80/hls/furgtv.m3u8
 #EXTINF:-1 tvg-id="Future TV ARB" tvg-name="Future TV ARB" tvg-language="Arabic" tvg-logo="http://futuretvnetwork.com/images/logo.png" tvg-country="LB" tvg-url="" group-title="CAMPURAN",Future TV
@@ -3502,8 +3111,7 @@ https://jk3lz82elw79-hls-live.5centscdn.com/Geo/83ccf718ec6040646c295cb25dbef052
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://media.localbtv.com/images/phillybtv/logos/20530-81915.png" tvg-country="US" tvg-url="" group-title="CAMPURAN",getTV
 https://v-pi.mybtv.net/event/28.2/640x480?start_time=2019-12-17T20%3A15%3A00.000Z&end_time=8089&env=prd&uid=29375
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/7AC8etU.png" tvg-country="NL" tvg-url="" group-title="Music",Gigant FM
-http://streams.uitzending.tv/gigantfm/gigantfm/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.glendaleaz.com/images/City-Logo-Text.png" tvg-country="US" tvg-url="" group-title="CAMPURAN",Glendale 11
 https://stream.swagit.com/live-edge/glendaleaz/smil:std-4x3-1-a/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/ppMNSKT.png" tvg-country="CA" tvg-url="" group-title="CAMPURAN",Global Calgary
@@ -3515,8 +3123,6 @@ http://live-h1.frontlayer.net/fl592468/live/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/rjHXi0Y.jpg" tvg-country="PH" tvg-url="" group-title="CAMPURAN",GMA Pinoy TV
 http://164.40.161.43:10011
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/UxISEZf.png" tvg-country="AT" tvg-url="" group-title="CAMPURAN",Go TV
-https://nstream17.gotv.at:1443/live/_definst_/gotvlive_576p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/zAFt893.png" tvg-country="NL" tvg-url="" group-title="Music",GO-RTV
 http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.god.tv/wp-content/themes/godtv/images/god-bug-trans-white_1.png" tvg-country="US" tvg-url="" group-title="CAMPURAN",GOD TV
@@ -3643,10 +3249,7 @@ http://amtv1.livestreamingcdn.com/am2abr/tracks-v2a1/index.m3u8
 http://livestream.htp.tv/hls-live/livepkgr/_definst_/H1/H1_HQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/iaXoYxb.png" tvg-country="DE" tvg-url="" group-title="CAMPURAN",H1
 http://livestream.htp.tv/hls-live/livepkgr/_definst_/H1/H1_LQ.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/2400x2400_1578/Misc/h2_2400_color_dark_light.png" tvg-country="US" tvg-url="" group-title="CAMPURAN",H2
-http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/H2_TV_logo.svg/1200px-H2_TV_logo.svg.png" tvg-country="SA" tvg-url="" group-title="CAMPURAN",H2
-http://livecdnh1.tvanywhere.ae/hls/h2/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/xBcBG2z.png" tvg-country="SY" tvg-url="" group-title="CAMPURAN",Halab Today TV
 http://streaming.tootvs.com:1935/8010/8010/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/xBcBG2z.png" tvg-country="SY" tvg-url="" group-title="CAMPURAN",Halab Today TV
@@ -3662,9 +3265,6 @@ https://edge1a.v2h-cdn.com/appt3/Happy.stream_360p/chunklist.m3u8
 https://edge1a.v2h-cdn.com/appt3/Happy.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/lzmU9zr.png" tvg-country="IN" tvg-url="" group-title="CAMPURAN",Harvest TV USA
 http://live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://www.hawacom.tv/android-chrome-256x256.png" tvg-country="LB" tvg-url="" group-title="CAMPURAN",Hawacom
-http://livecdnh3.tvanywhere.ae/hls/hawacom/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/BnFWgS7.png" tvg-country="VN" tvg-url="" group-title="CAMPURAN",HBTV
 http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
@@ -3887,8 +3487,7 @@ https://ur.imamhusseintv.com/live/ih4.m3u8
 http://hls.t.stream-dns.net/hls/imedi/imedi.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Georgian" tvg-logo="https://i.imgur.com/0w6wIE7.png" tvg-country="GE" tvg-url="" group-title="CAMPURAN",Imedi HD
 https://imedi-tv.cdn.xsg.ge/imedihd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/RDokpwD.png" tvg-country="BF" tvg-url="" group-title="CAMPURAN",Impac TV
-https://edge10.vedge.infomaniak.com/livecast/impacttele/chunklist_w973675047.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/3LwhNB9.jpg" tvg-country="UA" tvg-url="" group-title="Religious",Impact
 http://206.190.141.27:1935/live/impact/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russian" tvg-logo="" tvg-country="RU" tvg-url="" group-title="Religious",Impact TV
@@ -3916,8 +3515,6 @@ https://infostream.secure.footprint.net/hls-live/infostream-infostream/_definst_
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/HSklqOj.jpg" tvg-country="PH" tvg-url="" group-title="CAMPURAN",Inquirer 990 Television
 https://d3cbe0gidjd4k2.cloudfront.net/channel_7/channel7/chunklist_w842017402.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040365.jpg" tvg-country="ID" tvg-url="" group-title="CAMPURAN",INSAN TV
-http://wz.insantv.net/group/ngrp:insantv_mobile/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/CQnD7yU.png" tvg-country="US" tvg-url="" group-title="Religious",Inspiration TV
 http://inspnetworks-lh.akamaihd.net/i/insp_2@393793/master.m3u8
@@ -3979,8 +3576,7 @@ http://121.31.30.90:8085/ysten-business/live/jingpinjl/yst.m3u8
 http://117.156.28.119/270000001111/1110000110/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="CAMPURAN",IPTV金牌综艺
 http://121.31.30.90:8085/ysten-business/live/saishijx/yst.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/PHZukyw.jpg" tvg-country="BD" tvg-url="" group-title="CAMPURAN",Iqra Bangla
-https://ap01.iqplay.tv:81/iqb8002/iq53la.m3u8
+
 #EXTINF:-1 tvg-id="Iqraa" tvg-name="Iqraa" tvg-language="Arabic" tvg-logo="https://i.imgur.com/3bug9dU.png" tvg-country="SA" tvg-url="" group-title="Religious",Iqraa
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/3bug9dU.png" tvg-country="SA" tvg-url="" group-title="Religious",Iqraa Europe Africa
@@ -4016,8 +3612,7 @@ https://isar-tv.iptv-playoutcenter.de/isar-tv/isar-tv.stream_1/playlist.m3u8
 http://cpdc101-lh.akamaihd.net/i/ISNCPDCMB1_1@314337/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="http://www.israelparstv.com/wp-content/uploads/2018/10/Israel-Pars-Logo-100x100.png" tvg-country="IR" tvg-url="" group-title="Entertainment",Israel Pars TV
 http://66.160.192.219:8080/asaltv2/live/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/d0T2jfg/ibb-tv-logo-white.png" tvg-country="TR" tvg-url="" group-title="CAMPURAN",Istanbul Metropolitan Municipality
-http://wowza.istweb.tv:1935/dp/istanbul2/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Italia 2 IT" tvg-name="Italia 2 IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/TDSgG28.png" tvg-country="IT" tvg-url="" group-title="CAMPURAN",Italia 2 TV
 http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Iran_TV_Network.png" tvg-country="IR" tvg-url="" group-title="Entertainment",ITN TV
@@ -4028,8 +3623,6 @@ http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
 https://unlimited1-us.dps.live/itv/itv.smil/itv/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/zJ5idav.jpg" tvg-country="US" tvg-url="" group-title="CAMPURAN",It’s At The Movies
 https://nimble.dashstreams.net/onestudio/its_comming_soon/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/geyLqiw.jpg" tvg-country="AZ" tvg-url="" group-title="CAMPURAN",İctimai TV
-http://streams2.livetv.az/azerbaijan/ictimai_stream2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="inter-ua" tvg-name="Iнтер" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/0n7Bk5s.png" tvg-country="UA" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="CAMPURAN",Iнтер
 http://109.68.41.148:1935/live/inter_3/playlist.m3u8
@@ -4070,87 +3663,11 @@ http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-country="INT" tvg-url="" group-title="XXX",Jasmin TV
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
 
-
-#EXTINF:-1,group-title="XXX",XXX: TUSHY RAW
-http://iptvactivador.online:25461/gonzalo1/gonzalo1/1301
-
-#EXTINF:-1,group-title="XXX",XXX: VIXEN
-http://iptvactivador.online:25461/gonzalo1/gonzalo1/1302
-
-#EXTINF:-1,group-title="XXX",XXX: MOFOS
-http://iptvactivador.online:25461/gonzalo1/gonzalo1/1303
-
-#EXTINF:-1,group-title="XXX",XXXX: MILF 2
-http://iptvactivador.online:25461/gonzalo1/gonzalo1/1304
-
-#EXTINF:-1,group-title="XXX",XXX: MIAKHALIFA
-http://iptvactivador.online:25461/gonzalo1/gonzalo1/1305
-
-#EXTINF:-1,group-title="XXX",XXX: JASMINE JAE
-http://iptvactivador.online:25461/gonzalo1/gonzalo1/1306
-
-#EXTINF:-1,group-title="XXX",XXX:Fetich 2
-http://iptvactivador.online:25461/gonzalo1/gonzalo1/1308
-
-#EXTINF:-1,group-title="XXX",XXX: brazzers
-http://iptvactivador.online:25461/gonzalo1/gonzalo1/1309
-
-#EXTINF:-1,group-title="XXX",XXX: BLACK RAW
-http://iptvactivador.online:25461/gonzalo1/gonzalo1/1310
-
-#EXTINF:-1,group-title="XXX",XXX: bigtits
-http://iptvactivador.online:25461/gonzalo1/gonzalo1/1311
-
-#EXTINF:-1,group-title="XXX",XXX: Bigass 2
-http://iptvactivador.online:25461/gonzalo1/gonzalo1/1312
-
-#EXTINF:-1,group-title="XXX",XXX |Shemale Tube TV 2
-http://iptvactivador.online:25461/gonzalo1/gonzalo1/262
-
-#EXTINF:-1,group-title="XXX",XXX |Big Ass
-http://iptvactivador.online:25461/gonzalo1/gonzalo1/263
-
-#EXTINF:-1,group-title="XXX",XXX |Big Dick
-http://iptvactivador.online:25461/gonzalo1/gonzalo1/264
-
-#EXTINF:-1,group-title="XXX",XXX |Cuckold
-http://iptvactivador.online:25461/gonzalo1/gonzalo1/267
-
-#EXTINF:-1,group-title="XXX",XXX |Fetish
-http://iptvactivador.online:25461/gonzalo1/gonzalo1/268
-
-#EXTINF:-1,group-title="XXX",XXX |Interracial
-http://iptvactivador.online:25461/gonzalo1/gonzalo1/270
-
-#EXTINF:-1,group-title="XXX",XXX |Latina
-http://iptvactivador.online:25461/gonzalo1/gonzalo1/271
-
-#EXTINF:-1,group-title="XXX",XXX |Lesbian
-http://iptvactivador.online:25461/gonzalo1/gonzalo1/272
-
-#EXTINF:-1,group-title="XXX",XXX |MILF
-http://iptvactivador.online:25461/gonzalo1/gonzalo1/273
-
-#EXTINF:-1,group-title="XXX",XXX |POV
-http://iptvactivador.online:25461/gonzalo1/gonzalo1/274
-
-#EXTINF:-1,group-title="XXX",XXX |Pornstar
-http://iptvactivador.online:25461/gonzalo1/gonzalo1/275
-
-#EXTINF:-1,group-title="XXX",XXX |Russian
-http://iptvactivador.online:25461/gonzalo1/gonzalo1/276
-
-#EXTINF:-1,group-title="XXX",XXX |Teen
-http://iptvactivador.online:25461/gonzalo1/gonzalo1/277
-
 #EXTINF:-1,group-title="XXX",XX: Sex Hot
 http://a.srvbr.me:8880/138906/138906/1052
 
 #EXTINF:-1,group-title="XXX",Sexy Hot HD [PLUS]
 http://a.srvbr.me:8880/138906/138906/4116
-
-#EXTINF:-1,group-title="XXX",XX: SEXTREME
-http://a.srvbr.me:8880/138906/138906/512
 
 #EXTINF:-1,group-title="XXX",XX: Venus
 http://a.srvbr.me:8880/138906/138906/900
@@ -4188,8 +3705,7 @@ http://nn2.joj.sk/hls/family-540.m3u8
 http://stream.joinvisions.net:1935/jorlive/sport/chunklist.m3u8
 #EXTINF:-1 tvg-id="Jordan Sports ARB" tvg-name="Jordan Sports ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Plcqlr7.jpg" tvg-country="JO" tvg-url="" group-title="SPORT",Jordan Sport TV
 http://stream.joinvisions.net:1935/jorlive/sport/playlist.m3u8?DVR
-#EXTINF:-1 tvg-id="Jordan ARB" tvg-name="Jordan ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/siAiiws.jpg" tvg-country="JO" tvg-url="" group-title="CAMPURAN",Jordan TV
-http://livecdnh2.tvanywhere.ae/hls/jordan/index.m3u8
+
 #EXTINF:-1 tvg-id="Jordan ARB" tvg-name="Jordan ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/siAiiws.jpg" tvg-country="JO" tvg-url="" group-title="CAMPURAN",Jordan TV
 http://stream.joinvisions.net:1935/jorlive/jrtv/playlist.m3u8?DVR
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/KSup3Wr.png" tvg-country="BR" tvg-url="" group-title="News",Jovem Pan News
@@ -4227,8 +3743,7 @@ http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8
 http://103.199.161.254/Content/we/Live/Channel(We)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/Kalaignar_logo.jpg" tvg-country="IN" tvg-url="" group-title="CAMPURAN",Kalaignar
 http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/HQjLbwm.png" tvg-country="IR" tvg-url="" group-title="Religious",Kalemeh TV
-https://live.kalemehtv.tv/live/ngrp:kalemeh_all/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Kan 11-IS" tvg-name="IL: Kan 11" tvg-language="Hebrew" tvg-logo="https://i.imgur.com/vqfNbEU.png" tvg-country="IL" tvg-url="http://epg.streamstv.me/epg/guide-israel.xml.gz" group-title="CAMPURAN",Kan 11
 https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunklist.m3u8
 #EXTINF:-1 tvg-id="Kan 11-IS" tvg-name="IL: Kan 11" tvg-language="Hebrew" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kan11Logo.svg/2880px-Kan11Logo.svg.png" tvg-country="IL" tvg-url="http://epg.streamstv.me/epg/guide-israel.xml.gz" group-title="CAMPURAN",Kan 11 כאן FHD
@@ -4273,10 +3788,7 @@ http://197.232.56.13:1935/live/_definst_/kasstv/playlist.m3u8
 http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/kaumudy_tv.png" tvg-country="IN" tvg-url="" group-title="Entertainment",Kaumudy TV
 http://live.wmncdn.net/kaumuditv1/live.stream/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/GYZGWFy.png" tvg-country="PK" tvg-url="" group-title="CAMPURAN",Kay2 TV
-http://livecdnh1.tvanywhere.ae/hls/k2/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/GYZGWFy.png" tvg-country="PK" tvg-url="" group-title="CAMPURAN",Kay2 TV
-http://livecdnh1.tvanywhere.ae/hls/k2/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/GYZGWFy.png" tvg-country="PK" tvg-url="" group-title="CAMPURAN",Kay2 TV
 https://dcunilive36-lh.akamaihd.net/i/dclive_1@662109/index_150_av-p.m3u8?sd=6&rebase=on
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Pushto" tvg-logo="https://i.imgur.com/XpR1VvZ.png" tvg-country="AF" tvg-url="" group-title="CAMPURAN",Kayhan TV
@@ -4313,8 +3825,7 @@ http://svc-lvanvato-cxtv-kiro.cmgvideo.com:80/kiro/1864k/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Danish" tvg-logo="https://i.imgur.com/cpl90ZC.png" tvg-country="DK" tvg-url="" group-title="CAMPURAN",KKRtv
 http://stream.kkr.dk/live/ngrp:kkr_adaptive/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/QV73Guo.jpg" tvg-country="NL" tvg-url="" group-title="CAMPURAN",Klipkar TV
-https://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream01/3000/prog_index.m3u8
+
 #EXTINF:-1 tvg-id="Knowledge Kids-CA" tvg-name="Knowledge Kids-CA" tvg-language="English" tvg-logo="https://i.imgur.com/kdgMVOI.png" tvg-country="CA" tvg-url="http://epg.streamstv.me/epg/guide-canada.xml.gz" group-title="KIDS",Knowledge Kids
 http://knstream1.azureedge.net/knlive/knlive_high.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/lEnuR22.png" tvg-country="US" tvg-url="" group-title="Religious",KNXT Catholic TV
@@ -4477,8 +3988,7 @@ http://5a44e5b800a41.streamlock.net:1935/liveVLR3/mp4:Klasika/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/39NuAwl.png" tvg-country="US" tvg-url="" group-title="CAMPURAN",Law And Crime Network
 https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
-#EXTINF:-1 tvg-id="LBC International ARB" tvg-name="LBC International ARB" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/LBC_INTERNATIONAL.png" tvg-country="LB" tvg-url="" group-title="CAMPURAN",LBC International
-http://livecdnh2.tvanywhere.ae/hls/lbc_int/index.m3u8
+
 #EXTINF:-1 tvg-id="LBC International ARB" tvg-name="LBC International ARB" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/lbc.png" tvg-country="LB" tvg-url="" group-title="CAMPURAN",LBC International HD
 https://rotana.hibridmedia.com/rotana/lbc_dabr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/oe66woA.png" tvg-country="ES" tvg-url="" group-title="CAMPURAN",Lebrija TV
@@ -4572,8 +4082,6 @@ http://tv.cdn.xsg.ge/maestro/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://i.imgur.com/QZQhg6C.png" tvg-country="GR" tvg-url="" group-title="Music",Magic TV
 https://itv.streams.ovh/magictv/magictv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Burmese" tvg-logo="https://i.malimarcdn.com/MyanmarMaharBawdiHD.jpg" tvg-country="MM" tvg-url="" group-title="CAMPURAN",Mahar Bawdi
-http://104275ooyala-lh.akamaihd.net/i/forevergroup_01@449365/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Burmese" tvg-logo="http://mahartv.com.mm/wp-content/uploads/2018/02/cropped-logo150x150.png" tvg-country="MM" tvg-url="" group-title="CAMPURAN",Mahar TV
 http://maharlive.b-cdn.net/stream.m3u8
 #EXTINF:-1 tvg-id="Majid Kids TV ARB" tvg-name="Majid Kids TV ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/RiJULAe.png" tvg-country="AE" tvg-url="" group-title="CAMPURAN",Majid TV
@@ -4627,38 +4135,6 @@ http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8?codec=mpeg4&app=playlist
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/Screenshot_1-1.png" tvg-country="IN" tvg-url="" group-title="Entertainment",Mazhavil Manorama HD
 http://103.199.161.254/Content/mazhavil/Live/Channel(Mazhavil)/index.m3u8
 
-#EXTINF:-1 tvg-id="Mazzika ARB" tvg-name="Mazzika ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/uaIndQt.png" tvg-country="EG" tvg-url="" group-title="Music",Mazzika
-http://livecdnh2.tvanywhere.ae/hls/mazzika/index.m3u8
-#EXTINF:-1 tvg-id="MBC 1 ARB" tvg-name="MBC 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eKBXOKd.png" tvg-country="AE" tvg-url="" group-title="CAMPURAN",MBC
-http://livecdnh2.tvanywhere.ae/hls/mbc1/index.m3u8
-
-#EXTINF:-1 tvg-id="MBC 2 ARB" tvg-name="MBC 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/KXuzL1u.png" tvg-country="AE" tvg-url="" group-title="Movies",MBC 2 HD
-http://livecdnh3.tvanywhere.ae/hls/mbc2/index.m3u8
-
-#EXTINF:-1 tvg-id="MBC 3 ARB" tvg-name="MBC 3 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/FVNVC73.png" tvg-country="AE" tvg-url="" group-title="CAMPURAN",MBC 3
-http://livecdnh2.tvanywhere.ae/hls/mbc3/index.m3u8
-
-#EXTINF:-1 tvg-id="MBC 4 ARB" tvg-name="MBC 4 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/pfF61uH.png" tvg-country="AE" tvg-url="" group-title="CAMPURAN",MBC 4
-http://livecdnh3.tvanywhere.ae/hls/mbc4/index.m3u8
-
-
-#EXTINF:-1 tvg-id="MBC Action ARB" tvg-name="MBC Action ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/n3TgfP0.png" tvg-country="AE" tvg-url="" group-title="Movies",MBC Action HD
-http://livecdnh3.tvanywhere.ae/hls/mbcaction/index.m3u8
-
-#EXTINF:-1 tvg-id="MBC Bollywood ARB" tvg-name="MBC Bollywood ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/fMjhK06.png" tvg-country="AE" tvg-url="" group-title="Entertainment",MBC Bollywood
-http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/index.m3u8
-
-#EXTINF:-1 tvg-id="MBC Bollywood ARB" tvg-name="MBC Bollywood ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/F5ER0we.png" tvg-country="AE" tvg-url="" group-title="Movies",MBC Drama
-http://livecdnh2.tvanywhere.ae/hls/mbc_drama/index.m3u8
-
-#EXTINF:-1 tvg-id="MBC Masr 1 ARB" tvg-name="MBC Masr 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/SrvZduL.jpg" tvg-country="AE" tvg-url="" group-title="CAMPURAN",MBC Masr
-http://livecdnh2.tvanywhere.ae/hls/mbc_msr/index.m3u8
-#EXTINF:-1 tvg-id="MBC Masr 1 ARB" tvg-name="MBC Masr 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/SrvZduL.jpg" tvg-country="EG" tvg-url="" group-title="CAMPURAN",MBC Masr 1
-http://livecdnh2.tvanywhere.ae/hls/mbc_msr/index.m3u8
-
-#EXTINF:-1 tvg-id="MBC Max ARB" tvg-name="MBC Max ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/X6EliFm.png" tvg-country="AE" tvg-url="" group-title="Movies",MBC Max HD
-http://livecdnh3.tvanywhere.ae/hls/mbcmax/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="CAMPURAN",MCN6
 http://live.mcn6.org:8180/live/CELL-496k-270p/CELL-496k-270p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/bYMtfRn.png" tvg-country="TH" tvg-url="" group-title="CAMPURAN",MCOT 30
@@ -4672,8 +4148,6 @@ http://62.113.210.250/medienasa-live/mdf1_high/HasBahCa.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/SEeqryT.png" tvg-country="DE" tvg-url="" group-title="CAMPURAN",MDF 1
 http://62.113.210.250/medienasa-live/mdf1_high/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ExGzvN5.png" tvg-country="INT" tvg-url="" group-title="CAMPURAN",MEA TV
-http://64.227.88.31/hls/yourstreamkey.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/t8CpYpP/LcUYuJ5.png" tvg-country="TR" tvg-url="" group-title="Music",Med Muzîk
 http://137.74.205.201/live3/mm-3mbps.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://www.medi1tv.ma/ar/img/footer/logo_new.png" tvg-country="MA" tvg-url="" group-title="CAMPURAN",Medi 1 TV
@@ -4693,9 +4167,6 @@ https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/Xgkun9X.png" tvg-country="AT" tvg-url="" group-title="CAMPURAN",Melodie Express TV
 https://58b42f6c8c9bf.streamlock.net:8080/live/melodie/chunklist_w1703757698.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/2WVxg8A.jpg" tvg-country="CO" tvg-url="" group-title="CAMPURAN",Melody Channel TV
-http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/2WVxg8A.jpg" tvg-country="CO" tvg-url="" group-title="CAMPURAN",Melody Channel TV
-http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8?iptvgratis?chile.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" tvg-country="ID" tvg-url="INDONESIA" group-title="News",METRO TV
 http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
@@ -4809,8 +4280,7 @@ http://edge-stream-07.otv.co.th./livestream/MITV.stream/chunklist.m3u8
 http://edge-stream-07.otv.co.th./livestream/MRTV.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Burmese" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/22/MRTV_new_logo.png" tvg-country="MM" tvg-url="" group-title="CAMPURAN",MRTV NRC
 http://edge-stream-07.otv.co.th./livestream/Hluttaw.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Burmese" tvg-logo="http://static.pyoneplay.com/static/channel/ch_thumb_1525319199.png" tvg-country="MM" tvg-url="" group-title="CAMPURAN",MRTV-4
-http://104275ooyala-lh.akamaihd.net/i/forevergroup_02@449366/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Burmese" tvg-logo="http://static.pyoneplay.com/static/channel/ch_thumb_1525319199.png" tvg-country="MM" tvg-url="" group-title="CAMPURAN",MRTV-4
 http://edge-stream-07.otv.co.th./livestream/MRTV-4.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/b3nn216.png" tvg-country="UK" tvg-url="" group-title="CAMPURAN",MTA 1 (Backup)
@@ -4850,8 +4320,7 @@ http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/mtv.smil/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="NO" tvg-url="" group-title="CAMPURAN",MTV HD
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
-#EXTINF:-1 tvg-id="MTV Lebanon ARB" tvg-name="MTV Lebanon ARB" tvg-language="Arabic" tvg-logo="https://www.ares-portal.com/wp-content/uploads/2017/09/plugin.video_.mtvlebanon-1320x743.png" tvg-country="LB" tvg-url="" group-title="CAMPURAN",MTV Lebanon
-http://livecdnh3.tvanywhere.ae/hls/MTVLbnHD/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/QpdHuGo.png" tvg-country="US" tvg-url="" group-title="Entertainment",MTV Norge
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russian" tvg-logo="http://mtvmix.ru/images/2018/Tsvetnoy_logo_MTV_Mix_16.png" tvg-country="RU" tvg-url="" group-title="CAMPURAN",MTVmix (Уфа)
@@ -4901,10 +4370,6 @@ https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Georgian" tvg-logo="https://i.imgur.com/ku9kLp8.png" tvg-country="GE" tvg-url="" group-title="CAMPURAN",Music Box Georgia
 http://94.43.239.178:8080/CHANNEL470/BITRATE0/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/02/osn_music_now.png" tvg-country="IN" tvg-url="" group-title="Music",Music Now
-http://livecdnh1.tvanywhere.ae/hls/music_now/04.m3u8
-#EXTINF:-1 tvg-id="Music Now ARB" tvg-name="Music Now ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/KABKzdl.png" tvg-country="AE" tvg-url="" group-title="Music",Music Now
-http://livecdnh1.tvanywhere.ae/hls/music_now/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/dKpLbh6.png" tvg-country="AR" tvg-url="" group-title="Music",Music Top
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/dKpLbh6.png" tvg-country="AR" tvg-url="" group-title="Music",Music Top
@@ -4971,10 +4436,6 @@ http://i.mjh.nz/nz/tv.13.m3u8
 #EXTINF:-1 tvg-id="tv.13" tvg-name="Māori Television" tvg-language="" tvg-logo="https://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/freeview-channel-logos-38.png" tvg-country="NZ" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="CAMPURAN",Māori Television
 https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_iPad1080p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Icelandic" tvg-logo="http://www.icelandwintergames.com/static/gallery/partners-1/.thumb/n4.png" tvg-country="IS" tvg-url="" group-title="CAMPURAN",N4
-http://tv.vodafoneplay.is/n4/03.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Icelandic" tvg-logo="https://www.n4.is/static/themes/2013/images/logo.png" tvg-country="IS" tvg-url="" group-title="CAMPURAN",N4
-http://tv.vodafoneplay.is/n4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://nabaa.tv/wp-content/uploads/2018/07/nabaa-logo-66x116.png" tvg-country="LB" tvg-url="" group-title="CAMPURAN",Nabaa TV
 http://31.14.40.237:1935/live/Nabaa/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://nabaa.tv/wp-content/uploads/2018/07/nabaa-logo-66x116.png" tvg-country="LB" tvg-url="" group-title="CAMPURAN",Nabaa TV
@@ -5005,9 +4466,6 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 
 #EXTINF:-1,CNBC Indonesia 1
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b280000_sleng.m3u8
-
-#EXTINF:-1,ADi TV Jogja
-http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
 
 #EXTINF:-1,JakTV
 http://202.80.222.182:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
@@ -5128,28 +4586,14 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nat Geo People Asia" tvg-language="English" tvg-logo="https://i.imgur.com/DcIYiLM.jpg" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="CAMPURAN",Nat Geo People Asia
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/2Wy4o31.png" tvg-country="US" tvg-url="" group-title="CAMPURAN",Nat Geo Wild
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/2Wy4o31.png" tvg-country="US" tvg-url="" group-title="CAMPURAN",Nat Geo Wild
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8
-#EXTINF:-1 tvg-id="3e8d42d985fbf1e7bf8c39df9c41c34f" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="CAMPURAN",NAT GEO Wild
-http://livestream.biznetvideo.net/biznet_ngwild/smil:ngwild.smil/chunklist_w1952192977_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1FOE8tZGNKY3MzSHNEU0drOEtDWFp0UW82XzlxWlhwUzI3QkY4OWJSdnZMakIyanVCRW9lZmtsS0VKOTlsZmxE.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/2Wy4o31.png" tvg-country="US" tvg-url="" group-title="CAMPURAN",Nat Geo Wild HD
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
-
 #EXTINF:-1 tvg-id="9ba9a128eff02479da120a4226cd807c" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="CAMPURAN",National Geographic
 http://livestream.biznetvideo.net/biznet_ngc/smil:ngc.smil/chunklist_w99579112_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1TT0Z6NFJEdW5XTVlLUjFLRzNqZHgxZzloMXZnX0E5WHRaV0JoS3JxSjltNGFfNzZsU2oyRjY5anFhSmh1VFhh.m3u8
-#EXTINF:-1 tvg-id="National Geographic Abu Dhabi AR ARB" tvg-name="National Geographic Abu Dhabi AR ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/baXbWro.jpg" tvg-country="AE" tvg-url="" group-title="CAMPURAN",National Geographic Abu Dhabi
-http://livecdnh2.tvanywhere.ae/hls/nat_geo_auh/index.m3u8
+
 #EXTINF:-1 tvg-id="National Geographic Abu Dhabi AR ARB" tvg-name="National Geographic Abu Dhabi AR ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/baXbWro.jpg" tvg-country="AE" tvg-url="" group-title="CAMPURAN",National Geographic Abu Dhabi
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?adtv
-#EXTINF:-1 tvg-id="" tvg-name="National Geographic Asia" tvg-language="English" tvg-logo="https://i.imgur.com/FOFEg4F.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="CAMPURAN",National Geographic Asia
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="National Geographic Asia" tvg-language="English" tvg-logo="https://i.imgur.com/FOFEg4F.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="CAMPURAN",National Geographic Asia
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/wuAF3Uz.png" tvg-country="UK" tvg-url="" group-title="CAMPURAN",National Geographic UK
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/SBw828K/f460YQg.png" tvg-country="TR" tvg-url="" group-title="CAMPURAN",Natural TV
 http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8
@@ -5186,8 +4630,7 @@ http://wcnc-lh.akamaihd.net/i/WCNC_Breaking_1@195112/master.m3u8
 https://kntvlive-f.akamaihd.net/i/kntvb1_1@15530/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/jrWg5qE.jpg" tvg-country="US" tvg-url="" group-title="CAMPURAN",NBC San Jose CA (KNTV)
 https://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/master.m3u8
-#EXTINF:-1 tvg-id="NBN ARB" tvg-name="NBN ARB" tvg-language="Arabic" tvg-logo="https://nbntv.me/wp-content/uploads/2018/07/nbnlogo-f.png" tvg-country="LB" tvg-url="" group-title="CAMPURAN",NBN
-http://livecdnh1.tvanywhere.ae/hls/nbn/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/loWf3B5.jpg" tvg-country="KR" tvg-url="" group-title="CAMPURAN",NBS Korea Agricultural Broadcasting
 https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/QZ2WcZl.jpg" tvg-country="TH" tvg-url="" group-title="CAMPURAN",NBT Bangkok
@@ -5223,8 +4666,6 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7mast
 #EXTINF:-1 tvg-id="Nea TV GR" tvg-name="Nea TV GR" tvg-language="" tvg-logo="http://greektv.pbworks.com/w/file/fetch/46926622/NEA_TV.png" tvg-country="GR" tvg-url="" group-title="CAMPURAN",Nea TV
 https://live.neatv.gr:8888/hls/neatv_high/index.m3u8
 
-#EXTINF:-1 tvg-id="Nessma ARB" tvg-name="Nessma ARB" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Logo_de_Nessma.png" tvg-country="TN" tvg-url="" group-title="CAMPURAN",Nessma
-http://livecdnh2.tvanywhere.ae/hls/nessma/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/ZUOylvd.png" tvg-country="RO" tvg-url="" group-title="CAMPURAN",NEst TV
 http://webmobile.xdev.ro:81/tv13/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://srilankanews.wpengine.netdna-cdn.com/wp-content/uploads/2015/09/nethra.png" tvg-country="IN" tvg-url="" group-title="CAMPURAN",Nethra TV
@@ -5420,13 +4861,6 @@ https://5952e4052a2e8.streamlock.net/live/truyenhinhnhandan720/chunklist_w122014
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/yySDkYo.png" tvg-country="BR" tvg-url="" group-title="KIDS",Nickelodeon
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/nickelodeon.smil/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/xhR4dy0.jpg" tvg-country="EG" tvg-url="" group-title="CAMPURAN",Nile Cinema
-http://livecdnh2.tvanywhere.ae/hls/nile_cin/index.m3u8
-#EXTINF:-1 tvg-id="Nile Drama ARB" tvg-name="Nile Drama ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/jiyPTfa.png" tvg-country="EG" tvg-url="" group-title="CAMPURAN",Nile Drama
-http://livecdnh2.tvanywhere.ae/hls/nile_drama/index.m3u8
-#EXTINF:-1 tvg-id="Nile Sport ARB" tvg-name="Nile Sport ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/X8hX15o.jpg" tvg-country="EG" tvg-url="" group-title="SPORT",Nile Sports
-http://livecdnh2.tvanywhere.ae/hls/nile_sp/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Dy2Eo33.png" tvg-country="SY" tvg-url="" group-title="Religious",Noor Al-Sham
 http://82.137.248.16:1935/Nour/stream31122019/playlist.m3u8
 #EXTINF:-1 tvg-id="Noor Dubai ARB" tvg-name="Noor Dubai ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/FP2yHkl.png" tvg-country="AE" tvg-url="" group-title="CAMPURAN",Noor Dubai
@@ -5597,10 +5031,6 @@ https://ms2.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/chunklist_w1521128841
 http://d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp:tv-feed_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Omroep Zeeland NL" tvg-name="Omroep Zeeland NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/3c3QUSn.png" tvg-country="NL" tvg-url="" group-title="CAMPURAN",Omroep Zeeland
 https://d3isaxd2t6q8zm.cloudfront.net/live/omroepzeeland/tv/index.m3u8
-#EXTINF:-1 tvg-id="Omreop Fryslan NL" tvg-name="Omreop Fryslan NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/uDhUnv7.jpg" tvg-country="NL" tvg-url="" group-title="CAMPURAN",Omrop Fryslan
-http://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream04/2000/prog_index.m3u8
-#EXTINF:-1 tvg-id="Omreop Fryslan NL" tvg-name="Omreop Fryslan NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/uDhUnv7.jpg" tvg-country="NL" tvg-url="" group-title="CAMPURAN",Omrop Fryslan
-http://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream04/400/prog_index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/TtbYRZD/i3ua14I.jpg" tvg-country="TR" tvg-url="" group-title="CAMPURAN",ON4 TV
 http://yayin.netradyom.com:1935/live/on4/playlist.m3u8
@@ -5619,8 +5049,6 @@ http://ws.flv.nimo.tv/live/su1599512427600r01fea2f56268e5a32e8e1d5c6dad7ede_high
 http://ws.flv.nimo.tv/live/su1599512427559r6319ab6314a165d28a228bf5917d1fe0_high.flv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/ZeGhaT4.jpg" tvg-country="NL" tvg-url="" group-title="CAMPURAN",OOG TV
 http://media.streamone.net/hlslive/account=BAAIMu-JR8Yy/livestream=ERREOY4AeMUU/events.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/8AWBgau.jpg" tvg-country="HT" tvg-url="" group-title="CAMPURAN",Opa TV
-http://mt1.cdnak.mt.neulion.com/nlds/hln/hln_opatv/as/live/hln_opatv_3.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/yjuaHY1.jpg" tvg-country="NL" tvg-url="" group-title="Music",Operator Radio
 http://cdn-hlm-1.streamnerd.nl/live/operator/playlist.m3u8
@@ -5644,11 +5072,6 @@ http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8
 http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8?codec=mpeg4
 #EXTINF:-1 tvg-id="o-tv" tvg-name="OTV" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/wCrNtxp.png" tvg-country="UA" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Music",OTV
 http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8?codec=mpeg4&app=playlist
-#EXTINF:-1 tvg-id="OTV Lebanon ARB" tvg-name="OTV Lebanon ARB" tvg-language="Arabic" tvg-logo="http://bookback.co/wp-content/uploads/2018/12/OTV-1.jpg" tvg-country="LB" tvg-url="" group-title="CAMPURAN",OTV
-http://livecdnh2.tvanywhere.ae/hls/otv_leb/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Ukrainian" tvg-logo="" tvg-country="UA" tvg-url="" group-title="CAMPURAN",OTV Music
-http://212.26.146.148/hls/otv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/97ATQV7.png" tvg-country="IR" tvg-url="" group-title="Entertainment",OX Film
 http://51.158.103.244/hls/stream.m3u8
@@ -5888,8 +5311,7 @@ http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
 http://linear05hun-lh.akamaihd.net/i/punjabitadka_1@665242/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/PUNJABITVV.jpg" tvg-country="IN" tvg-url="" group-title="CAMPURAN",Punjabi TV
 http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Somali" tvg-logo="https://i.imgur.com/Q6o33hr.png" tvg-country="SO" tvg-url="" group-title="CAMPURAN",Puntland TV
-https://ap01.iqplay.tv:81/iqb8002/p2t25.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/PUTHUYUGAM.png" tvg-country="IN" tvg-url="" group-title="CAMPURAN",Puthuyugam TV
 http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ImxGqTN.jpg" tvg-country="HN" tvg-url="" group-title="CAMPURAN",Q'hubo
@@ -6003,8 +5425,6 @@ http://wz2.newradio.it:1935/9018/9018/chunklist_w229229850.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eR8QSEt.png" tvg-country="SY" tvg-url="" group-title="CAMPURAN",Radio Souryana
 http://82.137.248.16:1935/Souryana/stream31122019/playlist.m3u8?DVR
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/6EEHWNg.jpg" tvg-country="HT" tvg-url="" group-title="CAMPURAN",Radio Tele Ginen | Chaine 18
-http://mt1.cdnak.mt.neulion.com/nlds/hln/hln_ginen/as/live/hln_ginen_4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/HFyrVaS.png" tvg-country="HT" tvg-url="" group-title="CAMPURAN",Radio TeleBoston (USA)
 http://162.244.81.145:3333/live//telebostonrtb/playlist.m3u8
 
@@ -6145,10 +5565,7 @@ https://5abdf4edae5bf.streamlock.net/tvarthdtv/tvarthdtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Rede Vida" tvg-name="Rede Vida" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/h4WaIw5.jpg" tvg-country="BR" tvg-url="" group-title="Religious",Rede Vida
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Rede TV" tvg-name="Rede TV" tvg-language="Portuguese" tvg-logo="https://oisa.tmsimg.com/assets/s103750_h3_aa.png" tvg-country="BR" tvg-url="" group-title="CAMPURAN",RedeTV!
-http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
-#EXTINF:-1 tvg-id="Rede TV" tvg-name="Rede TV" tvg-language="Portuguese" tvg-logo="https://oisa.tmsimg.com/assets/s103750_h3_aa.png" tvg-country="BR" tvg-url="" group-title="CAMPURAN",RedeTV!
-http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/T2K6xqz.jpg" tvg-country="NL" tvg-url="" group-title="Music",Redlight Radio
 http://cdn-hlm-1.streamnerd.nl/live/redlightradio/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 1
@@ -6201,9 +5618,6 @@ http://85.238.112.40:8810/hls_sec/239.33.116.26-.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/reporter_tv.png" tvg-country="IN" tvg-url="" group-title="News",Reporter TV
 http://103.199.161.254/Content/reporter/Live/Channel(Reporter)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://www.reporter.live/wp-content/themes/reporter_v2/images/logo_latest.png" tvg-country="IN" tvg-url="" group-title="News",Reporter TV
-http://livecdnh1.tvanywhere.ae/hls/reporter/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://www.reporter.live/wp-content/themes/reporter_v2/images/logo_latest.png" tvg-country="IN" tvg-url="" group-title="News",Reporter TV
-http://livecdnh1.tvanywhere.ae/hls/reporter/index.m3u8
 
 #EXTINF:-1 tvg-id="Channel 13 Reshet-IS" tvg-name="IL: ISRAEL Channel 13 Reshet" tvg-language="Hebrew" tvg-logo="https://media.reshet.tv/image/upload/v1505910155/logo-final-13-reshet-red_a5lwvy.jpg" tvg-country="IL" tvg-url="http://epg.streamstv.me/epg/guide-israel.xml.gz" group-title="CAMPURAN",Reshet 13 רשת
 https://reshet-live-il.ctedgecdn.net/13tv-desktop/r13.m3u8
@@ -6255,8 +5669,7 @@ https://d2e40kvaojifd6.cloudfront.net/stream/river/playlist.m3u8
 https://rmc2hdslive-lh.akamaihd.net/i/DVMR_RMC@167269/index_150_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="https://i.imgur.com/Pk5flAT.png" tvg-country="IT" tvg-url="" group-title="CAMPURAN",RMK TV Sciacca
 http://vod1.kronopress.com:1935/tmk_live/5123-CA5C-9EBE-428A/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="https://i.imgur.com/mekD49a.png" tvg-country="IT" tvg-url="" group-title="CAMPURAN",RMM TV
-http://wma02.fluidstream.net/StudioRMM/livestream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/YkB39hx.png" tvg-country="DE" tvg-url="" group-title="CAMPURAN",RNF
 http://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8
 
@@ -6265,32 +5678,24 @@ http://tv.romanatv42.com/hls/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/rosebowl.png" tvg-country="IN" tvg-url="" group-title="CAMPURAN",Rosebowl
 https://acv.asianetmobiletvplus.com/webstreams/ef22daf97d61acb4bf52376c4105ad02.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Rotana Aflam ARB" tvg-name="Rotana Aflam ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/wp5Db3g.png" tvg-country="SA" tvg-url="" group-title="CAMPURAN",Rotana Aflam
-http://livecdnh3.tvanywhere.ae/hls/rotaflam/index.m3u8
-#EXTINF:-1 tvg-id="Rotana Cinema ARB" tvg-name="Rotana Cinema ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ZMXEFd1.png" tvg-country="SA" tvg-url="" group-title="Movies",Rotana Cinema
-http://livecdnh3.tvanywhere.ae/hls/rotcinema/index.m3u8
+
 #EXTINF:-1 tvg-id="Rotana Cinema ARB" tvg-name="Rotana Cinema ARB" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/cinema.png" tvg-country="SA" tvg-url="" group-title="CAMPURAN",Rotana Cinema HD
 https://rotana.hibridmedia.com/rotana/cinema_dabr/playlist.m3u8
-#EXTINF:-1 tvg-id="Rotana Classic ARB" tvg-name="Rotana Classic ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/bHz4QYC.png" tvg-country="SA" tvg-url="" group-title="CAMPURAN",Rotana Classic
-http://livecdnh3.tvanywhere.ae/hls/rotclassic/index.m3u8
+
 #EXTINF:-1 tvg-id="Rotana Classic ARB" tvg-name="Rotana Classic ARB" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/classic.png" tvg-country="SA" tvg-url="" group-title="CAMPURAN",Rotana Classic HD
 https://rotana.hibridmedia.com/rotana/classical_dabr/playlist.m3u8
-#EXTINF:-1 tvg-id="Rotana Clip ARB" tvg-name="Rotana Clip ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qOrO9PO.jpg" tvg-country="SA" tvg-url="" group-title="CAMPURAN",Rotana Clip
-http://livecdnh3.tvanywhere.ae/hls/rotclip/index.m3u8
+
 #EXTINF:-1 tvg-id="Rotana Comedy ARB" tvg-name="Rotana Comedy ARB" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/comedy.png" tvg-country="SA" tvg-url="" group-title="CAMPURAN",Rotana Comedy HD
 https://rotana.hibridmedia.com/rotana/comedy_dabr/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/niDVfYR.png" tvg-country="SA" tvg-url="" group-title="CAMPURAN",Rotana Drama
-http://livecdnh3.tvanywhere.ae/hls/rotmas/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/drama.png" tvg-country="SA" tvg-url="" group-title="CAMPURAN",Rotana Drama HD
 https://rotana.hibridmedia.com/rotana/drama_dabr/playlist.m3u8
-#EXTINF:-1 tvg-id="Rotana Khalijiah ARB" tvg-name="Rotana Khalijiah ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/a23fI0c.png" tvg-country="SA" tvg-url="" group-title="CAMPURAN",Rotana Khalijia
-http://livecdnh3.tvanywhere.ae/hls/rotkhal/index.m3u8
+
 #EXTINF:-1 tvg-id="Rotana Khalijia ARB" tvg-name="Rotana Khalijia ARB" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/khalijiat.png" tvg-country="SA" tvg-url="" group-title="CAMPURAN",Rotana Khalijia HD
 https://rotana.hibridmedia.com/rotana/khaleejiya_dabr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/kids.png" tvg-country="SA" tvg-url="" group-title="CAMPURAN",Rotana Kids
 https://rotana.hibridmedia.com/rotana/kids_dabr/playlist.m3u8
-#EXTINF:-1 tvg-id="Rotana Music ARB" tvg-name="Rotana Music ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/N4AyK2U.png" tvg-country="SA" tvg-url="" group-title="Music",Rotana Music
-http://livecdnh3.tvanywhere.ae/hls/rotmusic/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/G030MZb.png" tvg-country="CH" tvg-url="" group-title="CAMPURAN",Rouge TV
 http://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8
 
@@ -6546,8 +5951,7 @@ http://ruvruverl-live.hls.adaptive.level3.net/ruv/ruv2/index/stream5.m3u8
 http://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/Nvw7SaN.png" tvg-country="DE" tvg-url="" group-title="CAMPURAN",Saarland Fernsehen 2
 http://saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/VCLGwxP.png" tvg-country="EG" tvg-url="" group-title="CAMPURAN",Sada Elbalad
-http://livecdnh1.tvanywhere.ae/hls/sada_balad/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/sDGZCpL.png" tvg-country="US" tvg-url="" group-title="CAMPURAN",SafeTV
 http://18.191.91.130:1935/live/safetv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/eNIZq3q.png" tvg-country="IR" tvg-url="" group-title="CAMPURAN",Sahar Urdu
@@ -6677,8 +6081,7 @@ http://81.21.47.74/hls/live.m3u8
 http://81.21.47.74/hls/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/3TZPKGL.png" tvg-country="IN" tvg-url="" group-title="CAMPURAN",Sikh Channel
 http://fastway.ddns.net:6421/fastway/live8/index.m3u8?token=fastwaytvstreams
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/826gz7r.jpg" tvg-country="INT" tvg-url="" group-title="CAMPURAN",Silence TV
-http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/RaVchcn.jpg" tvg-country="UA" tvg-url="" group-title="CAMPURAN",Simon
 http://hls.simon.ua/live-HD/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Dutch" tvg-logo="https://i.imgur.com/w60x1M7.jpg" tvg-country="NL" tvg-url="" group-title="CAMPURAN",Simone FM
@@ -6714,10 +6117,7 @@ http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
 http://livestreamcdn.net:1935/SobrenaturalTV/SobrenaturalTV/chunklist_w476474449.m3u8
 #EXTINF:-1 tvg-id="sochi-live" tvg-name="Sochi Live" tvg-language="Russian" tvg-logo="https://sochilive.tv/sites/all/themes/sochilive/logo.png" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="CAMPURAN",Sochi Live
 http://212.8.233.150:8081/sochi/sochi_stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Somali" tvg-logo="http://shaashada.com/images/somalicable.png" tvg-country="SO" tvg-url="" group-title="CAMPURAN",Somali cable
-https://ap01.iqplay.tv:81/iqb8002/somc131.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Somali" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/SNTV_REBRANDED_LOGO.png" tvg-country="SO" tvg-url="" group-title="CAMPURAN",Somali National TV
-https://ap01.iqplay.tv:81/iqb8002/s4ne.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/3LdXQxm.png" tvg-country="RO" tvg-url="" group-title="CAMPURAN",Somax TV
 http://webmobile.xdev.ro:81/tv12/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Armenian" tvg-logo="https://i.imgur.com/iiw909y.png" tvg-country="AM" tvg-url="" group-title="CAMPURAN",SONG TV Armenia
@@ -6731,9 +6131,6 @@ http://streaming.sonus.fm/public/stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/Mrj4D9n.png" tvg-country="DE" tvg-url="" group-title="CAMPURAN",Sonus FM TV
 http://www.sonus.fm:1935/public/stream_240p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92709/14040638.jpg" tvg-country="IN" tvg-url="" group-title="Movies",Sony Max 2
-http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="" tvg-country="IN" tvg-url="" group-title="SPORT",Sony Ten 1 HD
 https://dl.dropbox.com/s/96ziqh1ehkhzh81/badminton1.m3u8?dl=0
 
@@ -6746,8 +6143,7 @@ https://www.onairport.live/sophiatv-es-live/livestream_high/master.m3u8
 https://www.onairport.live/sophiatv-it-live/livestream_low/chunklist_w217998957.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/jyMedaF.png" tvg-country="DE" tvg-url="" group-title="Religious",Sophia TV
 https://www.onairport.live/sophiatv/smil:sophia-tv-en.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="Space Toon Arabic ARB" tvg-name="Space Toon Arabic ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/L42Ouau.png" tvg-country="AE" tvg-url="" group-title="KIDS",Spacetoon
-http://livecdnh2.tvanywhere.ae/hls/spacetoon/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/RzPOwqI.png" tvg-country="SY" tvg-url="" group-title="CAMPURAN",Spacetoon
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 
@@ -6758,154 +6154,6 @@ http://cclive.aniu.tv/live/anzb.m3u8
 http://telekomtv-ro.akamaized.net/shls/LIVE$SperantaTV/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/1Tfidgz.png" tvg-country="FR" tvg-url="" group-title="SPORT",Sport en France
 https://streamserv.mytvchain.com/sportenfrance/SP1564435593_720p/playlist.m3u8
-
-#EXTM3U
-#EXTINF:-1,group-title="PREMIUM",|USA| IFC HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1754
-
-#EXTINF:-1,group-title="PREMIUM",|USA| HBO HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1755
-
-#EXTINF:-1,group-title="PREMIUM",|USA| HBO PACIFIC HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1756
-
-#EXTINF:-1,group-title="PREMIUM",|USA| HBO COMEDY HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1757
-
-#EXTINF:-1,group-title="PREMIUM",|USA| FOX SPORTS RACING HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1766
-
-#EXTINF:-1,group-title="PREMIUM",|USA| FOX SPORTS PRIME TICKET HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1767
-
-#EXTINF:-1,group-title="PREMIUM",|USA| FOX SPORTS Sun HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1768
-
-#EXTINF:-1,group-title="PREMIUM",|USA| FOX SPORTS FLORIDA HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1770
-
-#EXTINF:-1,group-title="PREMIUM",|USA| FOX NEWS
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1774
-
-#EXTINF:-1,group-title="PREMIUM",|USA| FOX HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1775
-
-#EXTINF:-1,group-title="PREMIUM",|USA| FOX SOCCER PLUS
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1777
-
-#EXTINF:-1,group-title="PREMIUM",|USA| ESPN NEWS HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1779
-
-#EXTINF:-1,group-title="PREMIUM",|USA| ESPN U HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1780
-
-#EXTINF:-1,group-title="PREMIUM",|USA| ESPN DEPORTES HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1781
-
-#EXTINF:-1,group-title="PREMIUM",|USA| ESPN COLLAGE EXTRA
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1782
-
-#EXTINF:-1,group-title="PREMIUM",|USA| ESPN 2 HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1783
-
-#EXTINF:-1,group-title="PREMIUM",|USA| ESPN
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1784
-
-#EXTINF:-1,group-title="PREMIUM",|USA| CINEMAX 5
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1800
-
-#EXTINF:-1,group-title="PREMIUM",|USA| HBO Family HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1818
-
-#EXTINF:-1,group-title="PREMIUM",|USA| CNN HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1819
-
-#EXTINF:-1,group-title="PREMIUM",|USA| YES ACTION HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1832
-
-#EXTINF:-1,group-title="PREMIUM",|USA| UFC
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/3814
-
-#EXTINF:-1,group-title="PREMIUM",|USA| NICKELODEON HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1744
-
-#EXTINF:-1,group-title="PREMIUM",|USA| NAT GEO WILD HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1748
-
-#EXTINF:-1,group-title="PREMIUM",|USA| NAT GEO HD
-http://iptv8.premium-stv.com:2052/SOURCEUSAPRO1d/687616d9712@/1749
-
-#EXTINF:-1,group-title="PREMIUM",FOX SERIES PREMIUM
-http://iptvactivador.online:25461/gonzalo1/gonzalo1/81
-
-#EXTINF:-1,group-title="PREMIUM",FOX MOVIES
-http://iptvactivador.online:25461/gonzalo1/gonzalo1/82
-
-#EXTINF:-1,group-title="PREMIUM",FOX COMEDY
-http://iptvactivador.online:25461/gonzalo1/gonzalo1/84
-
-#EXTINF:-1,group-title="PREMIUM",FOX CLASSIC
-http://iptvactivador.online:25461/gonzalo1/gonzalo1/85
-
-#EXTINF:-1,group-title="PREMIUM",FOX CINEMA
-http://iptvactivador.online:25461/gonzalo1/gonzalo1/86
-
-#EXTINF:-1,group-title="PREMIUM",FOX ACTION
-http://iptvactivador.online:25461/gonzalo1/gonzalo1/87
-
-#EXTINF:-1,group-title="PREMIUM",HBO2 ESP
-http://iptvactivador.online:25461/gonzalo1/gonzalo1/88
-
-#EXTINF:-1,group-title="PREMIUM",DISCOVERY CHANNEL
-http://iptvactivador.online:25461/gonzalo1/gonzalo1/488
-
-#EXTINF:-1,group-title="PREMIUM",DISCOVERY H&H
-http://iptvactivador.online:25461/gonzalo1/gonzalo1/489
-
-#EXTINF:-1,group-title="PREMIUM",DISCOVERY TURBO
-http://iptvactivador.online:25461/gonzalo1/gonzalo1/491
-
-#EXTINF:-1,group-title="PREMIUM",DISCOVERY WORLD
-http://iptvactivador.online:25461/gonzalo1/gonzalo1/492
-
-#EXTINF:-1,group-title="PREMIUM",DISCOVERY THEATER
-http://iptvactivador.online:25461/gonzalo1/gonzalo1/493
-
-#EXTINF:-1,group-title="PREMIUM",HISTORY CHANNEL
-http://iptvactivador.online:25461/gonzalo1/gonzalo1/494
-
-#EXTINF:-1,group-title="PREMIUM",NATGEO WILD
-http://iptvactivador.online:25461/gonzalo1/gonzalo1/495
-
-#EXTINF:-1,group-title="PREMIUM",NATGEO
-http://iptvactivador.online:25461/gonzalo1/gonzalo1/496
-
-#EXTINF:-1,group-title="PREMIUM",INVESTIGATION DISCOVERY
-http://iptvactivador.online:25461/gonzalo1/gonzalo1/498
-
-#EXTINF:-1,group-title="PREMIUM",ANIMAL PLANET
-http://iptvactivador.online:25461/gonzalo1/gonzalo1/499
-
-#EXTINF:-1,group-title="PREMIUM",AR | FOX SPORTS PREMIUM HD
-http://iptvactivador.online:25461/gonzalo1/gonzalo1/500
-
-#EXTINF:-1,group-title="PREMIUM",AR | TNT SPORTS HD
-http://iptvactivador.online:25461/gonzalo1/gonzalo1/501
-
-#EXTINF:-1,group-title="PREMIUM",National Geographic
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
-
-#EXTINF:-1,group-title="PREMIUM",Nat Geo People
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/02.m3u8
-
-#EXTINF:-1,group-title="PREMIUM",Nat Geo People
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/04.m3u8
-
-#EXTINF:-1,group-title="PREMIUM",Nat Geo Wild
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
-
-#EXTINF:-1,group-title="PREMIUM",Nat Geo Wild HD
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8
 
 #EXTINF:-1,group-title="PREMIUM",Animal Planet
 http://a.srvbr.me:8880/138906/138906/897
@@ -7008,9 +6256,6 @@ http://a.srvbr.me:8880/138906/138906/4151
 #EXTINF:-1,group-title="PREMIUM",Disney Channel
 http://a.srvbr.me:8880/138906/138906/860
 
-#EXTINF:-1,group-title="PREMIUM",NAT GEO WILD
-http://livecdnh1.TVanywhere.ae/hls/nat_geo_wild/03.m3u8?
-
 #EXTINF:-1,group-title="PREMIUM",Discovery Turbo
 http://a.srvbr.me:8880/138906/138906/863
 
@@ -7022,21 +6267,6 @@ http://a.srvbr.me:8880/138906/138906/5431
 
 #EXTINF:-1,group-title="PREMIUM",Discovery Turbo HD [PLUS]
 http://a.srvbr.me:8880/138906/138906/4152
-
-#EXTINF:-1,group-title="PREMIUM",Amc HD
-http://maxptv.net:8080/jose/jose/512
-
-#EXTINF:-1,group-title="PREMIUM",AMC SD
-http://maxptv.net:8080/jose/jose/233
-
-#EXTINF:-1,group-title="PREMIUM",Animal Planet HD
-http://maxptv.net:8080/jose/jose/232
-
-#EXTINF:-1,group-title="PREMIUM",Animal Planet SD
-http://maxptv.net:8080/jose/jose/231
-
-#EXTINF:-1,group-title="PREMIUM",AXN HD
-http://maxptv.net:8080/jose/jose/535
 
 #EXTINF:-1,group-title="PREMIUM",FOX
 http://a.srvbr.me:8880/138906/138906/844
@@ -7221,21 +6451,6 @@ http://a.srvbr.me:8880/138906/138906/1000
 #EXTINF:-1,group-title="PREMIUM",(PT)Discovery Showcase
 http://a.srvbr.me:8880/138906/138906/1048
 
-#EXTINF:-1,group-title="PREMIUM",History 2
-http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
-
-#EXTINF:-1,group-title="PREMIUM",National Geographic
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
-
-#EXTINF:-1,group-title="PREMIUM",National Geographic Abu Dhabi
-http://livecdnh2.tvanywhere.ae/hls/nat_geo_auh/05.m3u8
-
-#EXTINF:-1,group-title="PREMIUM",Nat Geo Wild
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
-
-#EXTINF:-1,group-title="PREMIUM",Nat Geo People
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
-
 #EXTINF:-1,group-title="PREMIUM",Fox Life
 https://plbl.m9.lfstrm.tv/fox_life/normal/1/index.m3u8
 
@@ -7250,150 +6465,6 @@ http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
 
 #EXTINF:-1,group-title="PREMIUM",Discovery Science
 http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
-
-#EXTINF:-1,group-title="PREMIUM",NAT GEO
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8?IWAK-PEYEK.m3u8
-
-#EXTINF:-1,group-title="PREMIUM",NAT GEO PEOPLE
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8?IWAK-PEYEK.m3u8
-
-#EXTINF:-1,group-title="PREMIUM",STAR MOVIES
-http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8?IWAK-PEYEK.m3u8
-
-#EXTINF:-1,group-title="PREMIUM",STAR WORLD
-http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8?IWAK-PEYEK.m3u8
-
-#EXTINF:-1,group-title="PREMIUM",Cinemax HD
-http://maxptv.net:8080/jose/jose/203
-
-#EXTINF:-1,group-title="PREMIUM",Cinemax SD
-http://maxptv.net:8080/jose/jose/202
-
-#EXTINF:-1,group-title="PREMIUM",FOX HD
-http://maxptv.net:8080/jose/jose/157
-
-#EXTINF:-1,group-title="PREMIUM",FOX Life HD
-http://maxptv.net:8080/jose/jose/156
-
-#EXTINF:-1,group-title="PREMIUM",FOX Life SD
-http://maxptv.net:8080/jose/jose/155
-
-#EXTINF:-1,group-title="PREMIUM",Fox Premium 2 HD
-http://maxptv.net:8080/jose/jose/526
-
-#EXTINF:-1,group-title="PREMIUM",Fox Premium 2 SD
-http://maxptv.net:8080/jose/jose/527
-
-#EXTINF:-1,group-title="PREMIUM",Fox Premium HD
-http://maxptv.net:8080/jose/jose/528
-
-#EXTINF:-1,group-title="PREMIUM",Fox Premium SD
-http://maxptv.net:8080/jose/jose/151
-
-#EXTINF:-1,group-title="PREMIUM",FOX SD
-http://maxptv.net:8080/jose/jose/150
-
-#EXTINF:-1,group-title="PREMIUM",Fox Sports 2 HD
-http://maxptv.net:8080/jose/jose/529
-
-#EXTINF:-1,group-title="PREMIUM",Fox Sports 2 SD
-http://maxptv.net:8080/jose/jose/148
-
-#EXTINF:-1,group-title="PREMIUM",Fox Sports HD
-http://maxptv.net:8080/jose/jose/147
-
-#EXTINF:-1,group-title="PREMIUM",Fox Sports SD
-http://maxptv.net:8080/jose/jose/146
-
-#EXTINF:-1,group-title="PREMIUM",HBO 2 HD
-http://maxptv.net:8080/jose/jose/135
-
-#EXTINF:-1,group-title="PREMIUM",HBO 2 SD
-http://maxptv.net:8080/jose/jose/134
-
-#EXTINF:-1,group-title="PREMIUM",HBO Family HD
-http://maxptv.net:8080/jose/jose/133
-
-#EXTINF:-1,group-title="PREMIUM",HBO Family SD
-http://maxptv.net:8080/jose/jose/132
-
-#EXTINF:-1,group-title="PREMIUM",HBO HD
-http://maxptv.net:8080/jose/jose/131
-
-#EXTINF:-1,group-title="PREMIUM",HBO Plus HD
-http://maxptv.net:8080/jose/jose/128
-
-#EXTINF:-1,group-title="PREMIUM",HBO Plus SD
-http://maxptv.net:8080/jose/jose/127
-
-#EXTINF:-1,group-title="PREMIUM",HBO SD
-http://maxptv.net:8080/jose/jose/126
-
-#EXTINF:-1,group-title="PREMIUM",HBO Signature HD
-http://maxptv.net:8080/jose/jose/531
-
-#EXTINF:-1,group-title="PREMIUM",HBO Signature SD
-http://maxptv.net:8080/jose/jose/124
-
-#EXTINF:-1,group-title="PREMIUM",History Channel HD
-http://maxptv.net:8080/jose/jose/532
-
-#EXTINF:-1,group-title="PREMIUM",History Channel SD
-http://maxptv.net:8080/jose/jose/122
-
-#EXTINF:-1,group-title="PREMIUM",HBO Mundi HD
-http://maxptv.net:8080/jose/jose/521
-
-#EXTINF:-1,group-title="PREMIUM",HBO Xtreme HD
-http://maxptv.net:8080/jose/jose/520
-
-#EXTINF:-1,group-title="PREMIUM",HBO Xtreme SD
-http://maxptv.net:8080/jose/jose/113
-
-#EXTINF:-1,group-title="PREMIUM",HBO Mundi SD
-http://maxptv.net:8080/jose/jose/112
-
-#EXTINF:-1,group-title="PREMIUM",HBO Pop HD
-http://maxptv.net:8080/jose/jose/111
-
-#EXTINF:-1,group-title="PREMIUM",HBO Pop SD
-http://maxptv.net:8080/jose/jose/110
-
-#EXTINF:-1,group-title="PREMIUM",Nat Geo Kids HD
-http://maxptv.net:8080/jose/jose/518
-
-#EXTINF:-1,group-title="PREMIUM",Nat Geo Kids SD
-http://maxptv.net:8080/jose/jose/102
-
-#EXTINF:-1,group-title="PREMIUM",Nat Geo Wild HD
-http://maxptv.net:8080/jose/jose/101
-
-#EXTINF:-1,group-title="PREMIUM",Nat Geo Wild SD
-http://maxptv.net:8080/jose/jose/100
-
-#EXTINF:-1,group-title="PREMIUM",National Geographic HD
-http://maxptv.net:8080/jose/jose/99
-
-#EXTINF:-1,group-title="PREMIUM",National Geographic SD
-http://maxptv.net:8080/jose/jose/98
-
-#EXTINF:-1,group-title="PREMIUM",NHK HD
-http://maxptv.net:8080/jose/jose/97
-
-#EXTINF:-1,group-title="PREMIUM",NHK SD
-http://maxptv.net:8080/jose/jose/96
-
-#EXTINF:-1,group-title="PREMIUM",Nick Jr HD
-http://maxptv.net:8080/jose/jose/95
-
-#EXTINF:-1,group-title="PREMIUM",Nick Jr SD
-http://maxptv.net:8080/jose/jose/94
-
-#EXTINF:-1,group-title="PREMIUM",Nickelodeon HD
-http://maxptv.net:8080/jose/jose/93
-
-#EXTINF:-1,group-title="PREMIUM",Nickelodeon SD
-http://maxptv.net:8080/jose/jose/92
 
 #EXTINF:-1,group-title="PREMIUM",Discovery
 http://streamidvo.multitvsolution.in/live/DiscoveryHindi-a/p3.m3u8
@@ -7415,13 +6486,6 @@ https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
 
 #EXTINF:-1,group-title="PREMIUM",NatGeo People
 https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
-
-#EXTINF:-1,group-title="PREMIUM",History 2
-http://livecdnh1.tvanywhere.ae:80/hls/h2/03.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,group-title="PREMIUM",National Geo People
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/03.m3u8
-
 
 #EXTINF:-1,group-title="PREMIUM",AMC
 http://a.srvbr.me:8880/138906/138906/5077
