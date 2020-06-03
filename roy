@@ -984,10 +984,10 @@ https://linier.akamaized.net:443/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo-avc1_1000
 #EXTINF:-1 group-title="INDONESIA", ANTV
 https://vcdnjt.useetv.com:443/joss/15/antv/chunklist_w1093587531_b684100_sleng_177560.m3u8?enc=XfbC-Lmih8yA3SLw742zUw&exp=1586533597
 
-#EXTINF:-1 group-title="INDONESIA"SCTV
+#EXTINF:-1 group-title="INDONESIA", SCTV
 https://vcdnjt.useetv.com:443/joss/15/sctv/chunklist_w457941769_b684100_sleng_177560.m3u8?enc=CzJp5fPQrCzHCTbQgiA6DQ&exp=1587469270
 
-#EXTINF:-1 group-title="INDONESIA"INDOSIAR
+#EXTINF:-1 group-title="INDONESIA", INDOSIAR
 https://vcdnjt.useetv.com:443/joss/15/indosiar/chunklist_w216473056_b684100_sleng_177560.m3u8?enc=fNhkrkjP1SfsMprexUm1ZA&exp=1587469129
 
 #EXTINF:-1 group-title="INDONESIA", TRANS 7
