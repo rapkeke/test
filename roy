@@ -633,9 +633,6 @@ http://202.80.222.174:80/000001/2/ch15051810235326945512/1024.m3u8?virtualDomain
 #EXTINF:-1 group-title="INDONESIA",INDOSIAR_MKC3
 http://202.80.222.174:80/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 group-title="INDONESIA",TATV SOLO
-http://video2.onlivestreaming.net/tatv/live.sdp/playlist.m3u8
-
 #EXTINF:-1 group-title="INDONESIA",ANTV
 http://202.80.222.130/000001/2/ch14061215034900095272/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 
@@ -811,9 +808,6 @@ http://fastway.ddns.net:6421/fastway/live10/index.m3u8?token=fastwaytvstreams
 #EXTINF:-1 group-title="INDIA", Garshom News
 http://livestream.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 
-#EXTINF:-1 group-title="INDIA", Pardesi TV
-http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="INDIA", Taaza TV
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD63L360P/playlist.m3u8
 
@@ -894,9 +888,6 @@ https://live-indiatvnews.akamaized.net/indiatv-origin/ITV_1_1@199237/chunks.m3u8
 #EXTINF:-1 group-title="INDIA",News18 India
 https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
 
-
-#EXTINF:-1 group-title="INDIA",Lok Sabha
-https://nicls1-lh.akamaihd.net/i/lst_1@26969/index_1_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 group-title="INDIA",DD News
 https://nicls1-lh.akamaihd.net/i/ddnews_1@409133/index_1_av-p.m3u8?sd=10&rebase=on
@@ -1409,11 +1400,6 @@ http://rt-sib-bul-htlive-lb.cdn.ngenix.net/hls/CH_R02_DISNEYCHANNEL/variant.m3u8
 
 #EXTINF:-1 group-title="PREMIUM",Disney Junior Indonesia
 http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
-
-
-
-#EXTINF:-1 group-title="PREMIUM",Fox Action Movies Indonesia
-http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 
 
 
