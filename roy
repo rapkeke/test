@@ -1,4 +1,5 @@
-#EXTM3U#EXTINF:-1 group-title="PREMIUM", HBO 2
+#EXTM3U
+#EXTINF:-1 group-title="PREMIUM", HBO 2
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 group-title="PREMIUM", FOX MOVIES COMEDY
@@ -33,10 +34,6 @@ http://mam.jogjaprov.go.id:1935/tv/ngrp:tvonline.stream_all/playlist.m3u8
 
 #EXTINF:-1 tvg-images.useetv.com/logo_ardan_radio.png" group-title="RADIO",Ardan 105.9FM
 http://listento.ardanradio.com:1059/;
-
-#EXTINF:-1 group-title="INDONESIA",TVRI 1
-http://210.210.155.35/qwr9ew/s/s11/01.m3u8
-
 
 #EXTINF:-1 group-title="MALAYSIA", TV1
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
@@ -90,12 +87,6 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
 #EXTINF:-1 group-title="INDONESIA",Berita Satu World
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
 
-#EXTINF:-1 group-title="INDONESIA",Kix Indonesia
-http://45.126.83.51/uq2663/h/h07/01.m3u8
-
-#EXTINF:-1 group-title="INDONESIA",Kix Indonesia
-http://210.210.155.35/uq2663/h/h07/01.m3u8
-
 #EXTINF:-1 group-title="INDONESIA",INDOSIAR
 http://203.153.218.28:9981/stream/channelid/261435212?ticket=B10B2C8D7C5EF65FE04AEAF62383D6B3647ED987&profile=pass
 
@@ -113,15 +104,6 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/master.m3u8
 
 #EXTINF:-1 group-title="INDONESIA",NET TV
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
-
-#EXTINF:-1 group-title="INDONESIA",RTV
-http://210.210.155.35/session/08fb7806-059c-11e9-9d77-c81f66f89318/qwr9ew/s/s12/01.m3u8
-
-#EXTINF:-1 group-title="INDONESIA",KOMPAS TV
-http://210.210.155.35/session/69927436-1aa3-11ea-a103-acecbc14f551/qwr9ew/s/s104/01.m3u8
-
-#EXTINF:-1 group-title="INDONESIA",KOMPAS TV
-http://210.210.155.35/qwr9ew/s/s104/01.m3u8?token=ireg.m3u8
 
 #EXTINF:-1 group-title="INDONESIA",BERITA SATU
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
@@ -183,12 +165,6 @@ http://wz.insantv.net/group/ngrp:insantv_mobile/playlist.m3u8
 #EXTINF:-1 group-title="INDONESIA",Ahsan TV
 http://119.82.224.75:1935/live/ahsantv/chunk.m3u8
 
-#EXTINF:-1 group-title="INDONESIA",MAKKAH
-http://210.210.155.35/qwr9ew/s/s28/01.m3u8
-
-#EXTINF:-1 group-title="INDONESIA",MADINAH
-http://210.210.155.35/qwr9ew/s/s27/01.m3u8
-
 #EXTINF:-1 group-title="INDONESIA",TRANSTV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
@@ -227,9 +203,6 @@ http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=0
 
 #EXTINF:-1 group-title="INDONESIA",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2099542994_b384000_sleng.m3u8
-
-#EXTINF:-1 group-title="INDONESIA",INDOSIAR (Backup)
-http://45.126.83.51/qwr9ew/s/s04/01.m3u8
 
 #EXTINF:-1 group-title="INDONESIA",INDOSIAR (Backup)
 http://203.153.218.28:9981/stream/channelid/261435212?ticket=4006885A62AC6F
@@ -272,9 +245,6 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m
 
 #EXTINF:-1 group-title="INDONESIA",JTV SURABAYA
 http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1 group-title="INDONESIA",ELSHINTA TV
-http://rr2.dens.tv/s/s10/index.m3u8
 
 #EXTINF:-1 group-title="INDONESIA",JawaPos TV
 https://dl.dropbox.com/s/c5pe05bpznbafh3/Jawapos2.m3u8?dl=0
@@ -342,12 +312,6 @@ https://linier.akamaized.net:443/live/eds/GTV_Logo/sa_hls/GTV_Logo-avc1_2000000=
 #EXTINF:-1 group-title="INDONESIA",INEWS HD
 https://linier.akamaized.net:443/live/eds/iNews_Logo/sa_hls/iNews_Logo-avc1_2000000=1-mp4a_64000=2.m3u8
 
-#EXTINF:-1 group-title="INDONESIA",DAAI TV
-http://rr2.dens.tv/s/s13/index2.m3u8
-
-#EXTINF:-1 group-title="INDONESIA",NET TV
-http://rr2.dens.tv/s/s08/02.m3u8
-
 #EXTINF:-1 group-title="INDONESIA",Al Quran Al Kareem
 https://bozztv.com/36bay2/gin/giniko_saudiquran_900kb_36bay2/tracks-v1a1/mono.m3u8
 
@@ -356,15 +320,6 @@ http://iamchannel.org:1935/tes/1/chunklist.m3u8
 
 #EXTINF:-1 group-title="INDONESIA",Ahsan TV
 http://119.82.224.75:1935/live/ahsantv/player.m3u8
-
-#EXTINF:-1 group-title="INDONESIA",RodjaTV
-http://rr2.dens.tv/s/s14/02.m3u8
-
-#EXTINF:-1 group-title="INDONESIA",Jakarta CCTV
-http://210.210.155.35/session/974cef8a-8bd9-11ea-a7a4-b82a72d63267/x6bnqe/s/s37/S4/mnf.m3u8
-
-#EXTINF:-1 group-title="INDONESIA",Special Ramadhan
-http://210.210.155.35/session/0fbc8788-8bd9-11ea-a7a4-b82a72d63267/x6bnqe/s/s35/S4/mnf.m3u8
 
 #EXTINF:-1 group-title="INDONESIA",AREK TV SURABAYA
 http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8?checkedby:iptvcat.com
@@ -537,53 +492,9 @@ http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
 #EXTINF:-1 group-title="INDONESIA",Astro Ceria Backup
 http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
 
-#EXTINF:-1 group-title="INDONESIA",ELSHINTA TV
-http://rr2.dens.tv/s/s10/index2.m3u8
-
-#EXTINF:-1 group-title="INDONESIA",ANTV
-http://rr2.dens.tv/s/s07/index2.m3u8
-
-#EXTINF:-1 group-title="INDONESIA",TVRI
-http://rr2.dens.tv/s/s11/01.m3u8
-
-#EXTINF:-1 group-title="INDONESIA",RT AMERICA
-http://rr2.dens.tv/s/s23/01.m3u8
-
-#EXTINF:-1 group-title="INDONESIA",RTV Indonesia
-http://rr2.dens.tv/s/s12/01.m3u8
-
-#EXTINF:-1 group-title="INDONESIA",TV5MONDE
-http://rr2.dens.tv/s/s24/01.m3u8
-
-#EXTINF:-1 group-title="INDONESIA",DW Channel
-http://rr2.dens.tv/s/s26/01.m3u8
-
-#EXTINF:-1 group-title="INDONESIA",Religi Channel 1
-http://rr2.dens.tv/s/s27/01.m3u8
-
-#EXTINF:-1 group-title="INDONESIA",Religi Channel 2
-http://rr2.dens.tv/s/s28/01.m3u8
-
-#EXTINF:-1 group-title="INDONESIA",KOMPAS TV
-http://rr2.dens.tv/s/s104/01.m3u8
-
-#EXTINF:-1 group-title="INDONESIA",TV ONE
-http://rr2.dens.tv/s/s105/01.m3u8
 
 #EXTINF:-1 group-title="INDONESIA",RCTI
 http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1 group-title="INDONESIA",TV Nasional
-http://210.210.155.35/session/2c64ecb2-b724-11e8-9332-b82a72d63267/qwr9ew/s/s11/01.m3u8
-
-#EXTINF:-1 group-title="INDONESIA",ANTV
-http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
-
-#EXTINF:-1 group-title="INDONESIA",TRANSVISION
-http://210.210.155.35/uq2663/h/h234/index2.m3u8
-
-#EXTINF:-1 group-title="INDONESIA",NET TV
-http://45.126.83.51/qwr9ew/s/s08/01.m3u8
 
 #EXTINF:-1 group-title="INDONESIA",CNN Indonesia HD
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
@@ -738,9 +649,6 @@ http://202.80.222.179/000001/2/ch14061215030555428637/1000.m3u8?virtualDomain=00
 #EXTINF:-1 group-title="INDONESIA",TVRI
 http://202.80.222.179/000001/2/ch14041511560872104862/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 group-title="INDONESIA",V CHANNEL
-http://rr2.dens.tv/s/s41/index2.m3u8
-
 #EXTINF:-1 group-title="INDONESIA",METRO TV HD
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w729486727_b1492000_sleng.m3u8
 
@@ -852,18 +760,6 @@ http://video2.onlivestreaming.net/tatv/live.sdp/playlist.m3u8
 #EXTINF:-1 group-title="INDONESIA",ANTV
 http://202.80.222.130/000001/2/ch14061215034900095272/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 group-title="INDONESIA",SCTV
-http://45.126.83.51/qwr9ew/s/s03/01.m3u8
-
-#EXTINF:-1 group-title="INDONESIA",TV ONE
-http://45.126.83.51/qwr9ew/s/s02/index2.m3u8
-
-#EXTINF:-1 group-title="INDONESIA",METRO TV
-http://45.126.83.51/qwr9ew/s/s49/index2.m3u8
-
-#EXTINF:-1 group-title="INDONESIA",MAKKAH TV
-http://45.126.83.51/qwr9ew/s/s28/index2.m3u8
-
 #EXTINF:-1 group-title="INDONESIA",TRANS7 - LOCAL
 http://202.80.222.130/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
@@ -888,32 +784,14 @@ http://202.80.222.130/000001/2/ch00000090990000001706/index.m3u8?virtualDomain=0
 #EXTINF:-1 group-title="INDONESIA",MNC CHANNEL - ENTERTAINMENT
 http://202.80.222.130/000001/2/ch18040213194357388223/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 group-title="INDONESIA",DAAI TV
-http://45.126.83.51/qwr9ew/s/s13/index2.m3u8
-
-#EXTINF:-1 group-title="INDONESIA",RAJAWALI TV
-http://45.126.83.51/qwr9ew/s/s12/01.m3u8
-
-#EXTINF:-1 group-title="INDONESIA",TVONE
-http://210.210.155.35:80/session/0b808a8c-6c0b-11e9-88f0-c81f66f89318/qwr9ew/s/s105/index.m3u8
-
 #EXTINF:-1 group-title="INDONESIA",Indosiar (Opt-1)
 http://202.80.222.182/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1 group-title="INDONESIA",Indosiar (Opt-3)
-http://45.126.83.51/qwr9ew/s/s04/index.m3u8
 
 #EXTINF:-1 group-title="INDONESIA",JakTV (Opt-1)
 http://202.80.222.182:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 group-title="INDONESIA",MetroTV (Opt-3)
-http://45.126.83.51/uq2663/h/h12/index.m3u8
-
 #EXTINF:-1 group-title="INDONESIA",Net TV (Opt-1)
 http://202.80.222.170/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com&IASHttpSessionId=OTT219782019062322524313983108
-
-#EXTINF:-1 group-title="INDONESIA",Net TV (Opt-3)
-http://45.126.83.51/qwr9ew/s/s08/index.m3u8
 
 #EXTINF:-1 group-title="INDONESIA",Prima TV Banjarmasin
 http://primatv.onlivestreaming.net/primatv/livestream/playlist.m3u8
@@ -933,9 +811,6 @@ http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=0
 #EXTINF:-1 group-title="INDONESIA",tvOne (Opt-2)
 http://202.80.222.130/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com#EXTM3U
 
-#EXTINF:-1 group-title="INDONESIA",Indosiar
-http://210.210.155.35/session/fe2429ba-0198-11ea-ac54-c81f66f89318/qwr9ew/s/s04/index.m3u8
-
 #EXTINF:-1 group-title="INDONESIA",15.00 WIB - Liga 1: Persija vs Persib
 https://dl.dropbox.com/s/fo0fid5071uwwcn/useesport.m3u8?dl=0
 
@@ -944,24 +819,6 @@ https://dl.dropbox.com/s/l0p1q7yillpbzyj/liga1.m3u8?dl=0
 
 #EXTINF:-1 group-title="INDONESIA",Krone Hit
 http://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-
-#EXTINF:-1 group-title="INDONESIA",TVRI (Opt-2)
-http://45.126.83.51/qwr9ew/s/s11/index.m3u8
-
-#EXTINF:-1 group-title="INDONESIA",(ID) U CHANNEL (ROHANI KRISTEN)
-http://rr2.dens.tv/s/s41/index1.m3u8
-
-#EXTINF:-1 group-title="INDONESIA",TVRI Sports
-http://210.210.155.35/session/69e800f6-97c0-11e9-888f-b82a72d63267/qwr9ew/s/s107/index.m3u8
-
-#EXTINF:-1 group-title="INDONESIA",TVRI OLAHRAGA
-http://rr2.dens.tv/s/s48/index2.m3u8
-
-#EXTINF:-1 group-title="INDONESIA",RODJA TV
-http://rr2.dens.tv/s/s14/index.m3u8
-
-#EXTINF:-1 group-title="INDONESIA",TV ONE 2
-http://210.210.155.35/session/8e9505d0-96ba-11ea-8085-b9b781aec6cb/qwr9ew/s/s105/01.m3u8
 
 #EXTINF:-1 group-title="INDONESIA",RTV
 https://cdnbpp1.useetv.com/joss/14/rtv/chunklist_w56964414_b684100_sleng_121748.m3u8
@@ -1031,15 +888,6 @@ https://vcdnjt.useetv.com:443/joss/15/useesports2/chunklist_w589224286_b684100_s
 
 #EXTINF:-1 group-title="INDONESIA", TVRI HD
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
-
-#EXTINF:-1 group-title="INDONESIA",Indosiar ++
-http://210.210.155.35/qwr9ew/s/s04/01.m3u8
-
-#EXTINF:-1 group-title="INDONESIA",Kompas TV
-http://210.210.155.35/qwr9ew/s/s104/01.m3u8
-
-#EXTINF:-1 group-title="INDONESIA",TV One +
-http://210.210.155.35/qwr9ew/s/s105/01.m3u8
 
 #EXTINF:-1 group-title="INDONESIA",TV One ++
 http://202.80.222.171/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
@@ -1171,9 +1019,6 @@ http://p-indiaahead.planetcast.in/01.m3u8
 #EXTINF:-1 group-title="INDIA",India Today
 https://feeds.intoday.in/hltapps/api/master.m3u8
 
-#EXTINF:-1 group-title="INDIA",Sony One HD
-http://210.210.155.35/uq2663/h/h13/index.m3u8
-
 #EXTINF:-1 group-title="INDIA",yo punjabi
 https://yopunjabihdlive-lh.akamaihd.net/i/YoPunjabiHDLive_1_1@345454/index_1_a-b.m3u8?sd=10&rebase=on
 
@@ -1224,9 +1069,6 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/masterp_48
 
 #EXTINF:-1 group-title="INDIA",DD Punjabi
 http://playhls.media.nic.in/live/ddpunjabi-360p/index.m3u8
-
-#EXTINF:-1 group-title="INDIA",SONY CHANEL
-http://210.210.155.35/uq2663/h/h142/01.m3u8
 
 #EXTINF:-1 group-title="INDIA",Sab Tv
 https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
@@ -1412,12 +1254,6 @@ http://ott-cdn.ucom.am/s86/04.m3u8
 #EXTINF:-1 group-title="SPORTS",Fight Plus
 https://nimble.dashstreams.net/onestudio/fightplustv/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORTS",Fight Sports
-http://45.126.83.51/uq2663/h/h05/01.m3u8
-
-#EXTINF:-1 group-title="SPORTS",Fight Sports
-http://210.210.155.35/uq2663/h/h05/01.m3u8
-
 #EXTINF:-1 group-title="SPORTS",Fight Time
 https://directo.fibwi.com/stream/stream_Fight_Time/fighttime.m3u8
 
@@ -1570,9 +1406,6 @@ http://ott-cdn.ucom.am/s81/03.m3u8
 
 #EXTINF:-1 group-title="SPORTS",FOX SPORT RACING
 http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
-
-#EXTINF:-1 group-title="SPORTS",FOX SPORT 3
-http://210.210.155.35/uq2663/h/h21/index1.m3u8
 
 #EXTINF:-1 group-title="SPORTS",ALL SPORTS
 http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/chunklist_b307200_slFa.m3u8
@@ -1822,17 +1655,8 @@ http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1
 #EXTINF:-1 group-title="PREMIUM",BTV Documentary
 http://111.40.205.87/PLTV/88888888/224/3221225654/index.m3u8
 
-#EXTINF:-1 group-title="PREMIUM",Celestial Movies
-http://210.210.155.35/qwr9ew/s/s33/01.m3u8
-
 #EXTINF:-1 group-title="PREMIUM",Cinema Russia
 https://plbl.m9.lfstrm.tv/park_razvlecheniy/normal/1/index.m3u8?account=e26beeeca5b722cf&amp;client=4eeab7d1d6bb1ef6&amp;env=s&amp;expires=1574582400&amp;mpltlh=auto&amp;origin=m9-live1&amp;profile=a8fd0c03f7290a64&amp;provider_id=5c37579b22855081e5d3f787®ion=ru.volga.nizhny_novgorod-obl.nizhny+novgorod&amp;token=14ssmWxlM7kfKdyY5sMwsA&amp;user=54432fea6b06b42f&amp;wlid=smotreshka
-
-#EXTINF:-1 group-title="PREMIUM",Cinema World
-http://210.210.155.35/uq2663/h/h04/01.m3u8
-
-#EXTINF:-1 group-title="PREMIUM",Cinema World
-http://45.126.83.51:443/uq2663/h/h04/01.m3u8
 
 #EXTINF:-1 group-title="PREMIUM",Cinemax 2 Polonia
 http://188.35.9.9:21121/udp/136y
@@ -2050,12 +1874,6 @@ http://203.153.218.28:9981/stream/channelid/1197019186?ticket=96AB9AD0536B1000E5
 #EXTINF:-1 group-title="PREMIUM",HBO Family
 http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
 
-#EXTINF:-1 group-title="PREMIUM",Celestial Movies
-http://45.126.83.51/qwr9ew/s/s33/index.m3u8
-
-#EXTINF:-1 group-title="PREMIUM",CELESTIAL MOVIES
-http://210.210.155.35/session/31580704-c313-11e8-86db-c81f66f89318/qwr9ew/s/s33/01.m3u8
-
 #EXTINF:-1 group-title="PREMIUM",HBO2 HD
 http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
 
@@ -2091,24 +1909,6 @@ http://161.0.157.7/PLTV/88888888/224/3221227013/index.m3u8
 
 #EXTINF:-1 group-title="PREMIUM",FOX FAMILY MOVIES
 http://203.153.218.28:9981/stream/channelid/1949182550?ticket=39C98E4111054C7CF2A242280A406A438219FEA8&profile=passg-logo="-"
-
-#EXTINF:-1 group-title="PREMIUM",thrill SD
-http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/02.m3u8
-
-#EXTINF:-1 group-title="PREMIUM",thrill HD
-http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
-
-#EXTINF:-1 group-title="PREMIUM",MY CINEMA
-http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
-
-#EXTINF:-1 group-title="PREMIUM",CINEMA WORD
-http://210.210.155.35/uq2663/h/h04/index2.m3u8
-
-#EXTINF:-1 group-title="PREMIUM",K-Drama
-http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8
-
-#EXTINF:-1 group-title="PREMIUM",K+
-http://rr.dens.tv/h/h08/index2.m3u8
 
 #EXTINF:-1 group-title="PREMIUM",KBS WORLD
 http://edge.linknetott.swiftserve.com/channelgroup5/cg542production/ch262/03.m3u8
@@ -2157,9 +1957,6 @@ http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 
 #EXTINF:-1 group-title="PREMIUM",BBC World News
 http://203.153.218.28:9981/stream/channelid/861591723?ticket=F0599E847F90B5FE81ADFE5AD5296885A461DA19&profile=pass
-
-#EXTINF:-1 group-title="PREMIUM",CNBC International http://203.153.218.28:9981/stream/channelid/1744735983?ticket=07E4904EDFA549D56E57107CB6140923FE593775&profile=pass
-http://203.153.218.28:9981/stream/channelid/1744735983?ticket=07E4904EDFA549D56E57107CB6140923FE593775&profile=pass
 
 #EXTINF:-1 group-title="PREMIUM",Fish Channel
 http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8
@@ -2224,9 +2021,6 @@ http://203.153.218.28:9981/stream/channelid/882386103
 #EXTINF:-1 group-title="PREMIUM",Asian Food CHANNEL
 http://203.153.218.28:9981/stream/channelid/1092664456
 
-#EXTINF:-1 group-title="PREMIUM",Nickelodeon
-http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass%20%20
-
 #EXTINF:-1 group-title="PREMIUM",FOX
 http://203.153.218.28:9981/stream/channelid/1910872088
 
@@ -2236,44 +2030,17 @@ http://203.153.218.28:9981/stream/channelid/1949182550
 #EXTINF:-1 group-title="PREMIUM",FOX MOVIES
 http://203.153.218.28:9981/stream/channelid/756717990
 
-#EXTINF:-1 group-title="PREMIUM",FOX ACTION MOVIES
-http://203.153.218.28:9981/stream/channelid/1744735983?ticket=450BAA071EE56859DDFEAEB3CFD519D6B21D5A44&profile=pass
-
 #EXTINF:-1 group-title="PREMIUM",DISNEY JUNIOR Indo SD
 http://103.47.132.164/PLTV/88888888/224/3221226011/02.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 group-title="PREMIUM",Disney Junior Indonesia
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 group-title="PREMIUM",ZEE BIOSKOP
-http://rr2.dens.tv/s/s32/01.m3u8
-
-#EXTINF:-1 group-title="PREMIUM",CELESTIAL MOVIE
-http://rr2.dens.tv/s/s33/01.m3u8
-
-#EXTINF:-1 group-title="PREMIUM",CArtoon Mandarin
-http://rr2.dens.tv/s/s50/01.m3u8
-
 #EXTINF:-1 group-title="PREMIUM",RodjaTV 480PX
 https://tv.rodja.live/live/480p/playlist.m3u8
 
 #EXTINF:-1 group-title="PREMIUM",RodjaTV 720PX
 https://tv.rodja.live/live/720p/playlist.m3u8
-
-#EXTINF:-1 group-title="PREMIUM",Thrill
-http://210.210.155.35/qwr9ew/s/s34/01.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 group-title="PREMIUM",Zee Bioskop (Opt-1)
-http://210.210.155.35/qwr9ew/s/s32/01.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 group-title="PREMIUM",Celestial Movies (Opt-1)
-http://210.210.155.35/qwr9ew/s/s33/index.m3u8
-
-#EXTINF:-1 group-title="PREMIUM",CinemaWorld (Opt-2)
-http://210.210.155.35/uq2663/h/h04/01.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 group-title="PREMIUM",FoxThai
-http://210.210.155.35/session/44f6d74a-01a1-11ea-b55a-9182955aa916/x6bnqe/s/s71/S4/mnf.m3u8
 
 #EXTINF:-1 group-title="PREMIUM",BOOMERANG CH 2
 http://95.170.215.118/hls/m3u8/Boomerang.m3u8
@@ -2419,18 +2186,6 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch315)/02.m3u8
 #EXTINF:-1 group-title="PREMIUM",INEWS_MKC2
 http://202.80.222.174/000001/2/ch14041511541532132975/1024.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 group-title="PREMIUM",NHK WORLD
-http://45.126.83.51/uq2663/h/h23/index.m3u8
-
-#EXTINF:-1 group-title="PREMIUM",NEW ASIA CHANNEL
-http://45.126.83.51/uq2663/h/h29/index.m3u8
-
-#EXTINF:-1 group-title="PREMIUM",Da Vinci
-http://45.126.83.51/uq2663/h/h01/index.m3u8
-
-#EXTINF:-1 group-title="PREMIUM",FOXlife
-http://45.126.83.51/uq2663/h/h03/index.m3u8
-
 #EXTINF:-1 group-title="PREMIUM",FOX ACTION MOVIES ID
 http://202.80.222.130/000001/2/ch14041511585459217880/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
@@ -2446,29 +2201,6 @@ http://202.80.222.130/000001/2/ch15051810244348873197/index.m3u8?virtualDomain=0
 #EXTINF:-1 group-title="PREMIUM",HIDAYAH - KNOWLEDGE
 http://202.80.222.130/000001/2/ch14042115480369186908/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 group-title="PREMIUM",Zee Bioskop (Opt-2)
-http://45.126.83.51/qwr9ew/s/s32/index.m3u8
-
-#EXTINF:-1 group-title="PREMIUM",NHK World
-http://210.210.155.35/uq2663/h/h23/index1.m3u8
-
-#EXTINF:-1 group-title="PREMIUM",DA VINCI LEARNING
-http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/h01/02.m3u8
-
-#EXTINF:-1 group-title="PREMIUM",THRILL
-http://210.210.155.35:80/session/9ab7f404-73b5-11e9-813d-85409622318e/qwr9ew/s/s34/01.m3u8
-
-#EXTINF:-1 group-title="PREMIUM",MY CINEMA
-http://45.126.83.51:80/session/b43b928c-73b5-11e9-9699-89a9bbbc92d4/x6bnqe/s/s31/S4/mnf.m3u8
-
-#EXTINF:-1 group-title="PREMIUM",ZEE BIOSKOP
-http://210.210.155.35:80/session/228f03c8-73b5-11e9-b788-c81f66f89318/qwr9ew/s/s32/01.m3u8
-
-#EXTINF:-1 group-title="PREMIUM",CINEMA WORLD
-http://210.210.155.35:80/session/04357d66-73b6-11e9-a26c-8746b55a6579/uq2663/h/h04/01.m3u8
-
-#EXTINF:-1 group-title="PREMIUM",CINEMA WORLD
-http://210.210.155.35/session/833fafca-11cb-11e9-a870-c81f66f89318/uq2663/h/h04/02.m3u8
 
 #EXTINF:-1 group-title="PREMIUM",FOX
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch328)/index.m3u8
@@ -2487,9 +2219,6 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch45)/index.m3u8
 
 #EXTINF:-1 group-title="PREMIUM",
 http://210.210.155.35/uq2663/h/h37/index2.m3u8
-
-#EXTINF:-1 group-title="PREMIUM",DA VINCI KIDS
-http://rr.dens.tv/h/h01/index2.m3u8
 
 #EXTINF:-1 group-title="PREMIUM",Gospel Cartoon
 http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=495096105
@@ -2544,26 +2273,6 @@ http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?v
 
 
 
-#EXTINF:-1 group-title="PARTNER",AYSAR TV 5 MONDE
-http://210.210.155.35/qwr9ew/s/s24/02.m3u8
-
-#EXTINF:-1 group-title="PARTNER",AYSAR D W
-http://210.210.155.35/qwr9ew/s/s26/02.m3u8
-
-#EXTINF:-1 group-title="PARTNER",V channel
-http://210.210.155.35/qwr9ew/s/s41/02.m3u8
-
-#EXTINF:-1 group-title="PARTNER",AYSAR FOX
-http://210.210.155.35/uq2663/h/h04/index.m3u8
-
-#EXTINF:-1 group-title="PARTNER",AYSAR NEW ASIA CHANNEL
-http://210.210.155.35/uq2663/h/h29/index.m3u8
-
-#EXTINF:-1 group-title="PARTNER",AYSAR MADINA
-http://210.210.155.35/session/29a26522-0756-11e9-bf0a-b82a72d63267/qwr9ew/s/s27/02.m3u8
-
-#EXTINF:-1 group-title="PARTNER",AYSAR HITS
-http://210.210.155.35/session/315e5196-0755-11e9-a62c-b82a72d63267/uq2663/h/h37/02.m3u8
 
 #EXTINF:-1 group-title="PARTNER",AYSAR Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
@@ -2637,29 +2346,8 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2076301259
 #EXTINF:-1 group-title="PARTNER",BERITA SATU TV
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/chunklist_b1128000.m3u8
 
-#EXTINF:-1 group-title="PARTNER",AYSAR SPACETOON INDONESIA
-http://210.210.155.35/x6bnqe/s/s80/index2.m3u8
-
-#EXTINF:-1 group-title="PARTNER",AYSAR SPACETOON INDONESIA BACKUP
-http://210.210.155.35/x6bnqe/s/s80/index1.m3u8
-
 #EXTINF:-1 group-title="PARTNER",AYSAR CON TV
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/1920x1080_4528000/chunklist.m3u8
-
-#EXTINF:-1 group-title="PARTNER",AYSAR Disney
-http://763417a9.kartoshkaka.ru/iptv/KLF5WG86AQZ653/524/index.m3u8
-
-#EXTINF:-1 group-title="PARTNER",AYSAR Jim Jam
-http://763417a9.kartoshkaka.ru/iptv/KLF5WG86AQZ653/138/index.m3u8
-
-#EXTINF:-1 group-title="PARTNER",AYSAR Cartoon Network
-http://763417a9.kartoshkaka.ru/iptv/KLF5WG86AQZ653/143/index.m3u8
-
-#EXTINF:-1 group-title="PARTNER",AYSAR Nick Jr
-http://763417a9.kartoshkaka.ru/iptv/KLF5WG86AQZ653/114/index.m3u8
-
-#EXTINF:-1 group-title="PARTNER",AYSAR Nickelodeon
-http://763417a9.kartoshkaka.ru/iptv/KLF5WG86AQZ653/541/index.m3u8
 
 #EXTINF:-1 group-title="PARTNER",AYSAR HBO A HOME RED
 http://763417a9.kartoshkaka.ru/iptv/KLF5WG86AQZ653/556/index.m3u8
@@ -2893,10 +2581,6 @@ http://ws.flv.nimo.tv/live/su1599512427630rb9a94d5f0fa60cec1044ec85fbd76da7_high
 #EXTINF:-1 group-title="FILM",DETECTIFE CONAN 1 
 http://ws.flv.nimo.tv/live/su1599512427577r176a7daa9302ccecdda91e18ea9be73e_high.flv
 http://ws.flv.nimo.tv/live/su1599512427577r176a7daa9302ccecdda91e18ea9be73e_high.flv
-
-#EXTINF:-1 group-title="FILM",DETECTIFE CONAN 2 
-http://ws.flv.nimo.tv/live/su1599512427561r32f86ec41ff353df5fd649beb68e6388_high.flv
-http://ws.flv.nimo.tv/live/su1599512427561r32f86ec41ff353df5fd649beb68e6388_high.flv
 
 #EXTINF:-1 group-title="FILM",DORAEMON MOVIE 
 http://ws.flv.nimo.tv/live/su1599512427578r00bac8d56488f6ca2d6915fb95ab88e8_high.flv?fluxustv.flv
@@ -3448,4 +3132,3 @@ http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="X-X-X",Jasmin HD 18+
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8#EXTINF:0,http://layarcinema21.fun/tag/lebahganteng21/
-
