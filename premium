@@ -30,7 +30,7 @@ http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u
 #EXTINF:-1 TVRI NASIONAL tvg-images.useetv.com/logo_tvri_big1.png" group-title="INDONESIA", TVRI NASIONAL
 http://203.153.218.26:9981/stream/channelid/1295280400?ticket=6F13FE140373606AC178154BBEA6D56F0F5FE5D5&profile=pass
 
-#EXTINF:-1 tvg-images2.useetv.com/logo_jitv_big.png" group-title="INDONESIA"JITV [Jogja]
+#EXTINF:-1 tvg-images2.useetv.com/logo_jitv_big.png" group-title="INDONESIA",JITV Jogja
 http://mam.jogjaprov.go.id:1935/tv/ngrp:tvonline.stream_all/playlist.m3u8
 
 #EXTINF:-1 tvg-images.useetv.com/logo_ardan_radio.png" group-title="RADIO",Ardan 105.9FM
@@ -980,10 +980,10 @@ https://cdnjt22.useetv.com/joss/14/ducktv/chunklist_w833664660_b684100_sleng_714
 #EXTINF:-1 group-title="INDONESIA",RCTI
 https://linier.akamaized.net/live/eds/RCTI_Logo/sa_hls/RCTI_Logo-avc1_2000000=6-mp4a_64000=2.m3u8
 
-#EXTINF:-1 group-title="INDONESIA"MNC
+#EXTINF:-1 group-title="INDONESIA",MNC
 https://linier.akamaized.net:443/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo-avc1_1000000=3-mp4a_64000=2.m3u8
 
-#EXTINF:-1 group-title="INDONESIA"ANTV
+#EXTINF:-1 group-title="INDONESIA", ANTV
 https://vcdnjt.useetv.com:443/joss/15/antv/chunklist_w1093587531_b684100_sleng_177560.m3u8?enc=XfbC-Lmih8yA3SLw742zUw&exp=1586533597
 
 #EXTINF:-1 group-title="INDONESIA"SCTV
@@ -992,46 +992,46 @@ https://vcdnjt.useetv.com:443/joss/15/sctv/chunklist_w457941769_b684100_sleng_17
 #EXTINF:-1 group-title="INDONESIA"INDOSIAR
 https://vcdnjt.useetv.com:443/joss/15/indosiar/chunklist_w216473056_b684100_sleng_177560.m3u8?enc=fNhkrkjP1SfsMprexUm1ZA&exp=1587469129
 
-#EXTINF:-1 group-title="INDONESIA"TRANS 7
+#EXTINF:-1 group-title="INDONESIA", TRANS 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1271606575_b280000_sleng.m3u8
 
-#EXTINF:-1 group-title="INDONESIA"TRANS TV
+#EXTINF:-1 group-title="INDONESIA", TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1825142121_b280000_sleng.m3u8
 
-#EXTINF:-1 group-title="INDONESIA"INEWS
+#EXTINF:-1 group-title="INDONESIA", INEWS
 https://linier.akamaized.net:443/live/eds/iNews_Logo/sa_hls/iNews_Logo-avc1_1000000=3-mp4a_64000=2.m3u8
 
-#EXTINF:-1 group-title="INDONESIA"CNBC INDONESIA
+#EXTINF:-1 group-title="INDONESIA", CNBC INDONESIA
 https://live.cnbcindonesia.com:443/livecnbc/smil:cnbctv.smil/chunklist_w290751272_b192000_sleng.m3u8
 
-#EXTINF:-1 group-title="INDONESIA"TVRI
+#EXTINF:-1 group-title="INDONESIA", TVRI
 http://stream1.ninmedia.tv:1935/pombotv/udp.stream_360p/playlist.m3u8
 
-#EXTINF:-1 group-title="INDONESIA"TVRI NASIONAL
+#EXTINF:-1 group-title="INDONESIA", TVRI NASIONAL
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 
-#EXTINF:-1 group-title="INDONESIA"TVRI DKI JAKARTA
+#EXTINF:-1 group-title="INDONESIA", TVRI DKI JAKARTA
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8
 
-#EXTINF:-1 group-title="INDONESIA"TVRI BUDAYA
+#EXTINF:-1 group-title="INDONESIA", TVRI BUDAYA
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
 
-#EXTINF:-1 group-title="INDONESIA"RIAU TV
+#EXTINF:-1 group-title="INDONESIA", RIAU TV
 http://122.248.43.138:1935/ch11/myStream/playlist.m3u8
 
-#EXTINF:-1 group-title="INDONESIA"KARAOKE CHANNEL
+#EXTINF:-1 group-title="INDONESIA", KARAOKE CHANNEL
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8?
 
-#EXTINF:-1 group-title="INDONESIA"LAPAK MUSIK TV
+#EXTINF:-1 group-title="INDONESIA", LAPAK MUSIK TV
 http://stream2.ninmedia.tv:1935/lapakmusiktv/rtmp.stream_360p/playlist.m3u8
 
-#EXTINF:-1 group-title="INDONESIA"USEE SPORT 1
+#EXTINF:-1 group-title="INDONESIA", USEE SPORT 1
 https://vcdnjt.useetv.com:443/joss/15/useesport/chunklist_w1734341269_b894100_sleng_177560.m3u8?enc=04WgtycFcN-cMIKu6JcrMQ&exp=1587471571
 
-#EXTINF:-1 group-title="INDONESIA"USEE SPORT 2
+#EXTINF:-1 group-title="INDONESIA", USEE SPORT 2
 https://vcdnjt.useetv.com:443/joss/15/useesports2/chunklist_w589224286_b684100_sleng_177560.m3u8?enc=RStWKB0CU75uFUk98ieI4Q&exp=1587471587
 
-#EXTINF:-1 group-title="INDONESIA" TVRI HD
+#EXTINF:-1 group-title="INDONESIA", TVRI HD
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 
 #EXTINF:-1 group-title="INDONESIA",Indosiar ++
