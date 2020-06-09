@@ -91,9 +91,6 @@ http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8
 #EXTINF:-1 group-title="INDONESIA",RT6V RIAU
 http://122.248.43.138:1935/ch11/myStream/live.m3u8
 
-#EXTINF:-1 group-title="INDONESIA",SBO SURABAYA
-http://122.248.43.138:1935/ch13/myStream/live.m3u8
-
 #EXTINF:-1 group-title="INDONESIA",Karaoke Channel
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8?fluxustv.m3u8
 
@@ -116,9 +113,6 @@ http://122.248.43.138:1935/ch3/myStream/live.m3u8
 
 #EXTINF:-1 group-title="INDONESIA",RBTV Bengkulu
 http://122.248.43.138:1935/ch12/myStream/live.m3u8
-
-#EXTINF:-1 group-title="INDONESIA",TV 9 Nusantara
-http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
 
 #EXTINF:-1 group-title="INDONESIA",Ahsan TV
 http://119.82.224.75:1935/live/ahsantv/chunk.m3u8
@@ -188,13 +182,6 @@ https://dl.dropbox.com/s/9t5mmkp3s5366dt/Berita%20satu.m3u8?dl=0
 #EXTINF:-1 group-title="INDONESIA",f_auto/image/8786976/16x9/991/557/b5725ccd88967cbdbc70aa882ad1c3b5/fk/cna-default-image.png" group-title="INDONESIA",CANEL NEWS ASIA HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 
-#EXTINF:-1 group-title="INDONESIA",JTV SURABAYA
-http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-
-#EXTINF:-1 group-title="INDONESIA",Bali TV
-http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
 #EXTINF:-1 group-title="INDONESIA",TVRI (Opt-1)
 http://tvristream-i.akamaihd.net/hls/live/761941/akamai-tvri/stream04/streamPlaylist.m3u8
 
@@ -229,9 +216,6 @@ http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 group-title="INDONESIA",KARAOKE CHANNEL
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8
 
-#EXTINF:-1 group-title="INDONESIA",RCTI
-http://202.80.222.171:80/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
 #EXTINF:-1 group-title="INDONESIA",GLOBAL TV
 http://202.80.222.169:80/000001/2/ch14041511505498448705/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 
@@ -245,9 +229,6 @@ http://202.80.222.171/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=0
 #EXTINF:-1 group-title="INDONESIA",Al Quran Al Kareem
 https://bozztv.com/36bay2/gin/giniko_saudiquran_900kb_36bay2/tracks-v1a1/mono.m3u8
 
-
-#EXTINF:-1 group-title="INDONESIA",Ahsan TV
-http://119.82.224.75:1935/live/ahsantv/player.m3u8
 
 #EXTINF:-1 group-title="INDONESIA",AREK TV SURABAYA
 http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8?checkedby:iptvcat.com
@@ -807,9 +788,6 @@ https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
 #EXTINF:-1 group-title="INDIA",Amrita TV
 http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
 
-#EXTINF:-1 group-title="INDIA",Analai Express HD
-http://live.streamjo.com:1935/sarastv/sarastv/playlist.m3u8
-
 #EXTINF:-1 group-title="INDIA",APB
 https://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
 
@@ -976,9 +954,6 @@ https://live.wmncdn.net/kaumuditv1/live.stream/index.m3u8
 https://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
 
 
-#EXTINF:-1 group-title="INDIA",Magna Vision TV
-https://livestream.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4.m3u8
-
 #EXTINF:-1 group-title="INDIA",Mangalam TV
 http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
 
@@ -1074,12 +1049,6 @@ http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
 
 #EXTINF:-1 group-title="INDIA",Subrang TV
 https://cdn61.liveonlineservices.com/hls/subrang.m3u8
-
-#EXTINF:-1 group-title="INDIA",Sur Sagar TV
-http://sursagar24.dyndns.tv:8080/sstv/720p/index.m3u8
-
-#EXTINF:-1 group-title="INDIA",Sur Sagar TV
-http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group-title="INDIA",Suvarna News 24×7
 https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/playlist.m3u8
@@ -1376,9 +1345,6 @@ https://vcdnjt.useetv.com:443/joss/15/foxsport3/chunklist_w1060961009_b684100_sl
 #EXTINF:-1 group-title="SPORTS",BEIN SPORT 1
 https://vcdnjt.useetv.com:443/joss/15/bein1/chunklist_w1325761140_b684100_sleng_177560.m3u8?enc=vcP2SW9irdVaDSRPMvSnzA&exp=1587471217
 
-#EXTINF:-1 group-title="SPORTS",BEIN SPORT 2
-https://vcdnjt.useetv.com:443/joss/15/bein2/chunklist_w878851015_b684100_sleng_177560.m3u8?enc=G8yv_dvfJqqhAeaNzTgXnw&exp=1587471247
-
 #EXTINF:-1 group-title="SPORTS",CHAMPION TV 1
 https://vcdnjt.useetv.com:443/joss/15/champion1/chunklist_w888798869_b684100_sleng_177560.m3u8?enc=SgRpcH6S97eh9aWOJ-vngA&exp=1587471358
 
@@ -1442,9 +1408,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x43
 https://nimble.dashstreams.net/onestudio/fightplustv/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS",Fight Time
-https://directo.fibwi.com/stream/stream_Fight_Time/fighttime.m3u8
-
-#EXTINF:-1 group-title="SPORTS",Fight Time
 http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/master.m3u8
 
 #EXTINF:-1 group-title="SPORTS",Formula
@@ -1453,9 +1416,6 @@ http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS",Formula 1
 http://188.35.9.9:21151/udp/196d
-
-#EXTINF:-1 group-title="SPORTS",Formula 1
-http://188.35.9.11:21151/udp/196d
 
 #EXTINF:-1 group-title="SPORTS",Formula Georgia
 https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
@@ -1585,10 +1545,6 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadi
 
 #EXTINF:-1 group-title="SPORTS",REAL MADRID
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?
-
-#EXTINF:-1 group-title="SPORTS",Nova Sport 1 HD
-http://185.150.27.124:9981/stream/channelid/678210075?profile=pass
-
 
 #EXTINF:-1 group-title="SPORTS",Turkmenistan Sport
 http://217.174.225.146/hls/ch004_720/index.m3u8
@@ -1875,9 +1831,6 @@ https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e82
 #EXTINF:-1 group-title="PREMIUM",Nasa
 http://wowza-feed09-nasa.pluto.tv/feed09/ngrp:nasa_all/playlist.m3u8
 
-#EXTINF:-1 group-title="PREMIUM",Nasa Media
-http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
-
 #EXTINF:-1 group-title="PREMIUM",National Geographic Albania
 http://5.135.92.133:52841/out/u/85_1.m3u8
 
@@ -1907,9 +1860,6 @@ http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Rai_Movie_-_Logo_2017.svg/240px-Rai_Movie_-_Logo_2017.svg.png" group-title="MOVIES",Ray Movie
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 
 #EXTINF:-1 group-title="MOVIES",JEET LIE
 http://js.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1_1200.m3u8
@@ -1988,15 +1938,6 @@ http://51.15.193.156/hls/stream.m3u8
 
 #EXTINF:-1 group-title="MOVIES",Premium Marathi
 https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ymarpre.stream_all/playlist.m3u8
-
-#EXTINF:-1 group-title="MOVIES",Rai Movie
-https://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-
-#EXTINF:-1 group-title="MOVIES",Rai Premium
-https://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
-
-#EXTINF:-1 group-title="MOVIES",Sur Sagar TV
-http://sursagar24.dyndns.tv:8080/sstv/720p/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES",Syria Drama
 http://82.137.248.16:1935/Drama/stream31122019/playlist.m3u8
@@ -2097,9 +2038,6 @@ http://122.155.180.8:5021/live/219
 
 #EXTINF:-1 group-title="PREMIUM",BS SKY PERFECT
 http://122.155.180.8:5021/live/58
-
-#EXTINF:-1 group-title="PREMIUM",Ray Movie
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 
 #EXTINF:-1 group-title="PREMIUM",HORROR MOVIE
 http://170.178.189.66:1935/live/Stream1/chunklist_w929463259.m3u8
@@ -2345,7 +2283,7 @@ https://156zy.suyunbo.tv/2018/12/09/JzPTMSJ5mcgs5sQx/playlist.m3u8
 #EXTINF:-1 group-title="PARTNER",AYSAR ATERRADOS
 https://156zy.suyunbo.tv/2018/12/08/EybOCprJGwI263ZG/playlist.m3u8
 
-#EXTINF:-1 group-title="PARTNER",AYSAR  VOID FINDER
+#EXTINF:-1 group-title="PARTNER",AYSAR  VOID FINDER
 https://156zy.suyunbo.tv/2018/12/06/58tT0cZjnMUVVIXp/playlist.m3u8
 
 #EXTINF:-1 group-title="PARTNER",AYSAR Rai Sport
@@ -2354,19 +2292,19 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=179975
 #EXTINF:-1 group-title="PARTNER",AYSAR Rai Sport Plus
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=4145
 
-#EXTINF:-1 group-title="PARTNER",AYSAR  GOLF
+#EXTINF:-1 group-title="PARTNER",AYSAR  GOLF
 http://161.0.157.6/PLTV/88888888/224/3221226812/index.m3u8
 
-#EXTINF:-1 group-title="PARTNER",AYSAR  SPORTS MAX
+#EXTINF:-1 group-title="PARTNER",AYSAR  SPORTS MAX
 http://161.0.157.6/PLTV/88888888/224/3221226766/index.m3u8
 
-#EXTINF:-1 group-title="PARTNER",AYSAR  Al Kass Sports
+#EXTINF:-1 group-title="PARTNER",AYSAR  Al Kass Sports
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
 
-#EXTINF:-1 group-title="PARTNER",AYSAR  Al Kass Sports 2
+#EXTINF:-1 group-title="PARTNER",AYSAR  Al Kass Sports 2
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
 
-#EXTINF:-1 group-title="PARTNER",AYSAR  Al Kass Sports 5
+#EXTINF:-1 group-title="PARTNER",AYSAR  Al Kass Sports 5
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
 
 #EXTINF:-1 group-title="PARTNER",TheBlaze
@@ -2875,4 +2813,3 @@ http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u
 
 #EXTINF:-1 group-title="X-X-X",Jasmin TV
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
-
